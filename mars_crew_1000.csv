@@ -1,0 +1,1001 @@
+id,birth_year,vocation,sun_deg,moon_deg,mercury_deg,venus_deg,mars_deg,jupiter_deg,saturn_deg,uranus_deg,neptune_deg,pluto_deg,aspects
+0,1993,Pilot,162.1813,213.772,150.4919,136.4031,254.5041,253.0755,163.4513,247.4586,332.608,283.6181,Sun sq Mars; Sun sq Jupiter; Sun conj Saturn; Mars conj Jupiter; Mars sq Saturn; Jupiter sq Saturn
+1,2000,Engineer,212.3243,289.406,195.4021,175.3428,80.9314,53.6362,95.6277,51.2051,21.4697,285.3463,Moon sq Mercury; Venus sq Mars
+2,1999,Physician,269.6248,204.9145,257.787,233.5627,247.9241,251.9041,339.3634,180.17,177.7663,28.9591,Mercury conj Jupiter; Mars conj Jupiter; Mars sq Saturn; Jupiter sq Saturn
+3,1981,Engineer,320.1922,264.4322,326.0002,274.6753,82.4128,242.7474,309.7861,211.3643,7.4684,275.3137,Sun conj Mercury; Moon opp Mars
+4,1988,Engineer,207.4489,274.7192,189.2596,209.2694,159.2026,100.1364,358.9004,156.9186,293.1282,348.8599,Sun conj Venus; Moon sq Mercury; Moon opp Jupiter; Moon sq Saturn; Mercury sq Jupiter
+5,1995,Pilot,125.266,119.991,134.7935,159.6084,118.7293,249.7225,103.7584,340.2697,292.8838,198.0348,Sun conj Moon; Sun conj Mars; Moon conj Mars; Venus sq Jupiter
+6,1994,Pilot,31.7015,90.8636,10.1931,57.8661,311.3678,296.9738,0.4144,312.9723,166.3115,19.5135,Sun sq Jupiter; Moon sq Saturn
+7,1996,Scientist,130.2406,272.3195,137.2635,155.1997,73.281,197.7191,333.9622,157.7218,251.37,43.7134,Sun conj Mercury; Venus opp Saturn
+8,2000,Scientist,219.1938,86.1471,200.063,224.0743,198.8105,33.5553,357.2126,328.6548,166.1212,42.2878,Sun conj Venus; Sun opp Jupiter; Moon sq Saturn; Mercury conj Mars
+9,1984,Engineer,179.4152,257.9772,179.912,157.664,300.5006,352.8881,87.7431,198.4554,138.091,331.8725,Sun conj Mercury; Sun opp Jupiter; Sun sq Saturn; Moon sq Jupiter; Mercury opp Jupiter; Mercury sq Saturn; Jupiter sq Saturn
+10,1996,Pilot,268.6653,278.163,288.5124,253.2933,283.5783,96.1822,0.9235,261.3784,301.4913,208.7724,Sun opp Jupiter; Sun sq Saturn; Moon conj Mars; Moon opp Jupiter; Mercury conj Mars; Mars opp Jupiter; Jupiter sq Saturn
+11,1995,Engineer,311.4938,160.7571,310.6169,295.408,274.6342,135.7956,335.8268,313.0566,353.0789,85.97,Sun conj Mercury; Sun opp Jupiter; Moon opp Saturn; Mercury opp Jupiter
+12,1992,Engineer,84.0825,15.713,97.786,103.7844,292.1072,138.9884,238.928,295.4691,353.0945,178.3183,Moon sq Venus; Mercury conj Venus
+13,1981,Engineer,45.4487,119.5181,23.0691,78.5724,35.8962,327.759,5.5251,51.8959,313.5359,349.1844,
+14,1982,Pilot,169.0166,348.9133,159.976,187.5163,233.9412,306.6355,306.8429,309.3632,136.8034,113.998,Sun opp Moon; Jupiter conj Saturn
+15,1995,Engineer,314.0579,227.218,337.6299,1.8108,268.8359,156.2297,35.4395,228.1492,314.1285,159.7243,Sun sq Moon; Mercury opp Jupiter; Venus sq Mars
+16,1989,Scientist,325.2327,286.6116,313.6613,313.2174,52.4051,191.2199,203.7341,285.307,61.1941,28.4286,Sun sq Mars; Moon sq Jupiter; Mercury conj Venus
+17,1992,Scientist,223.0957,86.6987,246.2142,188.835,166.014,91.4318,91.9176,3.3831,289.6679,324.4354,Moon conj Jupiter; Moon conj Saturn; Jupiter conj Saturn
+18,1997,Engineer,56.8712,159.0227,48.2229,65.2781,230.0179,152.7512,90.0354,304.3094,71.7181,138.4896,Sun opp Mars; Sun sq Jupiter; Moon sq Venus; Moon conj Jupiter; Mercury opp Mars; Venus sq Jupiter
+19,1995,Engineer,38.3952,137.2911,30.4969,18.7989,251.7405,7.8983,298.8135,142.4901,2.9153,311.4243,Sun conj Mercury; Mercury sq Saturn
+20,1981,Scientist,327.8221,268.262,346.4611,6.5039,279.2668,82.8426,288.6955,78.8416,68.4475,90.2256,Moon opp Jupiter; Venus sq Mars
+21,1984,Pilot,226.1693,325.2253,234.3644,207.8269,158.6963,208.6466,263.6495,32.448,106.2398,269.0931,Moon sq Mercury; Venus conj Jupiter
+22,1985,Scientist,72.2861,131.7087,72.3866,50.4488,59.236,329.0576,339.9076,348.2583,106.2509,313.3429,Sun conj Mercury; Sun sq Saturn; Mercury sq Saturn; Mars sq Jupiter
+23,1983,Scientist,168.5993,27.1078,182.8318,142.2583,243.4765,242.7862,143.0681,304.468,200.6325,32.509,Venus conj Saturn; Mars conj Jupiter
+24,1992,Engineer,5.0107,163.723,14.6891,21.5554,210.4416,296.0702,338.5051,39.0046,84.1759,9.0089,Moon opp Saturn; Mercury conj Venus; Venus sq Jupiter; Mars sq Jupiter
+25,1997,Pilot,118.0823,219.6296,126.3508,131.081,167.1363,252.3878,233.7262,42.0033,16.3249,13.3964,Moon sq Mercury; Moon sq Venus; Mercury conj Venus; Mars sq Jupiter
+26,1995,Engineer,41.8034,84.528,43.906,31.1134,133.5641,341.7771,250.7342,194.4693,211.4425,261.5757,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Jupiter sq Saturn
+27,1993,Scientist,235.7719,300.1295,242.2484,277.921,100.7065,248.501,78.2171,160.0905,85.0005,130.567,Sun conj Mercury; Mercury conj Jupiter; Venus opp Mars
+28,1991,Scientist,196.0077,352.0233,188.0934,186.2291,68.3311,43.9775,305.2919,163.6983,238.5967,231.0136,Sun conj Mercury; Mercury conj Venus
+29,1999,Scientist,349.5936,355.9755,5.6644,321.2933,298.7344,199.5148,211.0979,292.6991,83.8795,278.7727,Sun conj Moon; Mars sq Saturn
+30,1999,Engineer,1.0208,52.0877,340.3004,337.0836,62.819,237.9808,9.2809,5.3497,284.3945,85.6554,Moon opp Jupiter; Mercury conj Venus; Venus sq Mars; Mars opp Jupiter
+31,1990,Engineer,5.6812,95.5323,344.7797,358.0934,40.9138,22.8809,161.3791,130.334,213.7198,162.722,Sun sq Moon; Sun conj Venus; Mercury opp Saturn
+32,1987,Physician,340.3496,281.9617,0.9006,342.4089,164.8953,347.0494,21.8971,172.4335,144.5822,246.9951,Sun conj Venus; Sun opp Mars; Sun conj Jupiter; Venus opp Mars; Venus conj Jupiter; Mars opp Jupiter
+33,1995,Physician,256.4645,159.6824,278.8234,239.3872,53.4002,45.429,224.7543,210.7313,256.375,137.1256,Venus opp Mars; Mars conj Jupiter; Jupiter opp Saturn
+34,1999,Engineer,191.0005,163.3376,196.9044,152.5216,252.6406,307.0054,234.33,276.8266,259.5024,77.4083,Sun conj Mercury; Moon sq Mars
+35,1994,Scientist,319.7128,148.9729,338.0482,309.9909,262.6605,112.5174,112.5085,91.7603,343.2933,247.2556,Jupiter conj Saturn
+36,1995,Physician,24.168,33.5628,1.5756,47.0924,292.2369,200.2935,211.1274,202.1711,118.6726,44.0033,Sun sq Mars; Sun opp Jupiter; Sun opp Saturn; Moon opp Saturn; Mars sq Jupiter
+37,1991,Engineer,314.4987,338.8068,310.1831,354.4196,18.5206,103.5466,112.4816,37.2962,182.6685,55.7029,Sun conj Mercury; Mars sq Jupiter; Mars sq Saturn
+38,1995,Scientist,80.7282,38.9586,100.0691,68.014,274.538,206.676,290.5997,304.2559,350.8368,294.6337,Mercury opp Mars
+39,1999,Engineer,242.9916,200.4263,249.0953,258.1434,249.6496,10.4231,98.3773,274.4674,331.7535,126.3684,Sun conj Mercury; Sun conj Mars; Mercury conj Mars; Jupiter sq Saturn
+40,1985,Scientist,313.1506,203.8756,307.5945,278.7705,227.9419,11.0366,268.6002,77.4478,151.1397,122.7226,Sun conj Mercury; Sun sq Mars; Venus sq Jupiter
+41,1991,Scientist,112.1895,116.7778,136.9083,121.4269,318.0032,56.0088,271.5969,17.9145,29.3693,159.5207,Sun conj Moon; Moon conj Venus; Mercury opp Mars
+42,1993,Scientist,174.8382,159.1359,162.1356,199.3128,40.9743,154.7689,101.9687,244.2551,175.1878,240.1677,Moon conj Mercury; Moon conj Jupiter; Mercury conj Jupiter
+43,1981,Pilot,79.3866,19.7215,62.8343,122.1377,276.2458,275.0979,104.201,43.1944,179.0587,155.0358,Moon sq Saturn; Mars conj Jupiter; Mars opp Saturn
+44,1984,Scientist,136.8747,253.3217,136.8894,168.8767,290.2321,25.9472,310.2352,15.2288,6.747,331.6185,Sun conj Mercury; Sun opp Saturn; Moon sq Venus; Mercury opp Saturn; Mars sq Jupiter
+45,1990,Pilot,207.2733,206.4239,219.0052,199.3719,41.4624,7.5084,116.9165,288.476,222.5251,299.5293,Sun conj Moon; Sun conj Venus; Sun sq Saturn; Moon conj Venus; Moon sq Saturn; Mercury opp Mars
+46,1991,Scientist,31.7268,87.5939,36.7035,34.0272,142.476,111.6988,122.2248,119.9047,60.5278,183.774,Sun conj Mercury; Sun conj Venus; Sun sq Saturn; Mercury conj Venus; Mercury sq Saturn; Venus sq Saturn
+47,1983,Scientist,191.0177,69.8053,206.4865,176.7233,344.9604,232.3595,53.1683,37.0096,92.1486,62.4596,Moon sq Mars; Jupiter opp Saturn
+48,1984,Engineer,273.6775,235.9832,255.5977,299.8709,177.8821,271.6005,273.5558,161.6059,332.6955,203.217,Sun sq Mars; Sun conj Jupiter; Sun conj Saturn; Mars sq Jupiter; Mars sq Saturn; Jupiter conj Saturn
+49,2000,Engineer,355.1515,349.5503,344.8553,349.3687,168.8116,227.2986,286.6787,212.9111,126.6992,26.7086,Sun conj Moon; Sun conj Venus; Sun opp Mars; Moon conj Mercury; Moon conj Venus; Moon opp Mars; Mercury conj Venus; Mercury opp Mars; Venus opp Mars
+50,1994,Engineer,162.689,20.4804,181.264,122.0552,311.13,307.9056,221.403,182.5444,166.5762,199.5539,Venus opp Jupiter; Mars conj Jupiter; Mars sq Saturn; Jupiter sq Saturn
+51,1981,Scientist,161.9041,291.5337,170.407,144.7707,171.2265,54.31,22.2745,37.2607,323.6857,123.6376,Moon sq Saturn; Mercury conj Mars; Venus sq Jupiter
+52,1982,Engineer,181.6376,62.1212,167.5113,175.6624,158.1918,188.1893,57.1486,134.2267,101.8417,147.157,Sun conj Venus; Sun conj Jupiter; Moon conj Saturn
+53,1990,Pilot,244.4032,227.1192,235.1435,228.0535,200.8668,139.1631,90.7185,306.5639,347.1876,216.9723,Moon conj Venus; Moon sq Jupiter; Mercury conj Venus; Mercury sq Jupiter; Venus sq Jupiter
+54,1984,Engineer,120.0103,209.7862,99.9303,105.5931,348.3707,251.4528,141.1049,214.2148,337.6808,111.4495,Sun sq Moon; Mercury conj Venus
+55,1992,Pilot,231.6576,118.2516,210.814,251.1293,340.9591,358.9791,328.4813,33.6431,241.3642,183.0559,Moon sq Mercury; Venus sq Mars
+56,1980,Scientist,130.5352,64.8947,114.5299,173.5113,175.0575,81.5555,49.5235,27.7794,303.9942,36.4107,Venus conj Mars; Venus sq Jupiter; Mars sq Jupiter
+57,1997,Scientist,300.6431,318.1256,274.757,284.9725,275.8707,47.1777,135.6192,58.409,299.2842,277.5952,Moon sq Jupiter; Moon opp Saturn; Mercury conj Mars; Jupiter sq Saturn
+58,1985,Engineer,259.6259,131.1478,271.9227,304.7064,219.8144,270.8608,282.1681,84.2411,86.1007,347.6148,Moon opp Venus; Moon sq Mars; Mercury conj Jupiter; Venus sq Mars
+59,1995,Pilot,325.4308,244.1905,329.3742,319.7281,276.9979,280.1247,181.0464,150.7179,58.3409,71.8912,Sun conj Mercury; Sun conj Venus; Moon sq Mercury; Mars conj Jupiter; Mars sq Saturn
+60,1999,Pilot,49.8235,90.0012,57.7295,85.7387,199.6347,36.9323,304.5212,306.4198,102.6227,274.7221,Sun conj Mercury; Moon conj Venus; Jupiter sq Saturn
+61,1988,Physician,161.7549,184.807,180.2935,122.5594,327.7818,294.0132,318.4667,334.9699,149.3629,142.7234,Moon conj Mercury
+62,1991,Engineer,84.8801,134.9686,58.4586,126.2394,302.1035,233.9858,284.897,49.5359,103.2766,298.7142,Mercury opp Jupiter; Venus opp Mars
+63,1984,Pilot,273.1828,168.8796,279.6423,312.1451,6.8414,77.6357,53.8271,338.4813,219.1968,152.3717,Sun conj Mercury; Sun sq Mars; Moon sq Jupiter; Mercury sq Mars
+64,1989,Scientist,85.5505,43.8654,70.9031,98.8898,224.2118,22.6106,301.2076,179.9385,192.9794,227.5038,Moon opp Mars
+65,1998,Pilot,87.0977,51.6877,83.1351,98.1194,86.6031,149.9643,239.1737,30.821,350.8756,24.3646,Sun conj Mercury; Sun conj Mars; Moon opp Saturn; Mercury conj Mars; Jupiter sq Saturn
+66,1996,Engineer,195.8695,283.1084,196.2964,149.8216,314.3993,15.6724,139.2773,134.3889,269.034,128.5538,Sun sq Moon; Sun conj Mercury; Sun opp Jupiter; Moon sq Mercury; Moon sq Jupiter; Mercury opp Jupiter; Mars opp Saturn
+67,1982,Engineer,124.1289,263.8588,131.3113,150.193,264.6673,119.7067,15.9608,196.5649,292.8632,63.0321,Sun conj Mercury; Sun conj Jupiter; Moon conj Mars
+68,1994,Engineer,353.0949,257.7762,17.9368,308.6454,72.5728,284.7993,318.8845,113.6145,111.6273,143.3607,Sun sq Moon; Moon opp Mars; Mercury sq Jupiter
+69,1997,Engineer,170.4239,13.1835,178.6503,149.8906,310.3699,17.2095,236.0633,98.358,287.7633,157.3025,Moon conj Jupiter; Venus sq Saturn
+70,1992,Engineer,267.5908,322.0695,261.2429,313.0682,178.6332,179.1084,332.7518,186.9393,288.4133,261.7493,Sun conj Mercury; Sun sq Mars; Sun sq Jupiter; Mars conj Jupiter
+71,1982,Pilot,155.0186,64.9643,143.4695,116.868,118.0512,106.4304,160.5297,258.3586,59.9921,159.807,Sun sq Moon; Sun conj Saturn; Moon sq Saturn; Venus conj Mars
+72,1994,Pilot,15.2479,126.9214,43.1443,353.6052,352.8098,341.2456,27.0148,229.5045,130.792,288.3946,Venus conj Mars
+73,1985,Scientist,343.0042,218.7262,358.7577,298.3449,24.204,280.2655,131.8783,137.8276,204.2081,217.8341,Moon sq Saturn; Venus sq Mars
+74,1994,Engineer,341.5765,274.7104,345.7161,344.4046,143.2923,233.8419,89.8602,40.8415,264.8429,179.6558,Sun conj Mercury; Sun conj Venus; Moon opp Saturn; Mercury conj Venus; Mars sq Jupiter
+75,1992,Physician,328.8753,278.9872,340.3014,301.4741,220.2758,249.833,359.5064,72.0642,48.8622,26.6587,Mercury sq Jupiter
+76,1985,Engineer,323.5245,160.24,300.4407,340.9897,304.3876,115.0516,125.0731,23.3781,195.1817,320.8794,Moon opp Venus; Mercury conj Mars; Mercury opp Jupiter; Mercury opp Saturn; Mars opp Saturn
+77,1985,Pilot,256.2513,333.8368,263.9625,284.4461,183.1521,43.6905,72.3529,49.9957,284.5343,9.4622,Sun conj Mercury; Sun opp Saturn
+78,1997,Pilot,206.0199,168.2661,233.0685,170.4779,318.3287,23.6693,143.3376,258.0961,172.3194,147.8862,Sun opp Jupiter; Moon conj Venus; Mercury sq Mars; Mercury sq Saturn; Mars opp Saturn
+79,1993,Engineer,296.4022,350.0567,304.3731,291.5997,244.8392,124.0253,316.0657,280.8947,230.3258,65.5067,Sun conj Mercury; Sun conj Venus; Sun opp Jupiter; Mercury opp Jupiter
+80,1984,Pilot,155.7426,327.8564,130.8457,119.6621,55.0856,59.2765,116.1579,255.3596,124.5683,338.7255,Sun opp Moon; Moon sq Mars; Moon sq Jupiter; Venus conj Saturn; Mars conj Jupiter
+81,1989,Engineer,304.5361,228.6206,307.3833,268.5525,109.0169,192.0521,180.9263,60.7089,338.9785,55.5099,Sun conj Mercury; Venus sq Saturn
+82,1999,Pilot,259.4278,217.85,278.6095,265.5351,297.0851,10.2145,16.3662,230.9233,207.6376,234.4068,Sun conj Venus; Mercury sq Jupiter; Jupiter conj Saturn
+83,1998,Engineer,149.9712,230.0368,149.8614,162.179,104.2818,344.3941,173.8601,289.6877,246.5967,107.0762,Sun conj Mercury; Venus opp Jupiter
+84,1982,Engineer,247.9009,149.6238,245.9096,232.5594,51.7207,310.1346,114.9539,355.6884,124.3334,143.538,Sun conj Mercury; Venus opp Mars
+85,1991,Scientist,185.3928,38.2262,170.9302,149.155,161.8546,50.7159,18.2179,340.3386,311.099,150.5285,
+86,1985,Engineer,292.852,336.1506,305.2352,263.0761,57.3633,358.549,168.0534,316.4672,179.0533,32.4177,Venus sq Jupiter; Venus sq Saturn
+87,1992,Pilot,181.96,348.0072,166.0081,167.8379,18.1945,178.1619,317.6422,235.5336,169.4113,193.2087,Sun conj Jupiter; Moon opp Mercury; Moon opp Venus; Mercury conj Venus
+88,1983,Engineer,155.134,317.6841,167.8744,180.4642,131.7374,144.2094,205.3014,70.0759,199.1603,26.4714,Moon opp Mars; Moon opp Jupiter
+89,1996,Engineer,162.1276,197.9486,180.345,173.9588,219.9755,46.3188,34.8053,134.3514,355.2436,200.8195,Mercury conj Venus; Mars opp Jupiter; Mars opp Saturn
+90,1991,Pilot,271.7875,183.2841,271.7918,228.1366,49.3331,119.8947,170.5479,164.5159,218.2538,185.5821,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Venus opp Mars
+91,1990,Engineer,335.2927,221.9402,354.4785,344.2903,182.6334,183.4971,176.3448,202.6527,170.9613,5.9893,Mercury opp Saturn; Mars conj Jupiter; Mars conj Saturn; Jupiter conj Saturn
+92,1990,Engineer,242.5703,352.7633,247.2576,271.0588,261.1167,247.6957,9.593,170.8525,348.1455,281.8454,Sun conj Mercury; Sun conj Jupiter; Moon sq Mars; Mercury conj Jupiter
+93,1998,Engineer,207.9484,259.704,212.6257,176.3175,226.4491,223.1049,302.8202,53.1993,245.0617,11.3654,Sun conj Mercury; Sun sq Saturn; Mercury sq Saturn; Mars conj Jupiter
+94,1983,Engineer,68.6824,158.7739,64.1341,60.3265,73.401,180.655,220.1321,169.778,305.4157,261.8648,Sun sq Moon; Sun conj Mercury; Sun conj Mars; Moon sq Mercury; Moon sq Mars; Mercury conj Venus
+95,1984,Engineer,186.726,201.9192,214.6208,184.6496,135.6569,344.4068,165.4789,191.9257,196.6584,243.3127,Sun conj Venus; Jupiter opp Saturn
+96,2000,Physician,289.3149,174.3048,314.9258,268.0995,107.4597,338.9348,353.6137,277.6227,253.7643,248.4864,Sun opp Mars; Moon sq Venus; Moon opp Saturn; Venus sq Saturn
+97,1995,Engineer,114.1347,125.5691,138.4219,142.4936,98.4447,43.8747,243.584,136.6899,352.8578,294.6159,Mercury conj Venus; Mercury sq Jupiter
+98,1984,Physician,104.563,103.5469,116.5549,89.8139,159.2554,92.3198,172.4685,72.7445,193.8881,335.8886,Sun conj Moon; Venus conj Jupiter
+99,1988,Scientist,49.4183,221.6437,54.2808,24.6942,241.1402,191.1749,229.66,18.8968,148.7885,258.2489,Sun opp Moon; Sun conj Mercury; Sun opp Saturn; Mercury opp Mars; Mercury opp Saturn
+100,1983,Scientist,245.2291,347.2268,271.9921,212.3915,235.0414,317.0331,171.2519,234.1939,272.128,103.4082,Moon opp Saturn
+101,1989,Pilot,232.5233,326.8573,209.5331,239.6401,192.6548,260.3224,337.201,328.7627,63.0233,317.6082,Sun sq Moon; Sun conj Venus; Moon sq Venus
+102,1985,Engineer,336.2121,301.0332,352.3379,306.0981,269.6412,314.0246,104.2081,13.4878,107.4212,217.0019,Moon conj Venus; Venus conj Jupiter
+103,1990,Engineer,102.4422,195.5882,102.1013,144.544,306.3815,168.4875,69.4121,40.5528,58.4979,165.2092,Sun sq Moon; Sun conj Mercury; Moon sq Mercury
+104,1988,Engineer,258.6953,121.3604,247.2167,275.4379,69.5381,219.9436,229.9413,145.9765,153.9732,118.0536,Mercury opp Mars
+105,1992,Scientist,240.9321,66.5212,220.8064,223.9979,89.297,93.8827,84.7877,271.3524,343.4525,108.7005,Sun opp Moon; Mercury conj Venus; Mars conj Jupiter; Mars conj Saturn
+106,1998,Engineer,4.1169,22.3648,342.7375,345.5703,145.95,180.9074,322.2426,253.2805,111.9521,42.2697,Sun opp Jupiter; Mercury conj Venus; Mars opp Saturn
+107,1989,Engineer,132.3158,79.5057,157.928,130.2213,163.7923,355.9817,134.5049,252.6987,328.6069,272.6462,Sun conj Venus; Sun conj Saturn; Moon sq Mars; Mercury conj Mars; Venus conj Saturn
+108,1986,Pilot,274.2695,244.9231,279.6351,301.857,189.1824,190.1423,130.2426,330.2081,40.3952,298.3587,Sun conj Mercury; Sun sq Mars; Sun sq Jupiter; Mercury sq Mars; Mercury sq Jupiter; Mars conj Jupiter
+109,1996,Engineer,72.7764,193.1977,53.9905,106.8071,159.0626,244.9063,258.0905,175.9781,323.6002,160.3738,Sun sq Mars; Sun opp Jupiter; Sun opp Saturn; Moon sq Venus; Mars sq Jupiter
+110,1981,Engineer,163.2356,184.7692,160.8163,120.7784,166.4562,290.4895,260.3808,142.5415,293.9232,268.4896,Sun conj Mercury; Sun conj Mars; Mercury conj Mars; Mars sq Saturn
+111,1998,Engineer,26.2906,152.5311,37.5122,30.2423,21.692,321.9186,355.0094,169.9456,103.3527,64.7933,Sun conj Venus; Sun conj Mars; Mercury conj Venus
+112,1984,Engineer,275.698,352.2,283.8673,268.0527,357.4284,137.6927,313.0633,326.4362,135.2324,245.7829,Sun conj Venus; Moon sq Venus; Moon conj Mars; Venus sq Mars; Jupiter opp Saturn
+113,1997,Engineer,47.8763,42.7079,75.4757,37.61,45.845,352.3408,300.5358,272.2246,352.2566,166.6814,Sun conj Moon; Sun conj Mars; Moon conj Venus; Moon conj Mars
+114,1997,Scientist,152.6861,136.5395,137.5473,148.9061,55.8437,67.853,315.0749,275.5764,11.5982,237.6712,Sun conj Venus; Sun sq Jupiter; Moon conj Mercury; Moon opp Saturn; Mercury opp Saturn; Venus sq Mars
+115,1999,Engineer,275.7792,318.1524,248.6554,247.5631,36.3228,12.0875,215.2026,253.1831,17.5235,266.5948,Mercury conj Venus; Mars opp Saturn
+116,1992,Engineer,158.0266,194.3135,172.2722,184.5287,50.4488,357.654,84.2981,329.9029,207.3997,207.8909,Mercury opp Jupiter; Mercury sq Saturn; Venus opp Jupiter; Jupiter sq Saturn
+117,1990,Scientist,85.2855,187.6504,80.4448,63.7002,200.4185,213.0002,264.6764,63.0479,244.35,200.1062,Sun conj Mercury; Sun opp Saturn; Mercury opp Saturn
+118,1981,Engineer,350.0245,338.9711,359.6197,17.4617,114.7444,149.8769,53.7183,135.5257,271.5898,170.4668,
+119,1987,Scientist,108.2651,254.7276,125.3886,148.0803,202.4589,348.403,200.6232,48.2734,87.4291,73.2012,Sun sq Mars; Sun sq Saturn; Moon sq Jupiter; Mars conj Saturn
+120,2000,Engineer,28.4654,161.9233,21.2457,31.8864,298.5863,18.5532,135.7805,217.789,14.2371,26.2024,Sun conj Mercury; Sun conj Venus; Sun sq Mars; Mercury conj Jupiter; Venus sq Mars
+121,1998,Engineer,260.7499,201.1862,259.596,296.2194,119.8672,344.5271,5.5201,337.3775,346.3479,42.2338,Sun conj Mercury; Moon sq Venus; Mercury sq Jupiter; Venus opp Mars
+122,1995,Scientist,329.1989,250.4255,340.6099,319.2755,86.1591,115.7814,101.9013,167.8502,233.5397,111.032,Moon sq Mercury
+123,1991,Physician,184.614,179.0198,162.136,230.8205,169.0166,302.3032,329.159,133.4538,149.0149,202.5089,Sun conj Moon; Mercury conj Mars
+124,1987,Pilot,266.8509,199.1922,271.5566,287.972,106.2692,70.629,82.8067,205.1242,88.4628,198.2313,Sun conj Mercury; Sun opp Saturn; Moon sq Venus; Moon sq Mars; Venus opp Mars
+125,1990,Engineer,92.6376,231.01,92.111,60.7881,286.1912,60.9357,259.3129,175.7939,330.0838,195.1693,Sun conj Mercury; Venus conj Jupiter
+126,2000,Engineer,344.6053,188.62,3.5931,303.741,294.4785,17.4652,2.2982,49.497,227.0526,24.4685,Moon opp Mercury; Moon opp Saturn; Mercury conj Saturn
+127,1984,Engineer,3.2909,182.0639,356.1902,14.6031,240.0317,221.947,173.9535,175.6276,2.3804,198.5917,Sun opp Moon; Sun conj Mercury; Moon opp Mercury; Mercury opp Saturn
+128,1980,Scientist,6.0214,103.2079,6.1455,25.0159,155.0064,338.2963,64.5361,330.4976,188.7787,86.7488,Sun conj Mercury; Mars opp Jupiter; Mars sq Saturn; Jupiter sq Saturn
+129,1999,Engineer,189.5242,293.4772,176.4943,179.6262,134.2986,146.1699,203.4008,356.4839,81.3086,246.255,Moon sq Saturn; Mercury conj Venus
+130,1982,Scientist,235.3449,308.9589,249.8817,196.3209,136.535,198.9725,20.2014,3.4021,61.6981,179.949,Moon opp Mars; Venus conj Jupiter; Venus opp Saturn; Jupiter opp Saturn
+131,1993,Engineer,232.1666,119.2574,258.897,277.6552,322.1248,330.8948,82.7159,324.4583,249.2236,204.0423,Sun sq Mars; Mercury opp Saturn
+132,1988,Pilot,16.7623,26.7653,40.5951,55.0962,202.8636,11.8446,334.3559,113.2145,346.1289,211.333,Sun opp Mars; Sun conj Jupiter; Moon opp Mars
+133,1992,Scientist,334.395,203.025,338.13,7.9415,243.7326,194.6025,138.1846,266.3083,284.5793,248.1518,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Venus opp Jupiter
+134,1982,Pilot,180.2854,350.7564,155.2924,174.2459,301.9229,122.6134,276.842,343.749,142.8131,278.4798,Sun conj Venus; Moon opp Venus; Mars opp Jupiter
+135,1980,Pilot,228.2843,282.0773,225.5151,202.1855,199.0936,135.1537,66.8656,210.915,136.8262,277.9803,Sun conj Mercury; Sun sq Jupiter; Mercury sq Jupiter; Venus conj Mars
+136,1989,Pilot,287.2999,256.7191,263.894,254.1051,256.2038,228.2043,266.2759,114.0042,38.3583,1.8703,Moon conj Mercury; Moon conj Venus; Moon conj Mars; Mercury conj Mars; Mercury conj Saturn; Venus conj Mars
+137,1989,Scientist,160.1049,274.0847,137.8299,120.4854,155.1526,200.5146,184.4787,37.1855,32.2628,199.5191,Sun conj Mars; Moon sq Saturn
+138,1999,Scientist,215.2958,116.7949,208.8691,195.3131,139.6078,30.4918,324.409,325.8747,352.1423,205.9058,Sun conj Mercury; Sun opp Jupiter; Moon sq Mercury; Moon sq Jupiter; Mercury opp Jupiter; Mars opp Saturn
+139,1985,Physician,246.7138,96.8108,233.7445,212.7235,60.1947,99.3463,107.9108,281.76,130.005,339.92,Sun opp Mars; Moon conj Jupiter; Mercury opp Mars
+140,2000,Engineer,178.4889,222.0008,176.1291,143.4959,2.4363,142.4491,302.9808,136.7604,310.3914,158.4803,Sun conj Mercury; Sun opp Mars; Mercury opp Mars; Venus conj Jupiter
+141,1993,Engineer,293.5712,309.423,320.1278,258.6391,115.4395,341.0204,72.3065,113.106,347.2469,348.7411,Sun opp Mars; Venus opp Saturn; Jupiter sq Saturn
+142,1989,Engineer,264.5548,227.8449,290.7495,291.6243,117.319,100.9081,282.912,131.4056,335.5442,71.928,Mercury conj Venus; Mercury opp Mars; Mercury conj Saturn; Venus opp Mars; Jupiter opp Saturn
+143,1997,Engineer,64.7738,9.6898,77.4977,107.2994,75.4734,287.1668,299.2615,24.8971,305.2037,286.2164,Mercury conj Mars; Venus opp Jupiter
+144,1995,Engineer,50.1045,109.0198,36.2547,16.9022,152.3261,135.7167,161.664,215.2562,209.6078,192.3723,Sun sq Jupiter; Moon sq Venus
+145,1993,Physician,195.7123,284.6595,187.8459,233.6804,193.2862,229.7449,30.5935,276.8235,236.7366,127.8032,Sun sq Moon; Sun conj Mercury; Sun conj Mars; Moon sq Mars; Mercury conj Mars; Venus conj Jupiter
+146,2000,Scientist,220.564,202.7593,228.6858,234.6514,348.052,119.3748,286.6432,38.14,35.4984,79.9204,Mercury conj Venus
+147,1996,Pilot,200.8776,247.5592,185.2554,188.7931,166.7028,244.64,248.5574,54.2682,359.173,173.7976,Moon conj Jupiter; Moon conj Saturn; Mercury conj Venus; Jupiter conj Saturn
+148,1989,Engineer,149.7512,41.785,174.429,115.352,112.2805,163.9197,74.4722,173.8534,171.4185,157.7397,Venus conj Mars; Jupiter sq Saturn
+149,1994,Pilot,114.8074,108.0951,132.1778,77.8556,305.7048,233.2692,243.7702,59.1675,354.2042,87.8087,Sun conj Moon; Mercury opp Mars
+150,1985,Engineer,198.6877,119.1563,194.5644,195.0449,287.1921,226.7137,67.0993,236.6308,142.4097,265.4598,Sun conj Mercury; Sun conj Venus; Sun sq Mars; Mercury conj Venus; Mercury sq Mars; Venus sq Mars
+151,1986,Engineer,161.847,154.639,134.0962,134.4674,100.2041,253.3535,286.5629,207.8452,287.8208,193.28,Sun conj Moon; Sun sq Jupiter; Mercury conj Venus; Mars opp Saturn
+152,1991,Scientist,117.3546,164.7182,104.0464,152.1677,189.9774,230.0791,214.9095,220.071,211.3217,125.2529,Mercury sq Mars
+153,1994,Engineer,222.2506,292.9458,233.7859,202.8053,221.2144,30.5107,48.2212,42.4302,109.9368,65.896,Sun conj Mars; Sun opp Saturn; Moon sq Venus; Mercury opp Saturn; Venus opp Jupiter; Mars opp Saturn
+154,1984,Engineer,183.897,150.5661,163.6175,172.7331,66.8713,228.7806,249.6359,232.2936,359.9638,199.7685,Mercury sq Saturn; Mars opp Saturn
+155,1995,Pilot,103.9805,67.3555,123.1317,115.4439,311.588,342.6631,174.4592,70.2463,138.2199,202.1695,Moon sq Jupiter; Mercury conj Venus
+156,2000,Physician,178.1891,246.4908,173.4644,210.8188,175.9318,29.7614,11.1099,273.9804,105.1524,98.9471,Sun conj Mercury; Sun conj Mars; Mercury conj Mars; Venus opp Jupiter
+157,1997,Scientist,103.9213,281.0665,107.5977,130.0859,178.3128,183.8902,206.1771,96.44,195.5182,356.7217,Sun opp Moon; Sun conj Mercury; Moon opp Mercury; Mars conj Jupiter
+158,1997,Pilot,296.1399,258.8329,298.7357,343.1584,36.8699,298.8255,270.4844,107.1752,359.7526,161.9036,Sun conj Mercury; Sun conj Jupiter; Moon sq Venus; Mercury conj Jupiter
+159,1991,Engineer,310.3919,311.5046,288.9655,340.3332,75.5561,265.5407,248.0881,309.9775,219.6942,154.1401,Sun conj Moon; Venus sq Mars; Venus sq Saturn; Mars opp Saturn
+160,1999,Pilot,50.1246,74.3831,33.7134,7.8229,126.2936,101.1906,193.9567,116.5153,253.4594,104.16,Mercury sq Mars; Venus sq Jupiter; Venus opp Saturn; Jupiter sq Saturn
+161,1988,Scientist,342.863,185.1894,5.2717,13.1204,48.812,270.0339,148.1746,21.3429,99.8365,236.1227,Moon opp Mercury; Moon opp Venus; Moon sq Jupiter; Mercury conj Venus; Mercury sq Jupiter
+162,1984,Engineer,89.8838,256.1021,108.2788,114.9853,243.4444,176.2051,207.8732,96.7382,149.121,162.717,Sun sq Jupiter; Mercury conj Venus; Venus sq Saturn
+163,2000,Pilot,286.0555,276.7983,280.6152,310.0365,250.0933,315.8342,163.6904,175.696,209.504,312.8068,Sun conj Mercury; Moon conj Mercury; Venus conj Jupiter; Mars sq Saturn
+164,1982,Scientist,263.1355,165.0417,272.3276,249.5249,22.799,192.3928,78.4188,154.6715,76.2665,96.6733,Sun opp Saturn; Moon sq Venus; Moon sq Saturn
+165,1989,Pilot,121.5919,208.0561,125.2958,120.1843,123.7463,245.7187,17.4273,35.8469,282.2003,165.4494,Sun sq Moon; Sun conj Mercury; Sun conj Venus; Sun conj Mars; Moon sq Venus; Moon sq Mars; Mercury conj Venus; Mercury conj Mars; Venus conj Mars
+166,1983,Scientist,334.5958,164.3465,2.1388,327.6646,358.4499,327.3866,317.5732,108.6716,314.7924,315.5742,Sun conj Venus; Sun conj Jupiter; Mercury conj Mars; Venus conj Jupiter
+167,1982,Engineer,235.6517,90.1401,228.4749,274.4165,59.589,142.683,109.9833,251.7989,84.2918,235.9747,Sun conj Mercury; Sun opp Mars; Sun sq Jupiter; Moon opp Venus; Mercury sq Jupiter
+168,1983,Engineer,0.3911,171.6504,339.8223,334.1054,244.7938,3.3433,250.415,294.1592,355.7358,152.033,Sun conj Jupiter; Mercury conj Venus; Mercury sq Mars; Mercury sq Saturn; Venus sq Mars; Mars conj Saturn
+169,1984,Pilot,171.9721,82.4209,148.9746,201.3439,37.1526,132.3222,107.7319,137.7796,292.8125,314.819,Sun sq Moon; Venus sq Saturn; Mars sq Jupiter
+170,2000,Engineer,357.4585,190.983,329.933,11.8604,158.4358,260.0755,226.1088,54.4947,148.2156,247.1638,Moon opp Venus
+171,1986,Pilot,31.2077,36.1674,45.3446,39.8068,138.2515,346.7695,113.2213,50.3389,99.7084,30.3295,Sun conj Moon; Moon conj Venus; Mercury conj Venus; Mercury sq Mars
+172,1997,Scientist,216.3597,259.6247,204.3152,258.7225,9.6568,304.9452,315.2978,73.9605,218.4937,67.9127,Sun sq Jupiter; Moon conj Venus
+173,1992,Scientist,106.3951,19.6449,128.6782,150.0436,178.1596,40.5877,179.8497,213.8147,190.1831,351.9709,Sun sq Moon; Mercury sq Jupiter; Mars conj Saturn
+174,1991,Scientist,336.2128,309.893,340.0421,323.2924,245.8591,274.5813,343.6031,277.3321,6.0082,24.3117,Sun conj Mercury; Sun sq Mars; Sun conj Saturn; Mercury sq Mars; Mercury conj Saturn
+175,1988,Scientist,77.6675,143.271,65.7108,98.0798,276.1596,152.4871,144.8199,230.5934,193.5559,54.965,Moon conj Saturn; Mercury sq Jupiter; Venus opp Mars; Jupiter conj Saturn
+176,1982,Scientist,111.5665,184.0697,94.9455,141.1402,193.1005,140.6633,228.3459,300.4295,245.18,23.8014,Moon sq Mercury; Venus conj Jupiter; Venus sq Saturn; Jupiter sq Saturn
+177,1993,Engineer,262.785,304.7285,238.0277,223.0614,156.4141,163.2139,219.1797,111.3444,267.0097,266.6369,Moon sq Saturn; Venus conj Saturn; Mars conj Jupiter
+178,1983,Engineer,4.5594,49.3962,337.195,4.215,124.8138,186.2002,296.1025,93.3289,133.873,269.9195,Sun conj Venus; Sun opp Jupiter; Venus opp Jupiter
+179,1988,Pilot,263.8569,323.9631,254.6175,257.0721,188.5875,94.6619,351.0182,225.9118,178.6131,183.8815,Sun conj Venus; Sun sq Saturn; Mercury conj Venus; Venus sq Saturn; Mars sq Jupiter
+180,1981,Engineer,179.8596,204.079,172.4501,156.3507,37.0458,206.6084,260.2002,82.2256,183.177,15.8536,Sun conj Mercury; Moon conj Jupiter; Mercury sq Saturn
+181,1980,Engineer,88.0385,169.8353,81.4854,54.4467,335.2176,308.6947,199.0313,329.0212,266.6397,150.9729,Sun conj Mercury; Moon sq Mercury
+182,1990,Engineer,89.3747,115.1766,107.6306,96.2422,42.9843,242.3973,18.962,80.3466,185.6787,16.5343,Sun conj Venus; Moon conj Mercury; Mercury sq Saturn
+183,1992,Pilot,24.8135,167.4339,12.6227,57.9188,117.8283,199.1129,2.8689,72.2416,202.9704,109.4074,Sun sq Mars; Sun opp Jupiter; Mercury opp Jupiter
+184,1999,Engineer,87.3302,132.5785,113.7543,135.1178,279.3189,263.6868,196.7613,286.5505,54.2039,335.6631,Sun opp Jupiter; Moon conj Venus
+185,1980,Pilot,83.8792,124.7125,102.8953,120.0903,342.3565,0.5263,236.6294,305.6422,261.7974,37.4216,Moon conj Venus
+186,1996,Pilot,353.9217,346.0266,20.385,319.5895,100.7371,15.8041,83.3301,304.3815,148.7004,322.4081,Sun conj Moon; Sun sq Saturn; Mercury conj Jupiter; Mars sq Jupiter
+187,1994,Scientist,350.8397,295.1866,327.0302,357.3505,156.5938,347.1186,85.2378,93.9567,113.4032,288.2941,Sun conj Venus; Sun conj Jupiter; Sun sq Saturn; Venus sq Saturn
+188,1990,Pilot,114.5008,97.9041,90.6833,85.9612,280.7773,210.4949,55.9478,59.175,167.7798,146.3445,Sun sq Jupiter; Moon conj Mercury; Moon opp Mars; Mercury conj Venus
+189,1997,Pilot,128.9835,277.3212,126.2908,125.4648,306.8936,32.5515,290.7349,109.5174,253.6937,217.1889,Sun conj Mercury; Sun conj Venus; Sun opp Mars; Mercury conj Venus; Mercury opp Mars; Mercury sq Jupiter; Venus opp Mars; Venus sq Jupiter; Mars sq Jupiter
+190,1986,Pilot,300.9329,128.0674,301.6867,317.9425,93.66,356.6436,11.1896,145.5812,162.7924,269.3082,Sun opp Moon; Sun conj Mercury; Moon opp Mercury
+191,1987,Engineer,34.1011,36.6866,50.5544,357.7606,22.2009,281.1456,80.0237,71.3279,144.2095,247.0627,Sun conj Moon
+192,2000,Scientist,30.2542,26.9954,58.0952,1.2382,232.5553,291.3475,33.1123,305.0192,291.1994,44.11,Sun conj Moon; Sun conj Saturn; Moon sq Jupiter; Moon conj Saturn; Mercury opp Mars
+193,1994,Physician,18.2296,155.9363,30.7977,17.8577,137.7826,153.599,127.4196,326.9895,98.9934,160.5641,Sun conj Venus; Moon conj Jupiter
+194,1984,Scientist,12.4738,88.4825,0.9997,4.0251,198.2479,21.9525,100.7194,49.405,71.8048,318.4749,Sun opp Mars; Sun sq Saturn; Moon sq Mercury; Moon sq Venus; Mercury conj Venus; Mars opp Jupiter
+195,1996,Engineer,89.6932,195.7164,62.7869,78.413,256.8134,172.6864,281.3166,123.8523,203.6344,115.7776,Moon sq Saturn; Venus opp Mars; Venus sq Jupiter; Mars sq Jupiter
+196,1988,Physician,64.7337,114.7959,48.9988,102.7271,280.2738,21.0928,356.9513,190.5956,276.0632,359.8581,Moon sq Jupiter; Venus opp Mars
+197,1985,Scientist,36.0484,95.9497,53.7603,76.1053,20.1271,358.7011,78.9882,304.7418,287.0606,127.7297,Venus conj Saturn
+198,1985,Engineer,63.3961,213.307,80.5439,82.3683,329.0328,10.1544,252.2019,341.1211,202.8983,202.7192,Sun sq Mars; Mercury conj Venus
+199,1986,Pilot,301.2109,291.7444,327.5526,305.2548,63.2004,13.6669,20.2205,216.5986,7.1741,172.076,Sun conj Venus; Moon sq Saturn; Mercury sq Mars; Jupiter conj Saturn
+200,1990,Pilot,330.4426,258.0975,353.8944,3.4939,116.492,7.8886,211.1793,330.2007,278.7719,304.7331,Moon sq Mercury; Venus conj Jupiter; Mars sq Saturn
+201,1991,Scientist,345.8012,339.0924,339.9545,307.5002,108.6355,49.1226,56.7014,341.5297,285.0633,345.8384,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Jupiter conj Saturn
+202,2000,Scientist,114.222,254.5859,117.6928,151.6236,220.9352,128.4572,239.5914,293.2035,136.2183,264.2382,Sun conj Mercury; Venus sq Saturn; Mars sq Jupiter
+203,1989,Engineer,45.8454,140.9765,73.5253,90.5031,11.6578,216.8599,331.5738,348.3114,79.5223,203.5981,Sun sq Moon
+204,1995,Scientist,50.6316,85.6785,77.6449,18.7488,318.7153,31.9414,255.2277,230.077,319.1953,160.7868,Sun sq Mars; Mercury opp Saturn
+205,1988,Scientist,75.4863,249.5434,67.1133,103.0403,259.3489,17.3331,157.7593,151.0752,59.8818,149.0469,Sun opp Moon; Sun opp Mars; Moon opp Mercury; Moon sq Saturn; Mercury sq Saturn; Venus sq Jupiter
+206,1992,Pilot,126.4432,135.1251,144.8564,154.1613,208.1,272.9677,81.2098,162.4635,287.71,12.0286,
+207,1980,Pilot,114.7381,26.7121,96.264,102.782,263.5146,196.9367,323.3247,33.5177,213.851,220.9121,Sun sq Moon; Mercury conj Venus; Venus sq Jupiter
+208,1995,Pilot,253.6217,155.2764,262.2252,263.9242,156.3121,19.2801,119.194,350.7834,147.3408,199.4805,Moon conj Mars; Mercury conj Venus
+209,1997,Engineer,95.4953,101.3483,80.798,52.2603,205.8371,302.3476,55.2924,129.8984,153.9381,106.0378,Sun conj Moon; Venus conj Saturn
+210,2000,Physician,216.0776,71.8829,189.5188,184.4775,105.0521,29.497,303.7569,111.0072,143.0882,176.0749,Sun opp Jupiter; Sun sq Saturn; Mercury conj Venus; Mercury sq Mars; Jupiter sq Saturn
+211,1988,Engineer,32.8093,195.8854,15.1626,69.8166,132.9846,160.4791,94.7865,167.4209,81.4472,96.6823,Moon opp Mercury; Venus sq Jupiter
+212,1981,Scientist,54.407,34.8129,63.8229,83.9923,149.0352,272.3245,81.9046,21.9541,139.3582,188.1296,Sun sq Mars; Mercury sq Mars; Venus conj Saturn
+213,1997,Engineer,247.3445,337.0901,251.4165,221.9661,107.5868,142.1296,307.4183,12.5023,205.6392,186.0543,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Venus sq Saturn
+214,1998,Engineer,243.9126,223.2983,222.6483,268.6027,62.2364,354.3725,349.9794,291.0459,45.427,152.415,Sun opp Mars; Moon conj Mercury; Venus sq Jupiter; Jupiter conj Saturn
+215,1993,Engineer,72.6909,53.2362,78.0136,55.3869,261.7571,290.6437,31.3299,200.2911,198.7395,308.3847,Sun conj Mercury; Moon conj Venus; Mercury opp Mars
+216,1996,Scientist,164.9366,314.4479,180.9834,176.7501,188.1223,151.0538,149.1993,53.3519,211.6563,273.0159,Mercury conj Venus; Mercury conj Mars; Jupiter conj Saturn
+217,1983,Engineer,332.9741,202.5662,310.6296,312.4391,192.8281,123.7929,147.9204,137.8957,174.8105,219.2264,Sun opp Saturn; Mercury conj Venus; Mercury opp Jupiter
+218,1981,Engineer,61.9919,145.0706,68.6136,79.3499,144.6192,142.4854,316.4247,248.585,17.7448,171.0785,Sun conj Mercury; Moon conj Mars; Moon conj Jupiter; Mars conj Jupiter; Jupiter opp Saturn
+219,1988,Pilot,322.9313,294.2589,311.9024,301.8446,176.9829,250.6258,35.3583,312.804,48.3788,350.719,Moon conj Venus; Venus sq Saturn
+220,1994,Engineer,278.6511,115.5126,291.4639,288.7291,32.1433,159.018,328.8358,146.5813,174.4057,185.9405,Moon opp Mercury; Moon opp Venus; Mercury conj Venus
+221,1991,Pilot,295.5663,185.4971,276.4687,277.4341,182.4463,48.8339,306.4663,316.5597,10.4213,69.3948,Moon sq Mercury; Moon sq Venus; Moon conj Mars; Mercury conj Venus; Mercury sq Mars; Venus sq Mars
+222,1986,Engineer,301.3116,164.3215,324.7213,320.9565,98.6319,296.4623,181.8455,228.7475,44.5942,11.0027,Sun conj Jupiter; Mercury conj Venus
+223,1991,Engineer,175.9632,160.5972,201.7524,173.5231,198.4801,123.9296,301.5554,93.1176,299.1133,32.5411,Sun conj Venus; Mercury conj Mars; Jupiter opp Saturn
+224,1980,Engineer,139.1636,58.6467,143.2101,183.7957,308.56,233.0568,243.9703,96.8701,147.4226,7.2188,Sun conj Mercury; Sun sq Jupiter; Moon sq Mercury; Moon opp Jupiter; Moon opp Saturn; Mercury sq Jupiter
+225,1980,Engineer,170.675,47.6331,152.3742,199.558,80.5572,219.0038,339.4818,256.5866,255.3726,99.1363,Sun sq Mars; Mercury opp Saturn
+226,1992,Engineer,306.571,165.2393,290.7907,287.577,187.4296,224.4982,210.4154,2.6451,359.7946,347.9348,Mercury conj Venus
+227,1991,Scientist,202.1246,213.7581,189.9545,219.8282,173.4258,121.0621,99.534,117.0493,99.6786,236.2031,Moon conj Venus; Moon sq Jupiter; Mercury sq Saturn
+228,2000,Scientist,107.5648,53.9745,122.4314,145.9348,289.9547,288.8509,216.012,237.7909,245.0721,259.662,Sun opp Mars; Sun opp Jupiter; Moon sq Venus; Mercury sq Saturn; Mars conj Jupiter
+229,2000,Scientist,179.0542,106.4177,201.8413,169.8957,265.2236,209.8885,358.1113,293.7653,123.5401,256.8129,Sun sq Mars; Sun opp Saturn; Moon sq Mercury; Venus sq Mars; Mars sq Saturn
+230,1997,Engineer,229.7929,171.2647,254.4703,216.2086,108.0701,61.1952,236.7413,200.9693,105.7623,169.4811,Sun conj Saturn; Jupiter opp Saturn
+231,1988,Engineer,261.0672,201.2514,284.1742,303.9718,323.8528,235.5965,80.0113,80.3981,313.7156,151.3701,Sun opp Saturn; Mars sq Jupiter
+232,1990,Engineer,133.8057,210.8055,131.7763,97.1127,19.3237,228.3828,208.9127,223.4357,169.9991,70.0358,Sun conj Mercury; Sun sq Jupiter; Moon conj Saturn
+233,1983,Engineer,312.2992,137.4009,301.0071,269.4891,307.5263,49.4515,72.1068,147.3091,204.9853,326.3835,Sun opp Moon; Sun conj Mars; Moon sq Jupiter; Mercury conj Mars
+234,1994,Engineer,51.5607,64.9284,28.0861,35.4931,355.1905,112.8291,20.8849,162.7392,75.3777,278.4752,Mercury conj Venus; Mercury sq Jupiter; Mercury conj Saturn; Jupiter sq Saturn
+235,1998,Pilot,275.2141,176.2478,289.974,235.6661,221.2127,228.0555,145.2217,347.518,137.9939,13.5811,Venus conj Jupiter; Venus sq Saturn; Mars conj Jupiter
+236,1986,Scientist,263.0373,342.0247,284.9896,287.6946,191.1722,6.4498,1.4846,264.0972,81.4557,315.7146,Mercury conj Venus; Mercury sq Mars; Mars opp Jupiter; Jupiter conj Saturn
+237,1989,Engineer,46.4151,138.0782,51.3806,14.449,296.5838,107.3528,104.698,262.0195,214.6932,121.6207,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Venus sq Jupiter; Venus sq Saturn; Jupiter conj Saturn
+238,1984,Scientist,123.3838,129.3303,105.9357,166.3999,330.5539,145.221,82.2306,261.7808,47.2341,264.2676,Sun conj Moon; Venus sq Saturn; Mars opp Jupiter
+239,1998,Engineer,181.6681,44.3383,193.4902,209.7123,135.0693,230.5156,277.6499,224.3285,213.8127,17.2657,Sun sq Saturn; Moon sq Mars; Moon opp Jupiter; Mercury sq Saturn; Mars sq Jupiter
+240,1983,Engineer,235.2843,248.3099,230.6238,223.7887,197.0217,170.7827,55.1258,250.2691,226.9121,108.4019,Sun conj Mercury; Sun opp Saturn; Mercury conj Venus; Mercury opp Saturn
+241,1983,Engineer,238.4939,97.1918,244.4094,203.6616,299.035,37.7691,258.7558,42.3844,41.0445,38.2549,Sun conj Mercury; Venus sq Mars
+242,1986,Engineer,219.2407,280.0652,237.8046,264.6601,128.8519,147.5122,57.7345,197.33,327.7284,247.7534,Sun sq Mars; Mercury sq Jupiter; Mercury opp Saturn; Jupiter sq Saturn
+243,1995,Scientist,119.0173,0.9857,128.6288,158.0778,300.6836,240.8479,53.692,32.4298,184.2139,260.4829,Sun opp Mars; Mercury opp Mars; Jupiter opp Saturn
+244,1983,Engineer,325.7206,231.9612,323.2986,11.5405,95.085,18.0289,292.7442,314.6906,306.8095,129.6773,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Venus conj Jupiter; Jupiter sq Saturn
+245,1990,Pilot,153.3583,41.7244,173.028,190.8263,3.482,49.822,232.9915,118.3179,322.0299,343.8321,Venus opp Mars; Jupiter opp Saturn
+246,1988,Engineer,316.2512,293.3871,298.4919,306.7258,346.4316,97.8599,138.8576,306.2418,287.9637,233.5847,Sun opp Saturn; Moon conj Mercury
+247,1985,Engineer,40.7004,21.1127,65.4785,8.0023,149.77,212.6701,288.8153,244.2215,65.2538,136.7103,Moon sq Saturn; Mercury sq Mars
+248,1991,Engineer,220.089,310.5273,241.3662,241.9078,321.0346,173.9087,175.7242,319.5338,158.6476,22.801,Sun sq Moon; Mercury conj Venus; Jupiter conj Saturn
+249,2000,Engineer,113.1257,253.6445,123.0897,138.8084,207.5936,203.4044,352.0424,241.144,121.7882,188.3171,Sun sq Mars; Sun sq Jupiter; Mercury sq Mars; Mars conj Jupiter
+250,1999,Scientist,34.2872,89.4877,25.6491,51.2115,138.5556,302.0519,201.0039,355.605,19.6438,231.6235,Sun sq Jupiter; Mercury opp Saturn; Venus sq Mars
+251,1985,Engineer,182.0043,168.944,181.7711,149.8831,270.5148,115.4282,119.1221,100.1366,182.4946,198.1784,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Jupiter conj Saturn
+252,1992,Engineer,145.1797,84.6,142.889,174.1008,161.3155,308.3721,160.9445,42.7345,179.0544,235.2143,Sun conj Mercury; Moon sq Venus; Mars conj Saturn
+253,1983,Engineer,145.2383,12.8995,147.9878,176.5255,285.042,346.7416,229.5137,320.4399,202.4397,235.6546,Sun conj Mercury; Sun sq Saturn; Moon sq Mars
+254,1994,Pilot,342.1278,163.6056,345.4963,353.6246,170.3281,236.5802,257.7289,41.0484,273.3552,79.829,Sun opp Moon; Sun conj Mercury; Sun sq Saturn; Moon opp Mercury; Moon conj Mars; Moon sq Saturn; Mercury opp Mars; Mercury sq Saturn; Venus opp Mars; Venus sq Saturn; Mars sq Saturn
+255,1990,Scientist,127.85,228.118,144.6451,132.4283,134.6005,38.276,322.8758,177.272,295.8619,267.3039,Sun conj Venus; Sun conj Mars; Sun sq Jupiter; Moon sq Venus; Moon sq Mars; Moon sq Saturn; Mercury opp Saturn; Venus conj Mars; Venus sq Jupiter
+256,1993,Scientist,38.5061,67.5156,62.5983,28.2242,164.5366,281.3113,258.0436,38.7957,149.2093,333.5856,Moon conj Mercury; Mars sq Saturn
+257,1998,Scientist,44.3589,164.6596,49.3606,44.7619,346.9877,1.5615,265.037,199.1615,155.8117,210.6435,Sun conj Mercury; Sun conj Venus; Moon opp Mars; Mercury conj Venus
+258,1996,Engineer,281.1893,327.6653,291.9311,249.8598,293.4879,37.2794,236.7079,218.2179,115.8638,317.3006,Moon sq Saturn; Mercury conj Mars
+259,1993,Engineer,352.6203,329.7277,7.3133,330.8855,346.8937,349.377,163.0245,48.0139,148.5884,252.0051,Sun conj Mars; Sun conj Jupiter; Moon conj Venus; Mars conj Jupiter; Mars opp Saturn; Jupiter opp Saturn
+260,1996,Physician,107.6087,252.538,127.8084,127.9487,336.7843,227.73,72.3201,224.7003,104.6086,124.3057,Moon sq Mars; Moon opp Saturn; Mercury conj Venus; Mars sq Saturn
+261,1984,Pilot,353.2808,234.0311,18.9471,353.6545,249.9523,116.0573,41.5459,126.8056,172.9332,205.4297,Sun conj Venus
+262,1993,Engineer,242.7277,321.7918,244.6262,278.9655,152.0591,4.5974,38.3294,137.1133,19.1034,20.3777,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Venus sq Jupiter
+263,1988,Pilot,270.0666,103.1816,256.098,302.6473,248.6141,106.2506,271.2938,11.6303,293.0494,36.8928,Sun conj Saturn; Moon conj Jupiter; Mercury conj Mars
+264,1997,Scientist,311.3429,267.2686,314.7741,286.1521,282.3506,287.5758,103.5499,239.2177,333.5345,139.5197,Sun conj Mercury; Venus conj Mars; Venus conj Jupiter; Venus opp Saturn; Mars conj Jupiter; Mars opp Saturn; Jupiter opp Saturn
+265,1990,Engineer,347.7,267.7212,331.0728,23.1096,309.7601,159.503,81.1975,228.1639,255.4364,132.3868,Sun sq Saturn; Moon opp Saturn
+266,1998,Engineer,196.7814,217.2193,212.2457,241.3533,105.904,63.8733,245.7572,67.3116,62.5662,184.9849,Sun sq Mars; Moon conj Mercury; Venus opp Jupiter; Venus conj Saturn; Jupiter opp Saturn
+267,1992,Engineer,14.6283,100.4804,1.4257,342.0775,304.5651,2.0322,167.8793,337.498,14.3786,334.3062,Sun sq Moon; Mercury conj Jupiter; Venus opp Saturn
+268,1999,Scientist,18.308,176.5983,22.3779,4.6842,282.2513,114.4292,79.1863,66.1929,24.5435,181.8505,Sun conj Mercury; Mercury sq Jupiter
+269,1993,Pilot,195.5089,145.2301,187.0754,232.3149,238.8004,119.184,105.6868,342.111,222.581,170.9486,Sun sq Saturn; Moon sq Venus; Moon sq Mars; Venus conj Mars
+270,1997,Scientist,296.5278,353.208,269.0208,312.7459,160.4402,325.6187,220.9324,223.6074,345.2029,245.7185,Moon sq Mercury; Venus sq Saturn
+271,1990,Engineer,137.2941,286.6344,115.6431,113.9268,260.6312,8.8941,186.0724,277.378,185.1513,183.1448,Moon opp Venus; Mercury conj Venus; Jupiter opp Saturn
+272,1995,Engineer,15.7866,69.3045,16.5647,58.8149,60.2621,344.2594,193.6709,2.639,23.5699,241.3206,Sun conj Mercury; Sun opp Saturn; Moon sq Jupiter; Mercury opp Saturn; Venus conj Mars
+273,1986,Engineer,311.3823,152.7154,289.2022,315.0067,252.9874,351.4406,279.0744,232.762,338.3104,268.8807,Sun conj Venus
+274,1984,Engineer,8.5511,13.6391,344.653,337.6383,90.6869,25.3592,295.783,327.9552,146.7478,162.4052,Sun conj Moon; Mercury conj Venus; Jupiter sq Saturn
+275,1992,Pilot,155.889,6.0807,165.5937,159.2331,230.9122,222.6058,272.1458,210.8189,252.3175,26.1322,Sun conj Venus; Moon sq Saturn; Mercury conj Venus
+276,1996,Engineer,38.2088,108.4863,15.0531,63.6751,157.5634,142.2408,237.8603,170.6356,192.0484,49.0973,Moon sq Mercury; Venus sq Mars; Venus opp Saturn; Jupiter sq Saturn
+277,1992,Scientist,286.8374,305.8083,275.3562,299.7057,107.3003,319.3121,347.5315,312.17,233.2586,344.661,Sun opp Mars; Moon conj Venus
+278,1980,Pilot,199.2687,199.8251,178.1699,151.7516,214.7958,193.3747,340.9126,109.6888,269.3868,325.2767,Sun conj Moon; Sun conj Jupiter; Moon conj Jupiter
+279,1991,Pilot,76.2253,51.2838,58.5289,87.4463,90.987,41.2641,241.552,204.2254,19.5798,270.3751,Moon conj Mercury; Mercury opp Saturn; Venus conj Mars
+280,1997,Engineer,166.0555,197.8793,154.332,124.5223,35.3529,261.2121,175.3885,119.1063,46.1575,235.9703,Sun sq Jupiter; Venus sq Mars; Jupiter sq Saturn
+281,1983,Pilot,102.6494,25.1312,85.4853,101.292,118.2046,237.392,249.6449,54.8622,204.0703,290.7719,Sun conj Venus; Moon sq Mars
+282,1993,Engineer,60.7102,112.7573,76.7072,81.0813,230.7019,99.6047,129.415,244.6489,119.3627,172.7834,Mercury conj Venus
+283,1994,Scientist,129.147,109.9698,132.0406,98.0209,218.386,303.0455,309.1369,50.4006,193.9025,94.7645,Sun conj Mercury; Sun sq Mars; Sun opp Jupiter; Sun opp Saturn; Mercury sq Mars; Mercury opp Saturn; Mars sq Jupiter; Mars sq Saturn; Jupiter conj Saturn
+284,2000,Scientist,27.5265,27.144,0.5698,28.2156,11.2299,209.4806,145.8484,212.4131,326.2693,198.5738,Sun conj Moon; Sun conj Venus; Sun opp Jupiter; Moon conj Venus; Moon opp Jupiter; Venus opp Jupiter
+285,1997,Scientist,321.8349,194.2838,330.4538,288.1037,141.2994,320.9175,212.2563,308.5791,48.1973,180.4043,Sun opp Mars; Sun conj Jupiter; Moon sq Venus; Mars opp Jupiter
+286,1982,Pilot,142.8427,180.7802,151.9527,176.2489,290.3544,221.053,59.7037,185.0892,160.6394,64.4923,Moon conj Venus; Mercury sq Saturn
+287,1998,Scientist,237.3888,348.3848,250.6003,235.8051,129.1664,78.7749,175.5512,22.63,132.9967,15.411,Sun conj Venus; Moon sq Jupiter; Moon opp Saturn
+288,1986,Engineer,186.4387,284.9258,180.1719,226.5573,317.3587,14.3657,233.4689,37.161,348.6389,228.0841,Sun conj Mercury; Sun opp Jupiter; Moon sq Jupiter; Venus sq Mars; Venus conj Saturn
+289,1988,Scientist,300.554,195.966,282.2896,315.3068,131.5068,235.2012,300.7689,185.9986,135.4784,326.6073,Sun conj Saturn; Moon sq Mercury; Venus opp Mars
+290,1996,Scientist,146.1032,294.2052,137.425,174.1983,319.3819,2.3752,317.5323,158.3635,82.7967,185.2349,Sun opp Mars; Mercury opp Mars; Mercury opp Saturn; Mars conj Saturn
+291,1988,Pilot,76.1462,67.286,68.4306,97.0072,42.5989,82.9247,292.0221,259.292,173.346,172.3733,Sun conj Mercury; Sun conj Jupiter; Moon conj Mercury
+292,1986,Scientist,212.6847,233.0133,207.6951,188.0771,46.0386,213.2452,48.5007,184.5514,320.6872,52.8714,Sun conj Mercury; Sun conj Jupiter; Moon opp Mars; Moon opp Saturn; Mercury conj Jupiter; Mars conj Saturn
+293,1985,Engineer,92.9735,64.8135,118.6348,102.5118,202.8977,6.7032,259.037,238.2282,102.0437,30.8695,Sun sq Jupiter; Mercury sq Mars; Venus sq Jupiter
+294,1994,Engineer,218.3493,169.7088,217.3228,191.4082,147.8761,51.3764,209.7526,276.2964,224.3562,183.8898,Sun conj Mercury; Mercury conj Saturn
+295,1985,Engineer,260.7072,123.3617,258.1016,269.4045,82.733,138.7663,39.0852,72.8455,309.453,181.5694,Sun conj Mercury; Sun opp Mars; Moon sq Saturn; Mercury opp Mars; Venus opp Mars
+296,1993,Engineer,297.5451,217.984,279.4807,336.0995,215.933,315.9909,191.3148,270.8579,33.5484,237.3813,Moon conj Mars; Mercury sq Saturn
+297,1999,Physician,194.143,337.5845,204.1423,187.5667,151.4462,314.9367,251.1514,154.4243,337.8318,173.5644,Sun conj Venus; Moon opp Mars; Moon sq Saturn
+298,1992,Engineer,126.1864,289.6636,149.0265,158.5567,207.4035,153.1762,91.6265,275.7092,327.6307,30.1743,Mercury conj Jupiter; Venus conj Jupiter
+299,1999,Engineer,315.6359,147.1128,298.221,335.7142,284.1921,208.0754,42.4183,2.5899,235.6366,247.596,Sun sq Saturn; Mercury sq Jupiter
+300,1990,Engineer,147.1842,38.37,143.0442,155.3798,94.069,192.9978,203.2813,220.277,357.0475,143.0835,Sun conj Mercury
+301,1986,Pilot,148.7621,282.1638,147.7803,136.3026,199.7681,91.36,110.3951,123.9683,253.9781,264.8817,Sun conj Mercury; Mars sq Saturn
+302,1983,Engineer,269.2131,160.7742,280.3746,236.7454,77.2049,144.2019,121.8376,198.2074,250.9407,254.4444,Venus sq Jupiter
+303,1985,Pilot,140.0773,228.9156,157.122,171.1098,169.8007,216.0884,31.7306,94.7131,133.5006,219.2504,Sun sq Moon; Venus conj Mars; Jupiter opp Saturn
+304,1992,Engineer,335.0466,236.2231,323.0889,19.5455,20.6867,278.499,63.0976,177.9726,3.8557,306.2043,Sun sq Saturn; Moon sq Mercury; Moon opp Saturn; Venus conj Mars
+305,1996,Scientist,102.9623,12.0994,108.5352,104.4805,83.4016,61.0138,12.982,86.1324,0.1034,56.6801,Sun sq Moon; Sun conj Mercury; Sun conj Venus; Sun sq Saturn; Moon sq Venus; Moon conj Saturn; Mercury conj Venus; Mercury sq Saturn; Venus sq Saturn
+306,1988,Scientist,280.6822,127.126,274.8103,288.9459,186.3874,265.2932,24.7022,32.4597,102.4178,298.7153,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Venus sq Saturn
+307,1998,Engineer,125.3143,99.5428,131.2706,95.9887,334.697,206.9664,93.9987,146.5685,38.3274,26.0589,Sun conj Mercury; Moon conj Venus; Moon conj Saturn; Venus conj Saturn
+308,1989,Engineer,122.3877,42.1232,123.1318,99.1263,193.6452,285.6201,90.0509,159.3967,135.7489,174.1068,Sun conj Mercury; Venus sq Mars; Venus opp Jupiter; Mars sq Jupiter
+309,1987,Pilot,272.6904,346.0459,270.3859,268.9195,211.2575,9.8463,41.8566,24.3195,228.1182,357.9113,Sun conj Mercury; Sun conj Venus; Mercury conj Venus
+310,1987,Engineer,288.0581,148.4733,279.8315,291.4807,252.2947,94.8059,103.4242,143.615,269.5637,123.1174,Sun conj Venus; Sun opp Saturn; Mercury opp Jupiter; Mercury opp Saturn
+311,1997,Pilot,335.3026,171.56,327.1008,13.157,96.8673,340.9625,245.9186,327.5739,179.6398,71.88,Sun conj Jupiter; Sun sq Saturn; Jupiter sq Saturn
+312,1987,Scientist,314.1873,222.6949,294.9231,276.4295,331.2677,243.2924,238.8327,220.9777,275.1279,194.9306,Sun sq Moon; Mars sq Jupiter; Mars sq Saturn; Jupiter conj Saturn
+313,1981,Engineer,305.2838,133.6308,294.9472,343.5034,317.1554,206.827,98.9039,65.8339,275.1344,184.0081,Moon opp Mars; Mercury sq Jupiter
+314,1992,Engineer,79.9534,207.5995,54.9857,108.6833,172.1952,194.6765,180.8911,141.7381,247.0819,62.9281,Sun sq Mars; Venus sq Jupiter
+315,1983,Pilot,251.368,165.6254,261.9638,204.5028,75.8709,209.163,117.157,220.6001,93.4923,197.4828,Sun sq Moon; Sun opp Mars; Moon sq Mars; Mercury opp Mars; Venus conj Jupiter; Venus sq Saturn; Jupiter sq Saturn
+316,1987,Engineer,96.987,123.5147,79.2861,89.6855,150.8735,270.7905,131.4281,144.2133,162.2624,205.7075,Sun conj Venus; Sun opp Jupiter; Moon conj Saturn; Venus opp Jupiter
+317,1998,Scientist,246.9643,293.1086,259.33,276.1567,199.9224,308.2711,70.5828,288.0135,265.8751,170.2753,Sun opp Saturn; Moon sq Mars
+318,1980,Engineer,63.5786,179.8552,91.3301,97.1201,186.1225,259.4017,282.7199,108.0123,202.3698,204.4204,Moon sq Mercury; Moon conj Mars; Mercury conj Venus; Mercury sq Mars; Venus sq Mars; Venus opp Saturn
+319,1992,Pilot,35.6309,58.8031,19.6971,12.0427,302.0298,34.6687,268.0536,93.5169,129.7104,200.6969,Sun sq Mars; Sun conj Jupiter; Mercury conj Venus; Mars sq Jupiter
+320,1988,Scientist,123.8905,148.2339,115.5516,141.1307,218.0074,207.6674,233.9516,193.8378,352.5743,102.4591,Sun sq Mars; Moon conj Venus; Moon sq Saturn; Mercury sq Jupiter; Venus sq Saturn
+321,1990,Engineer,242.3494,175.4977,255.5949,279.7541,137.1856,103.1485,227.4164,52.1454,60.3272,290.7782,Venus opp Jupiter; Mars sq Saturn
+322,1990,Engineer,151.8539,220.4316,146.5212,190.9329,28.4803,123.7052,112.8535,235.0847,255.7561,217.9386,Sun conj Mercury; Mars sq Jupiter; Mars sq Saturn
+323,1992,Engineer,97.6493,160.1634,117.9665,84.5131,211.2911,347.5894,149.0361,66.199,8.3164,261.9981,Moon opp Jupiter; Mercury sq Mars
+324,1988,Engineer,338.5574,252.2509,315.0411,306.5808,37.0834,22.9653,316.3288,197.4361,9.4914,142.9245,Sun sq Moon; Mercury conj Saturn; Venus sq Mars
+325,1982,Engineer,37.4142,30.3521,61.5832,26.8395,82.5681,265.5336,159.5378,45.5082,189.6272,61.4189,Sun conj Moon; Moon conj Venus; Mars opp Jupiter
+326,1981,Engineer,238.8777,309.7328,229.089,236.5885,350.9934,194.6103,98.0692,160.1442,349.0352,251.1442,Sun conj Venus; Mercury conj Venus
+327,1985,Scientist,212.6991,164.3556,226.6382,248.9193,156.5919,230.3231,192.1623,327.2123,173.3946,81.7662,Moon sq Venus; Moon conj Mars; Mercury conj Jupiter; Venus sq Mars
+328,1982,Scientist,159.0697,131.682,145.6189,140.2127,0.0332,293.5367,305.2607,123.7986,168.9113,2.9942,Moon opp Saturn; Mercury conj Venus
+329,1995,Engineer,340.9047,171.7441,313.4161,334.2265,105.4521,83.2375,2.5985,134.5118,148.2249,201.7996,Sun conj Venus; Moon sq Jupiter
+330,1992,Engineer,89.9626,257.3777,98.1381,121.4916,79.4133,28.5155,225.1163,185.9796,287.9853,220.7578,Moon opp Mars; Venus sq Jupiter
+331,1988,Engineer,102.4837,267.4537,119.777,94.1224,307.2535,65.6666,104.2543,229.2814,222.3826,97.9683,Sun conj Saturn; Moon opp Venus; Mercury opp Mars
+332,1999,Engineer,177.1186,115.4317,157.6389,222.2113,7.9671,350.0397,101.5612,45.0141,157.83,2.9535,Sun opp Jupiter; Mars sq Saturn
+333,1982,Physician,54.2461,177.6886,45.3932,36.1575,287.8064,359.2668,166.9264,284.9129,118.8895,303.6767,Moon opp Jupiter
+334,1984,Engineer,20.1738,25.6985,18.502,350.6243,302.9541,294.2103,298.1707,43.9062,276.5324,89.6264,Sun conj Moon; Sun conj Mercury; Sun sq Jupiter; Moon conj Mercury; Moon sq Jupiter; Moon sq Saturn; Mercury sq Jupiter; Mars conj Saturn; Jupiter conj Saturn
+335,1994,Pilot,88.9784,71.7048,102.1565,49.9986,239.7628,75.041,140.0843,346.037,337.0375,57.1001,Moon conj Jupiter; Venus sq Saturn
+336,1981,Engineer,268.1008,197.8488,246.9408,266.2989,107.5727,129.7536,18.7515,240.0101,350.3787,84.9477,Sun conj Venus; Moon sq Mars; Moon opp Saturn; Mars sq Saturn
+337,1993,Physician,116.8249,60.2497,104.2865,80.3112,284.0918,3.2147,15.1176,282.0511,171.0974,214.6364,Mercury opp Mars; Mercury sq Saturn; Mars sq Saturn
+338,1991,Scientist,277.4869,179.9709,287.8998,261.9754,349.0746,273.4417,21.6188,127.9864,55.4106,193.0872,Sun conj Jupiter; Moon sq Jupiter; Mercury sq Saturn; Venus sq Mars
+339,1983,Engineer,45.2979,83.7629,72.2717,72.9998,272.4111,289.9891,157.9388,69.4675,248.13,128.9403,Mercury conj Venus; Mercury sq Saturn; Venus sq Saturn
+340,1984,Engineer,90.2506,14.2159,101.8217,95.917,195.3843,176.4331,204.0126,195.7034,116.5251,168.6221,Sun conj Venus; Sun sq Jupiter; Moon sq Mercury; Moon opp Mars; Mercury conj Venus; Mercury sq Mars
+341,1999,Scientist,329.2106,199.6273,305.0677,296.0931,106.4422,94.8057,132.1606,0.2591,229.6894,136.4557,Moon sq Mars; Mercury opp Saturn
+342,1985,Engineer,317.8557,223.1045,310.2439,329.3946,115.4499,22.803,348.1787,294.8579,68.353,245.9607,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Mars sq Jupiter
+343,1997,Pilot,55.4873,101.9265,50.4364,38.4017,34.6523,237.2008,15.7598,337.6078,64.31,11.2586,Sun conj Mercury; Sun opp Jupiter; Moon sq Saturn; Mercury opp Jupiter; Venus conj Mars
+344,1983,Engineer,174.7333,35.5513,178.71,207.0181,236.8517,189.2957,252.473,92.1379,131.8874,218.1433,Sun conj Mercury
+345,1982,Engineer,4.711,168.5013,12.4903,351.3599,267.6519,320.555,295.9295,285.9298,20.988,222.096,Sun conj Mercury; Moon opp Venus
+346,1996,Scientist,14.6351,25.3397,3.6538,57.3171,345.8112,34.9629,261.0619,191.398,68.2057,189.4291,Mars sq Saturn
+347,1987,Scientist,205.21,341.1012,208.4817,210.7916,268.599,275.862,207.5629,242.8173,252.9181,153.747,Sun conj Mercury; Sun conj Venus; Sun conj Saturn; Mercury conj Venus; Mercury conj Saturn; Venus conj Saturn; Mars conj Jupiter
+348,1983,Pilot,60.0514,64.9428,54.5386,44.4526,56.9435,359.4361,159.4844,126.8367,113.4558,356.9267,Sun conj Moon; Sun conj Mercury; Sun conj Mars; Moon conj Mars; Moon sq Saturn; Mercury conj Mars
+349,1990,Engineer,304.1474,148.4436,311.6089,335.4583,116.4423,86.6601,196.4254,135.0227,198.0859,268.0482,Sun conj Mercury; Sun opp Mars; Moon opp Venus
+350,1991,Engineer,346.1946,261.4728,13.2402,355.3879,186.3394,357.6283,108.663,108.1202,79.8792,308.0594,Sun sq Moon; Moon sq Venus; Mercury opp Mars; Mercury sq Saturn; Venus conj Jupiter
+351,1980,Pilot,277.7483,339.6052,295.7992,317.9831,184.0577,205.4406,205.7803,33.9434,165.7331,56.1986,Sun sq Mars; Mercury sq Jupiter; Mercury sq Saturn; Jupiter conj Saturn
+352,1988,Engineer,132.1498,209.5761,117.1975,162.013,33.0858,143.9274,330.4374,264.3357,260.489,285.4455,Moon sq Mercury; Moon opp Mars; Mercury sq Mars; Jupiter opp Saturn
+353,1985,Engineer,175.7795,323.6487,187.139,206.453,34.3311,231.2117,13.4538,291.0028,137.3566,280.8439,Moon sq Jupiter; Mercury opp Saturn; Venus opp Mars
+354,1990,Scientist,125.2549,294.171,120.5801,160.5667,313.1231,81.6184,235.0005,216.8286,4.1164,279.8707,Sun conj Mercury; Sun opp Mars; Moon opp Mercury
+355,1992,Pilot,19.4861,188.778,9.3678,25.7177,117.6594,251.1967,55.1511,242.5087,359.0522,349.5745,Sun conj Venus; Moon opp Mercury; Venus sq Mars
+356,1999,Engineer,207.0917,32.4299,203.2801,234.5831,53.2845,121.0205,171.3077,268.3134,197.3349,94.5209,Sun opp Moon; Sun conj Mercury; Sun sq Jupiter; Moon sq Jupiter; Venus opp Mars
+357,1992,Scientist,180.6563,278.577,159.9573,145.6039,201.3466,175.63,234.8094,70.5957,221.7589,264.8404,Sun conj Jupiter; Venus sq Saturn
+358,1987,Scientist,87.2334,95.8526,83.3171,104.9683,207.3666,40.5108,148.8895,131.4964,68.5763,124.029,Sun conj Mercury
+359,2000,Scientist,8.7145,109.7348,36.023,19.8717,356.4573,159.1956,52.4947,16.1559,294.5419,71.8867,Moon sq Venus
+360,1991,Engineer,56.1568,30.8932,69.5734,31.4895,223.5609,53.1637,299.6801,103.5666,123.5777,289.5411,Sun conj Jupiter; Moon conj Venus; Moon sq Saturn; Venus sq Saturn
+361,1989,Engineer,162.0222,8.1893,145.7267,165.6707,73.3685,188.3757,93.1169,173.8895,262.7725,50.8851,Sun conj Venus; Sun sq Mars; Moon opp Jupiter; Moon sq Saturn; Venus sq Mars; Jupiter sq Saturn
+362,1980,Pilot,135.5784,189.6477,121.884,93.349,72.2506,250.7496,97.6613,167.3859,340.2635,23.9752,Moon sq Saturn; Venus conj Saturn; Mars opp Jupiter
+363,1988,Engineer,238.6734,328.6328,230.8457,201.031,105.2984,318.0248,139.1484,352.7254,183.0745,255.488,Sun sq Moon; Sun conj Mercury; Mercury sq Jupiter; Mercury sq Saturn; Venus sq Mars; Jupiter opp Saturn
+364,1990,Pilot,174.4784,214.9583,151.4075,145.5704,348.0449,201.8475,256.4889,14.3109,332.0172,109.7739,Sun opp Mars; Mercury conj Venus; Mars sq Saturn
+365,1995,Engineer,141.6239,56.5219,133.0436,127.4076,225.0831,85.0337,352.1679,180.4505,292.2814,225.2853,Sun sq Moon; Mercury conj Venus; Mercury sq Mars; Jupiter sq Saturn
+366,1992,Engineer,320.5448,293.3491,294.1948,325.8189,100.8698,54.6149,322.9831,236.4954,31.6062,137.5946,Sun conj Venus; Sun sq Jupiter; Sun conj Saturn; Moon conj Mercury; Venus sq Jupiter; Venus conj Saturn; Jupiter sq Saturn
+367,1999,Engineer,314.1725,247.1484,309.5432,321.1708,153.5274,112.4578,217.9328,161.7009,47.438,234.8902,Sun conj Mercury; Sun conj Venus; Moon sq Mars; Mercury sq Saturn
+368,1998,Scientist,194.8874,288.0378,215.1923,176.5512,253.8491,188.57,48.6909,358.4469,351.2797,52.2549,Sun sq Moon; Sun conj Jupiter
+369,1998,Engineer,330.1604,200.6425,355.2821,293.5255,114.3351,316.6697,261.7486,275.5566,316.8475,149.0545,Moon sq Venus; Moon sq Mars; Mercury sq Saturn; Venus opp Mars
+370,1993,Pilot,109.2053,268.4195,127.2204,122.3427,265.8023,54.7045,67.6561,47.3565,9.4314,354.944,Moon conj Mars; Mercury conj Venus
+371,1999,Pilot,96.0705,204.1355,81.0016,70.3601,247.456,129.3341,247.7309,171.5768,180.8369,217.6962,Venus opp Mars; Venus opp Saturn; Mars conj Saturn
+372,2000,Engineer,134.6254,306.7666,134.1463,99.8266,69.5735,11.6026,275.234,5.4051,97.1491,148.6958,Sun opp Moon; Sun conj Mercury; Moon opp Mercury; Venus sq Jupiter; Venus opp Saturn
+373,1986,Engineer,272.7996,333.7572,299.9947,308.044,176.3794,116.9624,164.7162,88.8422,145.752,15.0575,Mercury opp Jupiter
+374,1992,Engineer,259.2723,141.8943,283.8641,266.178,193.0174,230.9018,253.4805,13.8643,39.3539,164.4842,Sun conj Venus; Sun conj Saturn; Moon sq Jupiter; Mercury sq Mars
+375,1981,Scientist,316.0008,193.6329,343.0953,271.7689,139.4632,275.4576,346.5332,68.3461,158.2394,318.3831,Sun opp Mars; Mercury conj Saturn; Venus conj Jupiter
+376,1989,Physician,166.085,152.0864,172.4205,123.3215,186.1091,51.2063,298.7617,162.6113,260.1528,40.7418,Sun conj Mercury; Venus opp Saturn
+377,1998,Engineer,337.6233,250.6011,317.2005,329.325,162.3189,64.3963,212.5136,256.5484,72.6955,163.686,Sun sq Moon; Sun opp Mars; Sun sq Jupiter; Moon sq Mars; Moon opp Jupiter; Venus sq Jupiter
+378,1988,Engineer,116.6669,233.4875,128.5092,84.4103,263.9744,32.8288,254.2416,228.2661,30.7104,254.6205,Mercury sq Jupiter; Venus opp Mars
+379,1996,Engineer,220.3461,57.5639,223.1655,176.5611,61.5186,120.6695,313.6699,310.5621,58.3647,52.0587,Sun conj Mercury; Sun sq Saturn; Moon conj Mars; Mercury sq Saturn
+380,1981,Pilot,151.0494,111.4266,166.0927,145.8902,225.523,42.3194,47.3656,73.0266,224.1217,91.12,Sun conj Venus; Mars opp Jupiter; Mars opp Saturn; Jupiter conj Saturn
+381,1994,Engineer,179.1459,179.5112,196.3634,189.5124,177.648,78.0746,237.4094,163.3459,159.0751,216.438,Sun conj Moon; Sun conj Mars; Moon conj Mars; Mercury conj Venus
+382,1980,Engineer,88.0967,197.043,94.8036,93.6214,297.0909,17.6108,53.3722,235.1797,13.2196,307.3785,Sun conj Mercury; Sun conj Venus; Moon opp Jupiter; Mercury conj Venus
+383,1998,Engineer,301.6852,331.3385,276.431,293.7131,64.1694,241.9526,219.9923,248.9449,214.1888,283.4307,Sun conj Venus; Moon sq Mars; Moon sq Jupiter; Mars opp Jupiter
+384,1985,Scientist,347.8656,269.7605,340.0361,303.3062,276.6643,116.2159,323.1107,295.2953,273.0391,303.5915,Sun conj Mercury; Moon conj Mars; Venus opp Jupiter
+385,1982,Engineer,105.4198,48.4365,116.3185,83.764,189.739,188.8726,250.4986,220.3393,39.3488,262.7023,Sun sq Mars; Mars conj Jupiter
+386,2000,Pilot,190.4208,31.5611,202.9689,200.4795,283.7465,254.45,153.7393,305.2073,93.4776,207.0514,Sun sq Mars; Mercury conj Venus
+387,1999,Scientist,127.3872,46.6967,130.8947,129.279,227.4687,177.3016,64.7666,219.3861,255.0913,352.5328,Sun conj Mercury; Sun conj Venus; Moon sq Mercury; Moon opp Mars; Mercury conj Venus
+388,1980,Scientist,42.5546,167.3588,59.1716,65.3515,74.6391,221.5109,149.2676,16.3772,125.874,290.1757,Sun opp Jupiter; Moon sq Mars; Mercury conj Venus; Mercury sq Saturn
+389,1986,Engineer,4.067,72.4274,351.8381,31.9258,110.7981,182.4083,116.6126,2.2073,246.9009,122.8902,Sun opp Jupiter; Venus sq Saturn; Mars conj Saturn
+390,1998,Engineer,221.7576,63.2265,212.2664,206.1995,242.0903,329.8187,287.0116,232.4348,173.3384,225.7922,Moon opp Mars; Moon sq Jupiter; Mercury conj Venus; Mars sq Jupiter
+391,1997,Pilot,322.5343,166.4892,340.1276,3.6021,20.168,187.5864,203.3794,244.1511,199.8638,6.7386,Moon opp Mercury; Venus opp Jupiter; Mars opp Saturn
+392,1998,Scientist,246.7776,287.8327,268.5072,232.7228,349.0608,100.9656,11.2223,354.1028,225.5439,303.2661,Moon opp Jupiter; Jupiter sq Saturn
+393,1998,Scientist,218.0481,67.4564,196.5914,245.1531,110.9813,308.815,255.5424,97.7391,31.2472,315.7375,Sun sq Jupiter; Moon opp Venus; Mercury sq Mars
+394,1991,Engineer,162.6863,342.2616,146.7901,143.7088,40.4033,282.5798,280.0045,328.8074,159.7587,8.9765,Sun opp Moon; Mercury conj Venus; Jupiter conj Saturn
+395,1995,Engineer,325.7841,174.0499,346.7213,307.5785,117.8417,277.0133,35.3706,353.6185,185.8128,357.3793,Moon opp Mercury; Venus sq Saturn
+396,1986,Pilot,260.8454,165.3726,272.8114,262.9905,1.4796,335.6414,247.3388,213.9435,31.3473,168.0753,Sun sq Moon; Sun conj Venus; Mercury sq Mars; Jupiter sq Saturn
+397,1981,Pilot,37.117,8.0929,51.5927,50.4467,75.5444,72.2,103.1643,191.6193,278.2034,241.6047,Moon sq Saturn; Mercury conj Venus; Mars conj Jupiter
+398,1988,Engineer,53.7555,98.5093,26.6098,65.5582,185.0618,74.3679,126.1145,114.6546,50.9605,253.5673,Moon sq Mars
+399,1989,Pilot,206.6699,61.659,196.107,244.3252,194.6078,18.2614,10.4374,325.1853,18.1642,138.0959,Moon opp Venus; Mercury conj Mars; Mercury opp Jupiter; Mercury opp Saturn; Mars opp Jupiter; Mars opp Saturn; Jupiter conj Saturn
+400,1982,Scientist,153.5277,64.4339,158.9105,162.4323,301.0228,251.7716,221.8735,112.4786,294.2791,256.6435,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Moon opp Jupiter; Mercury conj Venus; Mercury sq Jupiter; Venus sq Jupiter
+401,1997,Scientist,28.2764,204.4041,5.4797,57.3021,251.4958,35.0147,111.741,231.9907,275.9377,169.3965,Sun opp Moon; Sun conj Jupiter; Moon sq Saturn
+402,1987,Engineer,51.7398,92.899,44.093,21.3417,330.2152,118.9181,309.885,116.914,175.5024,23.5315,Sun conj Mercury; Mercury sq Saturn
+403,1983,Engineer,126.5187,166.047,108.0836,152.2411,217.5985,45.8618,37.0556,294.319,286.8328,117.3131,Sun sq Mars; Sun sq Saturn; Mars opp Saturn
+404,2000,Pilot,25.5326,108.7625,23.3472,34.2241,85.8871,87.7288,57.2473,173.6549,23.7816,74.9657,Sun conj Mercury; Moon sq Mercury; Mars conj Jupiter
+405,1998,Scientist,155.2135,204.196,146.3767,173.8502,62.3108,241.0579,266.1721,256.2872,301.2293,41.1562,Sun sq Mars; Sun sq Jupiter; Mercury sq Mars; Mercury sq Jupiter; Venus sq Saturn; Mars opp Jupiter
+406,1999,Engineer,166.647,199.8316,184.6803,135.5597,344.118,25.0587,39.1481,293.064,277.6836,136.408,Sun opp Mars; Moon opp Jupiter
+407,1995,Engineer,232.1961,78.3402,211.9754,239.9498,271.7959,291.5422,272.548,237.9173,163.0708,104.9412,Sun conj Venus; Mars conj Saturn
+408,1999,Engineer,208.0553,70.44,218.2202,190.4487,205.2995,328.7535,109.638,339.6,156.5017,353.7289,Sun conj Mars; Mars sq Saturn
+409,1991,Scientist,356.5041,209.7817,2.7476,357.5048,305.1492,306.9019,22.4678,324.3873,348.4438,0.3036,Sun conj Mercury; Sun conj Venus; Moon sq Mars; Moon opp Saturn; Mercury conj Venus; Mars conj Jupiter
+410,1997,Scientist,295.4712,129.3281,315.7011,330.5764,84.6868,252.7999,141.9366,114.5258,137.8043,137.3634,Moon opp Mercury; Mercury opp Saturn
+411,1997,Engineer,76.0378,62.4276,55.8256,81.3583,303.598,129.7036,150.2048,103.8495,314.1848,45.1977,Sun conj Venus; Moon conj Mercury; Moon sq Saturn; Mercury sq Saturn; Mars opp Jupiter
+412,1980,Scientist,25.8286,5.6548,38.2236,24.5519,157.2246,356.4784,30.4788,231.2074,149.708,164.1703,Sun conj Venus; Sun conj Saturn; Mercury conj Saturn; Venus conj Saturn
+413,1999,Scientist,334.912,224.3695,332.358,327.6279,295.2257,138.4973,81.2667,152.9179,2.6748,179.3365,Sun conj Mercury; Sun conj Venus; Moon sq Jupiter; Mercury conj Venus
+414,1987,Scientist,256.3668,96.9302,280.2544,263.6966,12.0463,13.6314,173.9765,132.6883,208.8968,346.2256,Sun conj Venus; Moon opp Mercury; Moon sq Mars; Mercury sq Mars; Mercury sq Jupiter; Venus sq Saturn; Mars conj Jupiter
+415,1982,Pilot,51.1515,167.3771,27.5326,88.5834,31.8407,170.0826,267.007,345.748,28.1095,228.1276,Moon conj Jupiter; Mercury conj Mars; Venus opp Saturn
+416,1998,Engineer,112.4999,18.9987,103.7385,139.2385,168.7928,184.5587,168.9237,264.1732,151.5658,345.8093,Sun sq Moon; Moon sq Mercury; Mars conj Saturn
+417,1989,Scientist,104.115,12.7174,127.7955,128.0599,261.7098,202.9343,22.1104,170.3378,60.8685,18.5832,Sun sq Moon; Mercury conj Venus; Jupiter opp Saturn
+418,1989,Pilot,291.2025,224.7541,279.2642,251.1235,182.0146,306.5203,100.0256,47.714,101.1499,308.829,Mercury opp Saturn
+419,1980,Scientist,266.9145,217.3758,289.8819,289.8554,237.296,133.1161,63.1438,281.71,85.0305,65.0913,Moon sq Jupiter; Mercury conj Venus; Mars opp Saturn
+420,1996,Pilot,310.3252,336.2191,290.9576,309.9362,357.6908,277.3324,85.6611,158.4666,229.5269,75.9084,Sun conj Venus; Mars sq Saturn
+421,1991,Pilot,19.5573,95.1824,37.451,336.5995,167.0454,171.4435,171.4558,341.3706,332.0853,84.1181,Mars conj Jupiter; Mars conj Saturn; Jupiter conj Saturn
+422,1992,Engineer,170.8522,52.2539,191.5878,123.9911,333.8001,161.5754,244.2576,346.2346,245.8355,14.7663,Mars opp Jupiter; Mars sq Saturn
+423,1997,Scientist,229.4727,344.2261,225.6527,269.6047,309.008,120.5883,96.1516,35.3796,235.5636,140.8154,Sun conj Mercury; Venus opp Saturn
+424,1987,Engineer,264.3528,211.9407,247.2687,248.7439,248.5002,64.77,197.1405,242.2087,299.4082,4.3061,Mercury conj Venus; Mercury conj Mars; Mercury opp Jupiter; Venus conj Mars; Venus opp Jupiter; Mars opp Jupiter
+425,1983,Engineer,189.0951,246.7798,180.7801,210.7192,90.6826,12.255,222.983,20.4775,213.8899,321.8281,Sun opp Jupiter; Mercury sq Mars
+426,1986,Engineer,342.176,229.7098,353.8282,305.6938,308.3187,46.7666,236.3021,323.963,203.7848,348.1796,Moon opp Jupiter; Moon conj Saturn; Venus conj Mars
+427,1983,Engineer,250.4353,91.2009,248.5848,292.3088,229.961,332.1703,99.4981,153.714,325.2209,277.157,Sun conj Mercury
+428,1990,Scientist,92.6412,99.8235,68.1349,81.9459,358.5451,92.9659,292.6083,64.0546,24.9835,352.5919,Sun conj Moon; Sun sq Mars; Sun conj Jupiter; Moon conj Jupiter; Mars sq Jupiter
+429,1986,Engineer,219.7087,64.2392,219.2639,185.5204,276.7346,78.6191,231.6017,328.5393,257.5441,37.1834,Sun conj Mercury; Venus sq Mars
+430,1982,Scientist,25.3484,6.7553,25.2197,40.0235,0.3124,13.6208,140.5742,54.5787,118.7391,140.8789,Sun conj Mercury; Moon conj Mars; Moon conj Jupiter
+431,1980,Engineer,185.5379,338.368,185.0159,179.3994,303.8577,281.1373,282.7374,194.4463,1.1906,343.4959,Sun conj Mercury; Sun conj Venus; Sun sq Jupiter; Mercury conj Venus; Jupiter conj Saturn
+432,1995,Pilot,43.6333,192.7095,71.163,27.6435,109.0181,19.8701,358.9257,232.9468,131.5279,307.2031,Moon opp Jupiter; Venus conj Jupiter; Mars sq Jupiter
+433,1990,Engineer,28.9644,165.4702,43.8889,43.1525,63.5826,14.1592,138.2989,68.7611,250.5176,322.7259,Mercury conj Venus; Mercury sq Saturn; Venus sq Saturn
+434,2000,Engineer,247.9833,175.1413,269.5553,242.0298,68.2072,12.8514,9.1313,358.6981,85.8546,139.9563,Sun conj Venus; Sun opp Mars; Moon sq Mercury; Venus opp Mars; Jupiter conj Saturn
+435,1997,Engineer,231.6267,179.8863,257.6642,261.5574,347.9667,5.9106,122.1426,121.5787,259.5643,145.9828,Moon opp Jupiter; Mercury conj Venus; Mercury sq Mars; Venus sq Mars
+436,1986,Scientist,290.5573,240.2339,288.2261,307.6528,314.7319,53.6233,208.5645,332.9337,13.276,50.9726,Sun conj Mercury; Moon opp Jupiter; Venus conj Mars
+437,2000,Scientist,6.8627,87.3657,15.1947,320.2417,227.7581,325.6784,295.4661,35.0252,220.0413,300.7268,Venus sq Mars; Venus conj Jupiter
+438,1982,Scientist,294.4081,178.9717,311.1619,267.583,289.6033,153.4361,292.1476,353.5894,244.2232,116.7246,Sun conj Mars; Sun conj Saturn; Moon sq Venus; Mars conj Saturn
+439,1998,Scientist,196.5185,115.7724,222.5413,168.9888,16.4112,62.4412,22.7599,98.6016,272.718,60.4983,Sun opp Mars; Sun opp Saturn; Moon sq Saturn; Mars conj Saturn
+440,1991,Engineer,199.2268,157.918,223.0646,155.1339,35.9884,305.052,220.4789,279.9582,5.6269,175.3083,Moon conj Venus; Mercury opp Mars; Mercury conj Saturn; Mars sq Jupiter; Mars opp Saturn; Jupiter sq Saturn
+441,1980,Engineer,2.6006,102.1434,13.4368,30.6557,171.3645,45.6813,51.5116,97.5419,162.1509,86.1314,Moon sq Mercury; Jupiter conj Saturn
+442,1985,Engineer,219.7937,64.8002,219.7874,263.0223,225.789,281.7299,125.2273,1.6452,84.83,42.3028,Sun conj Mercury; Sun conj Mars; Sun sq Saturn; Mercury conj Mars; Mercury sq Saturn
+443,1996,Scientist,351.6449,222.8115,11.9579,38.376,182.7147,167.1178,225.5271,74.9191,19.1048,40.5645,Sun opp Jupiter; Moon opp Venus; Moon conj Saturn; Venus opp Saturn
+444,1984,Pilot,246.6878,348.6866,245.2549,215.6148,241.2513,15.5216,232.1499,102.6232,156.4818,120.3461,Sun conj Mercury; Sun conj Mars; Mercury conj Mars
+445,1994,Engineer,15.5943,63.3195,31.5818,14.1602,41.7834,322.2285,259.7051,213.3744,117.35,71.5505,Sun conj Venus
+446,1990,Pilot,82.8228,39.6478,67.5786,57.5861,148.5344,71.9841,320.8915,26.4707,210.6332,19.5622,Mercury conj Jupiter; Venus sq Mars; Mars opp Saturn
+447,1993,Scientist,52.1789,163.7967,45.8694,17.2737,259.1356,227.5276,351.2001,72.7959,45.7962,249.1958,Sun conj Mercury; Sun opp Jupiter; Moon sq Mars; Moon opp Saturn; Mercury opp Jupiter; Mars sq Saturn
+448,1981,Pilot,101.0175,39.9993,99.0874,93.167,273.7222,79.1473,106.2581,56.4437,286.0435,342.9937,Sun conj Mercury; Sun conj Venus; Sun opp Mars; Sun conj Saturn; Mercury conj Venus; Mercury opp Mars; Mercury conj Saturn; Venus opp Mars
+449,1985,Scientist,208.1237,198.992,192.987,199.6466,187.8368,310.3917,77.9193,170.456,166.5947,5.2214,Moon conj Mercury; Moon conj Venus; Mercury conj Venus; Mercury conj Mars
+450,1993,Engineer,265.0244,88.7955,255.353,272.6532,321.0561,213.0378,53.6291,206.5323,1.8279,352.8663,Sun opp Moon; Sun conj Venus; Moon opp Venus; Mars sq Saturn
+451,1981,Pilot,356.8585,264.0515,357.0946,349.7254,141.9553,291.4979,250.7953,35.2797,178.3026,29.9129,Sun sq Moon; Sun conj Mercury; Sun conj Venus; Moon sq Mercury; Moon sq Venus; Mercury conj Venus
+452,1980,Engineer,249.5375,146.3825,233.7459,235.9445,86.0625,359.6226,5.7349,240.8528,58.249,165.3418,Moon sq Mercury; Moon sq Venus; Mercury conj Venus; Mars sq Jupiter; Jupiter conj Saturn
+453,1998,Scientist,269.0232,163.7427,284.246,304.9463,145.9297,284.3491,133.3514,167.1465,228.0248,309.7378,Mercury conj Jupiter
+454,1982,Scientist,138.5565,248.6702,140.2881,119.0292,271.0397,251.2998,220.5004,207.0826,74.5727,246.4795,Sun conj Mercury; Moon conj Jupiter
+455,1999,Pilot,317.105,264.8739,292.1745,359.8559,242.8751,319.672,39.948,131.6127,222.888,131.6056,Sun conj Jupiter; Moon sq Venus
+456,1985,Pilot,233.3422,253.7545,236.7446,259.6054,49.8261,120.5747,194.2682,233.6538,265.4568,270.8198,Sun conj Mercury; Sun opp Mars; Moon conj Venus; Mercury opp Mars
+457,1986,Scientist,271.1425,273.9189,261.0884,309.344,181.2837,152.2545,19.6056,134.213,162.8678,180.522,Sun conj Moon; Sun sq Mars; Moon sq Mars
+458,1983,Pilot,169.259,191.4856,187.4802,207.6063,162.7122,132.5325,242.3903,249.5603,352.1104,317.9269,Sun conj Mars; Moon conj Mercury
+459,1986,Engineer,321.0852,164.8347,297.5747,359.288,103.8142,344.3857,39.3714,99.3394,250.9496,178.6783,Moon opp Jupiter
+460,1986,Engineer,187.4476,225.8194,175.865,232.5267,194.9166,47.5299,124.8121,159.7896,232.0864,104.946,Sun conj Mars; Moon conj Venus; Moon opp Jupiter; Venus opp Jupiter
+461,1982,Engineer,7.9332,187.0634,358.7423,15.4888,236.0738,283.2568,175.0134,239.7079,190.8598,197.4487,Sun opp Moon; Sun conj Venus; Sun sq Jupiter; Mercury opp Saturn; Venus sq Jupiter
+462,1994,Engineer,109.4696,47.5035,125.6731,77.9564,93.6027,174.3275,349.4607,277.1099,17.0348,127.1235,Venus sq Saturn; Jupiter opp Saturn
+463,1994,Physician,344.237,222.7069,325.2412,347.6274,65.621,63.1294,254.92,325.696,286.0046,58.0517,Sun conj Venus; Sun sq Saturn; Venus sq Saturn; Mars conj Jupiter
+464,1983,Physician,14.8145,113.9853,353.897,351.8136,66.4188,202.4954,12.4881,114.0998,123.7849,134.2494,Sun opp Jupiter; Sun conj Saturn; Moon sq Jupiter; Mercury conj Venus
+465,1997,Scientist,351.1676,192.1115,329.9711,305.5605,335.1848,276.6665,341.2041,334.0121,56.1792,349.2541,Moon sq Jupiter; Mercury conj Mars; Mars conj Saturn
+466,1997,Physician,351.2164,253.9625,349.7554,331.0398,339.8434,353.0483,206.5419,52.9501,203.4833,326.4771,Sun conj Mercury; Sun conj Jupiter; Moon sq Mercury; Moon sq Mars; Mercury conj Jupiter
+467,1994,Engineer,121.9264,40.4336,120.7493,77.7742,244.083,42.0754,8.9264,222.3079,79.3313,128.6617,Sun conj Mercury; Moon conj Jupiter
+468,1990,Scientist,19.8121,79.9718,44.2094,358.4931,8.1175,193.8284,160.3649,241.7608,31.4557,184.2435,Sun opp Jupiter; Mars opp Jupiter
+469,1986,Engineer,176.5675,217.1419,177.2147,133.9481,240.0359,143.1209,257.747,153.9506,139.0005,4.3887,Sun conj Mercury
+470,1991,Pilot,126.4878,31.5355,139.2476,121.133,357.335,289.3268,103.9082,290.0422,349.3298,152.5796,Sun sq Moon; Sun conj Venus; Moon sq Venus; Jupiter opp Saturn
+471,1993,Scientist,50.2444,211.3848,27.0647,22.1916,170.8607,312.3093,355.1898,23.8017,345.6343,272.2011,Moon opp Mercury; Mercury conj Venus; Mars opp Saturn
+472,1982,Engineer,2.3828,98.3984,344.1768,358.7463,204.4499,329.354,71.7327,299.6221,104.2067,176.6108,Sun conj Venus; Mercury sq Saturn
+473,1989,Engineer,300.4507,201.3412,298.404,255.0273,0.8808,94.5637,344.1696,300.3275,170.1148,235.3727,Sun conj Mercury; Venus sq Saturn; Mars sq Jupiter
+474,1989,Pilot,150.1764,177.0791,160.6957,125.6725,42.9677,99.7981,357.9599,24.0209,268.4036,209.1837,Moon opp Saturn
+475,1998,Engineer,156.9847,92.8482,167.3958,202.5135,294.5811,134.3528,263.8646,6.3162,93.4334,209.3956,Venus sq Mars
+476,1984,Pilot,115.0852,48.7791,96.2305,93.2616,151.025,328.3577,128.1544,104.3482,190.6604,337.0741,Mercury conj Venus; Mars opp Jupiter
+477,1996,Engineer,69.7733,226.0908,84.5959,79.2545,60.1689,116.1385,113.8358,304.1982,287.9558,97.7252,Mercury conj Venus; Jupiter conj Saturn
+478,1991,Pilot,34.5,208.8168,52.6057,347.7382,186.5415,134.2851,174.5636,122.5127,327.8837,36.8704,Sun opp Moon; Venus opp Saturn
+479,1984,Scientist,181.2178,299.3665,197.7438,186.8487,248.275,342.8983,304.5851,256.517,252.8154,288.9289,Sun conj Venus; Moon conj Saturn; Mars sq Jupiter
+480,1993,Physician,165.7769,27.5041,183.6322,206.4242,172.6266,112.1664,130.5247,294.1339,320.3015,215.1535,Sun conj Mars; Moon opp Venus; Moon sq Jupiter; Venus sq Jupiter
+481,1990,Pilot,61.9946,109.6863,75.6843,25.3799,46.3372,249.9279,247.697,110.6742,75.5428,353.1994,Sun opp Jupiter; Sun opp Saturn; Moon sq Venus; Mercury opp Jupiter; Mercury opp Saturn; Jupiter conj Saturn
+482,1993,Engineer,248.6945,282.2507,225.0477,275.065,272.6403,15.3061,38.8143,285.4999,184.8525,21.3355,Moon conj Venus; Moon sq Jupiter; Mercury opp Saturn; Venus conj Mars
+483,1983,Scientist,327.0705,216.6451,331.9763,298.2729,241.4162,10.5333,52.4005,268.6313,99.8552,208.7105,Sun conj Mercury; Sun sq Mars; Sun sq Saturn; Mercury sq Mars
+484,1991,Scientist,57.8006,180.2284,70.5997,33.0156,205.2847,35.678,208.1281,5.0344,78.1193,68.9571,Venus opp Mars; Venus conj Jupiter; Venus opp Saturn; Mars conj Saturn; Jupiter opp Saturn
+485,1989,Engineer,61.8384,1.5584,74.458,102.5647,331.3718,306.4669,170.8976,251.3278,66.6453,242.4693,Sun sq Mars
+486,1983,Pilot,65.1055,127.736,58.3639,37.6758,81.9195,40.6244,354.4606,44.5015,39.7138,48.9285,Sun conj Mercury; Moon sq Venus; Moon sq Jupiter; Venus conj Jupiter; Mars sq Saturn
+487,1991,Physician,253.7031,200.5676,227.9772,237.2022,41.6601,102.1001,216.1402,112.3225,351.4245,159.8241,Mercury opp Mars; Mars opp Saturn
+488,1997,Scientist,146.6216,154.0662,166.6009,184.518,288.8771,338.0695,132.2789,4.6029,242.6972,241.9544,Sun conj Moon; Moon opp Jupiter
+489,1992,Engineer,157.701,237.0774,134.4613,123.4643,144.2247,212.6006,36.62,333.1045,352.0272,23.2957,Moon sq Mars; Venus sq Jupiter; Venus sq Saturn; Jupiter opp Saturn
+490,1986,Physician,121.9074,214.1859,149.3844,85.6926,301.7193,261.0722,100.2666,256.8578,209.4907,98.2702,Sun sq Moon; Sun opp Mars; Moon sq Mars; Venus opp Jupiter
+491,2000,Engineer,339.561,240.0037,4.7688,26.3632,184.1092,53.0547,163.6685,43.9884,176.1629,83.0958,Sun opp Saturn; Moon opp Jupiter; Mercury opp Mars
+492,1984,Scientist,10.7005,179.3286,344.1984,339.8937,217.6502,117.7041,108.9909,224.3637,273.6617,237.989,Mercury conj Venus
+493,1996,Engineer,276.326,285.3833,259.6341,291.8869,176.4901,94.1995,123.7016,309.482,196.7832,342.929,Sun opp Jupiter; Moon conj Venus
+494,1981,Pilot,356.6562,316.8452,335.3277,351.8673,307.0347,159.3202,12.9532,63.6729,237.388,280.5777,Sun conj Venus; Mercury opp Jupiter
+495,1985,Scientist,176.9327,48.4158,189.0132,175.7283,39.3775,243.0088,237.6283,246.7347,205.9957,171.328,Sun conj Venus; Jupiter conj Saturn
+496,1985,Physician,182.4066,140.8985,182.1093,227.6102,222.0983,126.995,352.0019,115.3738,10.1329,16.2426,Sun conj Mercury; Moon sq Venus; Venus conj Mars; Mars sq Jupiter
+497,1991,Physician,125.5956,267.1406,99.102,163.1646,122.8523,35.046,124.2515,128.6518,126.4569,238.0464,Sun conj Mars; Sun sq Jupiter; Sun conj Saturn; Mars sq Jupiter; Mars conj Saturn; Jupiter sq Saturn
+498,1987,Engineer,84.464,112.3558,61.2207,102.5111,312.8184,41.2097,61.1205,193.8301,13.4559,236.7964,Mercury conj Saturn; Mars sq Jupiter
+499,1993,Engineer,204.4978,324.5075,191.4284,223.3098,211.6761,354.8753,135.9855,140.5083,206.1139,290.9976,Sun conj Mars; Venus sq Saturn
+500,1983,Engineer,248.711,74.127,248.528,278.6109,240.2595,59.9858,107.8275,348.994,72.6331,228.7599,Sun opp Moon; Sun conj Mercury; Moon opp Mercury; Mars opp Jupiter
+501,1982,Scientist,302.537,192.9002,290.6289,259.1,358.642,144.7298,81.319,267.4397,33.1048,303.9073,Venus opp Saturn
+502,1983,Engineer,213.0713,98.4114,216.7913,216.0534,153.7581,125.0339,27.5982,296.546,181.6702,107.9672,Sun conj Mercury; Sun conj Venus; Sun sq Jupiter; Sun opp Saturn; Mercury conj Venus; Mercury sq Jupiter; Venus sq Jupiter
+503,1997,Physician,112.8071,149.1531,98.8779,114.2825,241.7617,197.1225,317.1228,226.0238,185.8407,67.154,Sun conj Venus; Sun sq Jupiter; Moon sq Mars
+504,1995,Engineer,76.663,168.2263,101.1441,79.8041,221.192,276.8829,156.1408,203.8019,225.633,188.0171,Sun sq Moon; Sun conj Venus; Moon sq Venus; Mercury opp Jupiter
+505,1991,Engineer,166.4952,86.5346,180.2955,191.9861,303.8839,147.6937,309.6669,328.0096,228.2139,304.5481,Moon sq Mercury; Mars conj Saturn
+506,1988,Pilot,296.5359,232.5754,282.8969,306.2542,146.1117,40.8811,69.0898,88.4112,297.8024,167.0975,Moon sq Mars; Venus sq Jupiter
+507,1997,Engineer,356.8655,326.036,340.177,335.0459,10.4911,284.2811,99.9979,198.2542,231.9458,15.2037,Mercury conj Venus; Mars sq Jupiter; Mars sq Saturn; Jupiter opp Saturn
+508,1995,Scientist,281.6041,322.742,271.1828,262.2101,22.8894,343.8319,322.8384,241.8019,318.859,142.8822,Moon conj Saturn
+509,1984,Engineer,84.9748,205.5504,84.9887,48.5565,239.1182,208.9511,279.0417,189.0936,178.7224,32.4896,Sun conj Mercury; Moon conj Jupiter
+510,1999,Engineer,44.0197,118.5429,48.7419,33.4549,269.4147,84.9377,152.2328,51.94,63.0555,349.1725,Sun conj Mercury; Moon sq Venus; Mars opp Jupiter
+511,1994,Engineer,147.0152,310.644,122.147,150.2283,251.8624,40.6661,196.4682,170.9475,88.6848,99.9842,Sun conj Venus; Moon sq Jupiter
+512,1984,Scientist,130.6793,257.6416,148.6757,84.7024,348.0499,218.0933,302.9303,238.4004,338.7054,248.6457,Sun sq Jupiter; Sun opp Saturn; Moon opp Venus; Moon sq Mars; Jupiter sq Saturn
+513,1987,Scientist,91.0738,138.4885,98.855,110.3331,325.1366,246.6894,192.5678,85.0975,159.265,2.8318,Sun conj Mercury; Moon opp Mars; Mercury sq Saturn
+514,1992,Engineer,333.9027,330.4536,322.7524,15.7896,272.4005,107.0722,309.39,57.6818,157.9845,114.1864,Sun conj Moon; Moon conj Mercury; Venus sq Jupiter
+515,2000,Engineer,146.264,12.1974,166.7849,177.291,338.5784,169.5929,148.6661,302.8188,258.259,315.634,Sun conj Saturn; Mercury conj Jupiter; Venus conj Jupiter
+516,1983,Pilot,296.7843,251.4536,297.139,282.5625,216.7617,292.8341,265.6028,163.1742,9.8463,18.7556,Sun conj Mercury; Sun conj Jupiter; Mercury conj Jupiter
+517,2000,Engineer,66.1463,159.6258,74.0478,18.4415,72.0271,109.9971,207.2914,39.8982,89.8573,256.883,Sun sq Moon; Sun conj Mercury; Sun conj Mars; Moon sq Mercury; Moon sq Mars; Mercury conj Mars; Venus sq Jupiter
+518,2000,Pilot,274.7386,304.9058,285.1408,302.8322,114.9837,172.2116,264.662,93.8448,247.4881,297.6367,Moon conj Venus; Venus opp Mars; Jupiter sq Saturn
+519,1989,Engineer,71.5189,149.2187,53.7047,107.6524,340.1126,318.3629,80.8154,341.3193,332.3204,232.9584,Sun sq Mars; Moon sq Mercury; Mercury sq Jupiter
+520,2000,Engineer,82.3346,32.0316,80.2304,59.4658,306.6591,17.9219,222.4815,216.1414,53.7304,344.8918,Sun conj Mercury; Moon sq Mars; Mars sq Saturn
+521,1985,Engineer,341.0077,258.69,337.3766,21.3266,163.3348,242.4996,42.6644,256.8829,68.5959,310.2972,Sun conj Mercury; Sun opp Mars; Moon sq Mars; Mercury opp Mars; Mercury sq Jupiter
+522,1988,Scientist,103.6663,177.9005,82.9575,137.8747,216.0298,358.2747,101.8682,243.7879,150.5992,147.0687,Sun conj Saturn; Moon sq Mercury; Moon opp Jupiter; Mercury sq Jupiter
+523,1984,Engineer,10.3583,84.7748,7.613,346.1968,209.8451,233.0048,30.8659,168.7974,313.7197,350.7837,Sun conj Mercury; Mars opp Saturn
+524,1992,Engineer,247.2669,256.8009,258.9403,269.9329,92.2412,34.3006,21.1508,119.8305,84.5429,326.9616,Moon conj Mercury; Venus opp Mars
+525,1999,Pilot,338.1559,348.1955,343.6569,1.9871,16.3843,91.3165,223.0768,108.9026,142.0909,133.5244,Sun conj Mercury; Moon conj Mercury; Venus sq Jupiter
+526,1997,Physician,14.805,64.574,356.3175,14.1176,122.1036,168.5106,32.2733,255.692,155.8547,93.7462,Sun conj Venus; Mercury opp Jupiter; Mars sq Saturn
+527,1990,Engineer,15.8984,46.0337,36.7124,48.0396,269.2164,333.4453,101.8532,315.6971,220.6554,274.163,Sun sq Saturn; Moon conj Venus
+528,1988,Pilot,186.1102,156.8791,167.3493,208.8496,176.8589,342.0183,200.0429,332.227,229.1948,158.3963,Moon opp Jupiter; Mercury opp Jupiter
+529,1986,Engineer,53.5035,82.7498,27.5118,30.485,254.1466,157.1148,358.2726,333.7943,14.685,128.3472,Moon sq Saturn; Mercury conj Venus
+530,1997,Scientist,174.6718,177.4759,194.0388,209.8922,44.5155,33.688,312.5423,65.0358,60.5862,183.1456,Sun conj Moon; Venus opp Jupiter; Mars sq Saturn
+531,1988,Scientist,202.7691,238.7296,186.6632,250.5775,1.4853,276.0651,65.0048,331.3488,88.6167,179.3199,Moon opp Saturn; Mercury opp Mars; Mercury sq Jupiter; Venus opp Saturn; Mars sq Jupiter
+532,1983,Scientist,319.4524,245.2724,329.5682,309.2927,212.5219,342.4391,301.3118,55.3592,29.1828,299.0517,Moon sq Mercury; Venus conj Saturn; Mars sq Saturn
+533,1995,Engineer,163.46,213.9135,135.7851,208.558,236.2222,342.3225,116.9696,263.3563,264.355,344.665,Sun opp Jupiter; Moon conj Venus; Venus sq Saturn
+534,1998,Engineer,46.5553,101.8634,63.2515,69.9601,196.9762,216.8249,33.3184,91.859,86.4288,277.5159,Moon sq Mars; Mercury conj Venus; Jupiter opp Saturn
+535,1992,Engineer,32.1078,58.6586,47.7594,11.4616,270.9211,235.4631,43.4167,176.7042,155.649,290.2872,Moon opp Jupiter; Mercury opp Jupiter; Mercury conj Saturn
+536,1989,Scientist,325.3443,217.2649,317.4508,286.571,132.2845,71.9537,160.3593,139.7122,96.6526,216.1227,Sun conj Mercury; Moon sq Mars; Mercury opp Mars; Jupiter sq Saturn
+537,1982,Scientist,272.3366,291.958,278.7132,266.0108,153.3662,14.5577,123.0281,166.869,80.7229,247.0452,Sun conj Mercury; Sun conj Venus; Mercury sq Jupiter
+538,1984,Engineer,335.0403,189.8203,343.285,295.1015,168.5589,28.5059,288.5561,108.1416,354.307,246.353,Mercury opp Mars; Venus sq Jupiter; Venus conj Saturn
+539,1989,Engineer,302.9537,188.3131,291.5006,259.5356,27.5517,16.2342,38.7476,152.9689,34.0144,237.9079,Sun sq Mars; Sun sq Saturn; Moon opp Jupiter; Mercury sq Jupiter
+540,1998,Engineer,292.6169,127.9647,297.4087,318.407,5.8567,266.5858,166.6364,283.0238,303.4475,16.2931,Sun conj Mercury
+541,1993,Engineer,315.6319,211.395,313.1118,331.9769,224.5717,95.4268,348.0191,313.6841,67.389,66.6315,Sun conj Mercury; Sun sq Mars; Mercury sq Mars
+542,1999,Engineer,93.3544,242.4272,89.6471,47.0742,142.1762,4.7897,236.0883,165.6587,145.833,236.7782,Sun conj Mercury; Sun sq Jupiter; Moon conj Saturn; Mercury sq Jupiter; Venus sq Mars; Mars sq Saturn
+543,1999,Engineer,261.3281,109.008,278.8635,272.5356,248.6384,346.731,243.0368,289.6707,31.5486,48.641,Sun sq Jupiter; Mercury conj Venus; Mars conj Saturn
+544,1986,Scientist,40.2885,5.7187,66.6376,74.7537,75.3226,233.5044,233.9063,156.8839,225.3813,284.4042,Venus conj Mars; Jupiter conj Saturn
+545,1986,Pilot,30.9937,53.3396,26.6189,354.1737,324.8695,265.9612,160.2957,174.6169,7.066,161.8259,Sun conj Mercury; Moon sq Mars; Venus sq Jupiter
+546,1987,Engineer,72.4818,204.995,91.1768,29.3704,2.8347,226.9476,256.7134,352.6153,305.5019,265.3482,Sun opp Saturn; Moon opp Venus; Mercury sq Mars
+547,1999,Scientist,263.1883,359.6495,237.2612,253.5576,184.8081,260.8611,336.7011,325.8263,312.3483,83.4861,Sun conj Jupiter; Moon opp Mars; Venus conj Jupiter
+548,1981,Pilot,190.1912,151.9216,179.8788,148.2882,321.4358,150.1695,170.4017,178.124,338.0272,124.8351,Moon conj Venus; Moon conj Jupiter; Venus opp Mars; Venus conj Jupiter
+549,1993,Scientist,7.4905,103.6839,350.2538,352.4998,83.5571,79.0928,327.2653,122.0951,216.756,303.2882,Mercury conj Venus; Mercury sq Mars; Mercury sq Jupiter; Venus sq Mars; Venus sq Jupiter; Mars conj Jupiter
+550,1994,Engineer,47.2171,105.6219,59.0547,91.3582,299.9091,242.3186,264.4505,286.5502,287.9118,304.0313,Mercury opp Jupiter; Venus opp Saturn
+551,1999,Engineer,74.5951,248.6511,51.4218,72.9525,62.3848,56.2731,177.1869,285.6537,339.4997,177.741,Sun opp Moon; Sun conj Venus; Moon opp Venus; Moon opp Mars; Mercury conj Jupiter; Mars conj Jupiter
+552,1987,Scientist,75.3959,16.9378,48.4112,111.9628,128.5358,57.098,298.0615,322.0047,11.5092,22.9196,Moon sq Venus; Venus opp Saturn
+553,1993,Pilot,41.0289,81.6085,44.4999,39.72,357.7186,282.5589,276.9746,277.2342,200.528,322.6744,Sun conj Mercury; Sun conj Venus; Mercury conj Venus; Jupiter conj Saturn
+554,1996,Scientist,217.5442,340.6564,234.2875,261.9583,272.0752,350.8775,281.3949,219.4761,309.0195,36.6725,Venus sq Jupiter
+555,1997,Engineer,15.109,37.948,22.3849,50.7125,327.9549,56.5317,105.1643,158.9464,182.1228,263.7187,Sun conj Mercury; Sun sq Saturn; Venus conj Jupiter; Mars sq Jupiter
+556,1983,Engineer,55.5465,130.9453,73.4195,19.3529,72.6805,349.0692,276.9189,2.3715,300.5328,170.5188,Mercury conj Mars; Mercury sq Jupiter
+557,1989,Engineer,181.8082,30.6842,174.6646,206.2733,129.8316,239.3983,54.58,271.2626,151.82,82.1455,Sun conj Mercury; Moon opp Venus; Jupiter opp Saturn
+558,1993,Scientist,148.8274,147.3514,146.5176,182.6569,286.0586,130.2388,10.7147,52.4104,3.5815,290.2489,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Mars sq Saturn
+559,1982,Pilot,30.5202,113.3296,57.5091,358.2953,22.1286,273.3093,237.6634,230.9277,324.904,20.8115,Moon sq Mars; Mercury opp Saturn; Venus sq Jupiter
+560,2000,Scientist,352.8169,287.6655,13.8625,38.1924,150.9499,318.8818,252.2845,314.4767,259.7584,112.9303,Moon sq Mercury
+561,1991,Scientist,2.8448,100.7211,4.4011,43.2081,252.1062,160.6281,73.8481,195.9931,283.803,234.7334,Sun conj Mercury; Mars sq Jupiter; Mars opp Saturn; Jupiter sq Saturn
+562,1991,Scientist,319.563,281.3627,314.2153,290.5034,108.5513,13.3093,120.4175,261.0355,266.4188,45.362,Sun conj Mercury; Moon opp Mars; Moon sq Jupiter; Venus opp Mars; Mars sq Jupiter
+563,1997,Engineer,102.214,33.415,105.114,104.2623,272.5367,57.6098,10.0408,286.7755,213.3013,86.8823,Sun conj Mercury; Sun conj Venus; Sun sq Saturn; Mercury conj Venus; Mercury sq Saturn; Venus sq Saturn
+564,1989,Pilot,261.5433,355.3037,239.7281,219.2981,134.2724,225.7162,127.6104,17.1838,234.3465,44.9099,Sun sq Moon; Venus sq Mars; Venus conj Jupiter; Venus sq Saturn; Mars sq Jupiter; Mars conj Saturn
+565,1989,Pilot,206.0767,122.0329,191.2982,229.6695,209.3738,257.273,337.5142,239.5874,304.0185,84.1816,Sun sq Moon; Sun conj Mars; Moon sq Mars
+566,1989,Physician,102.4328,257.3476,112.0891,123.0105,187.08,89.148,118.0249,209.6529,296.2234,130.0563,Sun sq Mars; Mercury conj Saturn; Venus conj Saturn
+567,1983,Engineer,52.7592,153.2492,47.8341,13.615,152.9592,46.8228,77.3224,28.1062,243.6561,144.9913,Sun conj Mercury; Sun conj Jupiter; Moon conj Mars; Mercury conj Jupiter
+568,1997,Scientist,186.8202,142.1217,173.587,186.7076,152.432,158.4288,335.1728,176.2348,350.3781,296.5723,Sun conj Venus; Mars conj Jupiter; Mars opp Saturn; Jupiter opp Saturn
+569,1984,Engineer,182.0829,174.5152,179.7148,227.014,184.7468,190.4908,250.0095,163.9557,11.7387,56.4623,Sun conj Moon; Sun conj Mercury; Sun conj Mars; Moon conj Mercury; Mercury conj Mars; Mars conj Jupiter
+570,1997,Pilot,132.9595,216.5761,127.8423,96.5627,205.8353,14.5016,55.1896,133.7282,356.7672,109.1736,Sun conj Mercury; Moon sq Mercury
+571,1995,Pilot,10.072,51.433,25.9644,2.5607,337.2554,109.859,102.0536,65.9078,266.2777,0.7509,Sun conj Venus; Sun sq Saturn; Jupiter conj Saturn
+572,1997,Scientist,125.5136,150.3271,129.6049,131.827,324.1034,281.2858,171.0819,259.2121,218.0555,274.3024,Sun conj Mercury; Sun conj Venus; Moon opp Mars; Mercury conj Venus
+573,1996,Engineer,229.1257,274.2044,238.4901,195.428,262.0311,32.1534,224.9174,224.4922,139.4046,324.088,Sun conj Saturn
+574,1990,Engineer,194.758,344.9086,216.6004,217.4056,232.53,311.7433,254.5951,205.9181,286.6172,254.6636,Moon sq Saturn; Mercury conj Venus; Mercury sq Jupiter; Venus sq Jupiter
+575,1997,Engineer,232.2575,231.8091,209.026,275.9536,195.0604,272.7415,344.6254,187.8314,270.2011,180.95,Sun conj Moon; Venus conj Jupiter
+576,1980,Engineer,43.3019,64.7076,16.3645,70.8306,88.3032,254.0224,319.5561,159.9226,290.4916,218.4677,Moon conj Venus; Venus opp Jupiter
+577,1992,Engineer,212.0015,176.9303,236.297,196.6373,64.9829,8.6605,190.0446,137.524,32.769,352.723,Venus opp Jupiter; Venus conj Saturn; Jupiter opp Saturn
+578,1997,Engineer,60.5362,51.8523,46.8472,21.1405,110.4459,146.6195,60.9088,221.2112,117.1047,9.7816,Sun sq Jupiter; Sun conj Saturn; Moon conj Mercury; Moon sq Jupiter; Venus sq Mars; Jupiter sq Saturn
+579,1981,Engineer,107.2888,35.5479,87.2666,145.0178,92.8563,338.9679,323.8205,18.6761,86.2643,214.9217,Mercury conj Mars; Venus opp Saturn
+580,1987,Scientist,177.4726,270.8604,171.0353,140.5204,21.8275,167.3365,146.5475,174.3017,146.6978,84.1466,Sun sq Moon; Sun conj Mercury; Mercury conj Jupiter; Venus conj Saturn
+581,1980,Engineer,96.8975,243.0351,82.6912,102.1494,282.6771,109.6606,146.4285,30.207,228.8876,73.2445,Sun conj Venus; Sun opp Mars; Venus opp Mars; Venus conj Jupiter; Mars opp Jupiter
+582,1984,Engineer,134.3899,281.5285,136.4919,127.0701,328.1374,162.6271,0.3604,167.2747,298.5738,104.1298,Sun conj Mercury; Sun conj Venus
+583,1985,Engineer,0.1955,173.5871,5.676,32.7863,136.8553,126.5105,227.5945,210.6573,183.7182,16.3745,Sun opp Moon; Sun conj Mercury; Venus sq Jupiter; Mars sq Saturn
+584,1997,Scientist,202.7094,108.2298,196.8464,166.5152,50.2741,200.3325,100.605,155.5065,219.7603,344.6702,Sun sq Moon; Sun conj Mercury; Sun conj Jupiter; Moon sq Mercury; Moon sq Jupiter; Moon conj Saturn; Mercury conj Jupiter
+585,1990,Engineer,318.2154,340.347,325.7849,4.2609,254.7915,98.2847,238.4197,115.7898,75.8246,345.2374,Sun conj Mercury; Moon sq Mars; Mercury sq Saturn; Venus sq Jupiter
+586,1990,Engineer,5.7149,0.7371,4.4005,44.2536,242.1743,148.7387,322.2965,253.1879,274.4875,193.7273,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Mars sq Jupiter; Jupiter opp Saturn
+587,2000,Pilot,234.4559,193.9138,256.44,264.7974,160.2636,44.4296,349.934,135.4955,216.4719,139.2304,Mercury sq Saturn; Venus sq Saturn
+588,1980,Pilot,44.915,133.373,27.7225,357.8139,267.532,273.0316,244.9996,255.3112,68.9442,293.8611,Sun sq Moon; Venus sq Mars; Venus sq Jupiter; Mars conj Jupiter
+589,2000,Pilot,109.1443,258.4114,94.2627,108.5499,130.6797,101.0723,325.6227,254.5085,75.2711,70.5912,Sun conj Venus; Mercury conj Jupiter; Venus conj Jupiter
+590,2000,Engineer,142.591,313.1698,146.4607,142.0161,198.6427,237.5418,203.6545,245.6581,203.4505,23.5298,Sun conj Mercury; Sun conj Venus; Sun sq Jupiter; Mercury conj Venus; Mercury sq Jupiter; Venus sq Jupiter; Mars conj Saturn
+591,1984,Scientist,268.5504,336.0828,288.4573,305.1267,262.4036,98.7581,305.1602,8.3223,349.1319,243.9844,Sun conj Mars; Venus conj Saturn
+592,1999,Engineer,91.0516,201.6418,88.4714,133.0891,230.7479,339.5067,18.6706,337.9534,155.7173,358.2383,Sun conj Mercury; Moon opp Saturn
+593,1988,Engineer,43.8184,186.5863,43.5706,45.475,15.6473,259.6393,16.9073,330.6209,191.6677,113.8471,Sun conj Mercury; Sun conj Venus; Mercury conj Venus; Mars conj Saturn
+594,1992,Engineer,70.0589,29.4512,74.0808,24.4946,265.4799,352.1144,152.5753,26.7985,89.9943,59.2134,Sun conj Mercury; Moon conj Venus; Mars sq Jupiter
+595,1989,Scientist,22.6239,10.0342,18.813,336.9301,286.9995,336.6219,302.5827,88.9753,170.4875,345.169,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Venus conj Jupiter
+596,1981,Scientist,295.7882,187.083,281.0458,254.7876,215.9873,157.8706,34.4415,160.7242,44.9375,350.8292,Moon sq Mercury; Mars opp Saturn
+597,1981,Pilot,135.8622,249.6109,151.6904,93.8145,288.8594,19.724,219.8659,155.462,36.6579,20.0844,Sun sq Saturn; Mars sq Jupiter
+598,1981,Engineer,106.17,137.324,83.5365,130.3585,83.9203,215.8473,237.5007,3.8184,138.2112,286.2593,Moon conj Venus; Mercury conj Mars; Venus sq Jupiter
+599,1999,Pilot,222.923,122.2619,247.4278,250.0842,163.4676,118.1497,69.2933,36.9683,214.263,24.316,Moon conj Jupiter; Mercury conj Venus; Mercury opp Saturn; Venus sq Mars; Venus opp Saturn; Mars sq Saturn
+600,1986,Scientist,325.5732,183.2033,317.4751,323.7875,223.5063,66.9324,49.5622,15.8655,45.9651,210.428,Sun conj Venus; Mercury conj Venus; Mercury sq Mars; Mercury sq Saturn; Venus sq Saturn; Mars opp Saturn
+601,1996,Engineer,345.5069,271.5745,334.9334,22.4882,279.1784,53.0673,111.1228,123.4441,132.7788,2.9095,Moon conj Mars; Venus sq Saturn
+602,1998,Scientist,236.7637,85.4594,254.6379,242.4708,19.6586,123.7738,351.5439,230.5997,72.454,24.6254,Sun conj Venus; Moon sq Saturn
+603,1986,Scientist,240.4297,250.1214,267.4174,250.0068,119.2124,208.2279,346.7034,221.7971,150.7303,58.4208,Moon conj Venus; Mars sq Jupiter
+604,1994,Scientist,315.398,327.7955,315.1701,355.7135,229.9561,249.5594,167.9532,76.7299,173.0686,276.6054,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Venus opp Saturn
+605,1990,Engineer,290.6177,135.3282,285.0352,321.9218,2.4211,3.5612,128.8392,199.689,51.2647,158.5469,Sun conj Mercury; Moon opp Venus; Moon conj Saturn; Mars conj Jupiter
+606,2000,Engineer,210.8471,275.5918,185.3058,165.6969,71.217,62.6928,318.7376,258.7812,122.3343,199.6218,Moon sq Mercury; Venus sq Mars
+607,1985,Scientist,70.5555,63.3879,57.2157,32.2698,299.3205,49.4077,235.7529,318.6041,121.818,75.6855,Sun conj Moon; Moon conj Mercury; Moon opp Saturn; Mercury conj Jupiter; Mercury opp Saturn; Venus sq Mars; Jupiter opp Saturn
+608,1994,Pilot,86.454,237.9271,111.159,132.2558,359.1702,317.399,316.2196,23.5359,51.9956,332.696,Sun sq Mars; Venus opp Jupiter; Venus opp Saturn; Jupiter conj Saturn
+609,1986,Engineer,69.0053,136.1504,61.9636,78.562,351.7134,88.0379,16.6303,221.7701,68.0768,192.7686,Sun conj Mercury; Venus sq Mars
+610,1984,Engineer,117.965,19.1732,134.5193,153.7588,306.5409,348.6184,318.9003,75.3255,29.3068,169.4402,Mercury opp Mars; Mercury opp Saturn
+611,1999,Engineer,23.3543,183.101,37.4275,37.2812,183.2971,179.4916,167.1362,115.8563,134.5963,250.0235,Moon conj Mars; Moon conj Jupiter; Mercury conj Venus; Mars conj Jupiter
+612,1995,Scientist,170.5529,209.2272,178.2868,198.4529,233.9054,74.5919,322.1585,162.7488,84.3785,78.6937,Sun conj Mercury; Sun sq Jupiter; Mars sq Saturn
+613,1993,Scientist,319.9352,205.6933,344.3232,307.8495,198.1987,48.3589,30.2501,160.0219,126.567,210.2264,Sun sq Jupiter; Moon conj Mars; Moon opp Saturn
+614,1994,Engineer,184.4144,121.0946,181.6788,177.9349,132.3043,179.1155,98.287,8.8986,159.0079,95.625,Sun conj Mercury; Sun conj Venus; Sun conj Jupiter; Sun sq Saturn; Mercury conj Venus; Mercury conj Jupiter; Venus conj Jupiter
+615,1982,Pilot,129.2735,29.6707,148.4592,130.5014,231.7156,282.9144,333.5781,35.4273,25.6855,13.7813,Sun conj Venus; Mercury opp Saturn
+616,1986,Scientist,120.1528,243.0386,106.1541,143.6931,276.6538,304.3614,68.6313,217.4523,49.6314,307.7997,Sun opp Jupiter; Moon opp Saturn
+617,1997,Scientist,328.4577,296.0312,344.3129,319.2236,146.0731,208.7834,235.9111,169.9214,184.5529,274.0178,Sun opp Mars; Sun sq Saturn; Moon sq Jupiter; Venus opp Mars; Mars sq Saturn
+618,1984,Pilot,311.5678,260.4009,295.3208,286.0052,211.3213,198.9415,168.7458,293.1832,122.6374,30.9153,Moon sq Saturn; Venus sq Jupiter
+619,1986,Engineer,154.3655,150.3676,150.9316,188.2481,10.8375,50.0221,314.5501,110.0059,265.6098,179.9281,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Venus opp Mars; Jupiter sq Saturn
+620,1991,Engineer,122.336,150.893,132.7387,113.0594,280.3116,193.5374,117.3886,8.3663,282.7288,331.9719,Sun conj Saturn; Venus conj Saturn; Mars sq Jupiter
+621,1984,Pilot,351.8076,357.9327,355.6263,20.5256,328.9508,206.5963,140.7189,137.2747,341.5294,22.9353,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Venus opp Jupiter
+622,1992,Scientist,67.8019,39.1098,71.6948,63.1493,322.1078,33.5669,37.5527,199.0464,11.5413,248.0488,Sun conj Mercury; Sun conj Venus; Moon conj Jupiter; Moon conj Saturn; Jupiter conj Saturn
+623,1995,Pilot,9.6619,71.6395,32.6972,358.7077,74.1212,104.798,188.7825,163.6789,132.7148,3.977,Sun sq Jupiter; Sun opp Saturn; Moon conj Mars
+624,1990,Engineer,309.4946,147.91,290.2886,272.1261,193.1231,172.1704,24.7547,343.8348,311.6518,46.7756,Mercury sq Saturn
+625,1986,Engineer,111.5126,239.3254,92.4043,118.7214,111.7129,73.0702,258.0379,165.2243,72.613,356.7906,Sun conj Venus; Sun conj Mars; Venus conj Mars; Jupiter opp Saturn
+626,1994,Engineer,23.0292,143.7253,40.2529,25.5114,327.7089,316.5262,165.6736,207.4078,265.4247,103.6482,Sun conj Venus; Moon opp Mars; Moon opp Jupiter
+627,1994,Engineer,124.8415,303.3502,141.2129,114.3861,296.4347,305.9438,149.419,64.6481,222.3851,155.5476,Sun opp Moon; Sun opp Jupiter; Moon conj Mars; Moon conj Jupiter; Venus opp Mars
+628,1992,Engineer,327.8999,204.7015,321.9388,10.6859,86.2903,313.3943,98.5595,226.11,105.0803,329.8667,Sun conj Mercury; Venus sq Saturn
+629,1986,Scientist,327.1451,148.0601,341.8093,290.7833,132.7435,271.9429,181.5821,280.6238,147.6346,59.3421,Sun opp Moon; Jupiter sq Saturn
+630,1986,Pilot,182.1832,166.3803,158.2822,200.8539,269.905,137.216,268.5447,308.0783,142.8028,3.8655,Sun sq Mars; Sun sq Saturn; Mars conj Saturn
+631,1983,Pilot,255.2759,241.3064,253.2736,251.5661,29.7175,236.5281,256.8894,157.5805,169.4836,100.4911,Sun conj Mercury; Sun conj Venus; Sun conj Saturn; Moon conj Jupiter; Mercury conj Venus; Mercury conj Saturn; Venus conj Saturn
+632,1985,Engineer,61.4121,6.5038,39.0409,41.65,192.4754,140.7058,27.9307,274.8921,243.8579,55.2587,Moon opp Mars; Mercury conj Venus
+633,1991,Pilot,64.0585,191.6276,60.8137,20.6431,228.5245,188.2348,238.5144,237.6145,37.0056,248.5248,Sun conj Mercury; Sun opp Saturn; Moon conj Jupiter; Mercury opp Saturn
+634,1994,Engineer,18.8695,1.6797,34.1244,44.5125,334.3754,134.8721,85.8745,32.8991,151.8058,356.1446,Moon sq Saturn; Venus sq Jupiter
+635,1990,Pilot,295.3896,244.7854,270.9272,339.4291,34.7772,300.7386,239.0792,260.6441,15.8445,184.5,Sun conj Jupiter; Moon sq Venus; Moon conj Saturn; Mars sq Jupiter
+636,1990,Engineer,116.1646,225.6431,123.1464,157.8601,142.223,154.0369,83.6669,38.1187,116.4124,5.398,Sun conj Mercury; Venus conj Jupiter
+637,2000,Pilot,113.8465,140.1072,111.5379,72.184,293.4306,233.9802,132.8328,24.2393,78.6819,108.5523,Sun conj Mercury; Sun opp Mars; Moon sq Jupiter; Moon conj Saturn; Mercury opp Mars
+638,1999,Scientist,179.8474,356.5707,191.7491,207.8083,332.0006,204.9138,90.6985,34.108,116.7675,227.1146,Sun opp Moon; Sun sq Saturn; Moon sq Saturn; Venus conj Jupiter
+639,1992,Scientist,244.0442,350.0521,254.8925,227.9207,228.7272,318.2281,114.4681,306.5595,173.5669,120.6379,Moon sq Mercury; Venus conj Mars; Venus sq Jupiter; Mars sq Jupiter
+640,1999,Scientist,328.3572,161.6082,328.9746,351.5713,181.2312,253.6665,4.785,7.6368,273.2188,44.6602,Sun conj Mercury; Moon sq Jupiter; Mars opp Saturn
+641,1987,Engineer,265.6488,272.6085,272.3557,223.4014,134.8285,106.7813,54.6014,73.5787,13.6464,332.4273,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Venus sq Mars
+642,1999,Pilot,355.8785,315.8395,335.3974,338.3622,283.3095,14.2587,285.0407,149.3616,292.5758,270.1983,Mercury conj Venus; Mars sq Jupiter; Mars conj Saturn; Jupiter sq Saturn
+643,1987,Scientist,304.8965,194.1522,327.6679,320.7371,89.4017,247.4459,259.0208,218.9028,137.3349,115.7893,Mercury conj Venus
+644,1994,Pilot,226.7217,176.9912,252.1267,183.724,357.1245,337.7788,45.202,62.5233,197.585,286.2839,Sun opp Saturn; Moon conj Venus; Moon opp Mars; Mercury sq Jupiter; Venus opp Mars
+645,1986,Engineer,85.0716,28.1392,97.671,66.9721,259.8026,88.173,63.5168,89.629,102.727,161.3776,Sun opp Mars; Sun conj Jupiter; Venus conj Saturn
+646,2000,Engineer,72.5044,173.2215,97.7611,59.0242,135.9783,169.4569,152.171,219.3819,156.035,56.1162,Moon conj Jupiter; Venus sq Saturn
+647,1995,Engineer,7.132,137.311,26.9584,31.9824,331.7517,214.266,55.0075,261.5934,92.625,166.9144,Mercury conj Venus; Mercury opp Jupiter; Venus opp Jupiter
+648,1994,Engineer,101.9613,202.3712,100.8886,85.9517,257.3508,70.4577,329.8075,1.505,310.1958,262.9327,Sun conj Mercury; Mars opp Jupiter
+649,1991,Scientist,176.9233,333.2488,201.5793,222.0906,134.3322,176.2384,230.7775,211.7912,147.1635,13.9777,Sun conj Jupiter; Venus sq Mars
+650,1983,Physician,138.5374,203.6191,121.4141,132.422,91.893,328.711,260.0083,183.459,175.9039,247.8562,Sun conj Venus
+651,1981,Scientist,234.3263,333.5468,247.5235,209.5922,12.4227,292.7255,227.143,243.5132,251.0897,232.3201,Sun conj Saturn; Moon sq Mercury
+652,1988,Physician,217.9568,339.9355,198.2094,193.7086,208.203,238.5377,58.1139,42.023,33.2301,256.1794,Mercury conj Venus; Jupiter opp Saturn
+653,1992,Pilot,143.1601,211.0178,165.6158,144.9396,67.9764,152.2601,298.7098,91.0336,108.799,348.366,Sun conj Venus; Moon sq Saturn; Venus conj Jupiter; Mars sq Jupiter
+654,1992,Scientist,210.9887,264.216,225.1266,251.7235,312.9905,39.3387,206.1402,287.1122,293.1221,96.8477,Sun conj Saturn; Mercury sq Mars; Mercury opp Jupiter; Mars sq Jupiter
+655,1986,Pilot,334.8061,355.3292,352.5239,286.9576,25.1429,250.674,188.9863,235.6276,263.8952,61.4283,Sun sq Jupiter; Moon conj Mercury
+656,1991,Physician,67.104,48.3595,66.3464,67.3549,39.6858,204.1532,76.5264,72.3387,269.9697,291.3043,Sun conj Mercury; Sun conj Venus; Mercury conj Venus
+657,1986,Engineer,93.3667,147.1653,100.4696,105.3111,312.6103,59.8054,105.5252,135.9823,99.6344,123.1747,Sun conj Mercury; Moon sq Jupiter; Mercury conj Venus; Mercury conj Saturn; Venus conj Saturn
+658,1998,Pilot,84.5208,174.67,99.1107,37.4335,95.7891,343.8769,239.516,284.1146,15.0694,75.9846,Sun sq Moon; Mercury conj Mars
+659,1980,Scientist,135.2397,187.2267,161.1149,112.7599,174.9334,272.4882,217.5738,121.1581,245.4696,123.5079,Moon sq Jupiter
+660,1990,Engineer,294.065,338.7568,303.3094,282.3948,20.607,128.1705,118.8919,36.0639,164.4909,251.391,Sun sq Mars; Sun opp Saturn; Mercury opp Jupiter; Mercury opp Saturn
+661,1984,Scientist,9.245,44.242,10.9602,52.5469,270.5183,89.4736,162.6905,247.0266,313.1471,185.369,Sun conj Mercury; Mars opp Jupiter
+662,1986,Engineer,1.1265,115.9861,8.618,36.9762,349.0551,264.8927,244.0546,84.0811,174.433,266.1137,Sun conj Mercury; Mars sq Jupiter
+663,1982,Pilot,125.4002,171.4039,134.2672,144.5522,36.1641,138.5491,218.5826,256.2991,313.1491,315.4442,Sun sq Mars; Sun sq Saturn; Mercury conj Jupiter; Mercury sq Saturn; Venus conj Jupiter; Mars opp Saturn
+664,1996,Engineer,11.4285,179.253,348.3055,43.3345,358.6697,355.3991,168.0491,322.7071,343.8184,173.5807,Moon opp Mars; Moon opp Jupiter; Mercury conj Jupiter; Mercury opp Saturn; Mars conj Jupiter; Jupiter opp Saturn
+665,1997,Scientist,86.7246,76.1907,100.9067,102.0601,32.1955,156.5616,257.6755,57.6847,334.4282,324.9535,Moon opp Saturn; Mercury conj Venus
+666,1988,Scientist,79.3354,92.7463,78.0083,117.4964,44.3153,48.8723,192.4356,261.1492,32.559,249.0424,Sun conj Mercury; Mars conj Jupiter
+667,1987,Engineer,335.4408,275.8815,341.0788,349.2635,135.7237,258.2794,264.9609,137.3942,231.1568,202.284,Sun conj Mercury; Venus sq Jupiter; Venus sq Saturn; Jupiter conj Saturn
+668,1993,Pilot,291.0411,266.6092,315.5249,314.5244,41.7982,132.3853,307.1989,343.4647,207.6901,0.6043,Mercury conj Venus; Mercury sq Mars; Mercury opp Jupiter; Venus sq Mars; Venus opp Jupiter; Venus conj Saturn; Mars sq Jupiter; Mars sq Saturn; Jupiter opp Saturn
+669,1981,Engineer,212.4215,68.3488,206.1577,205.0966,277.6611,287.1065,336.2131,45.4707,238.9474,212.6794,Sun conj Mercury; Sun conj Venus; Moon sq Saturn; Mercury conj Venus
+670,1983,Scientist,142.3125,193.7855,140.1062,108.2037,339.4404,301.398,179.9398,164.0824,216.5275,52.5135,Sun conj Mercury; Moon sq Venus
+671,1981,Scientist,215.5969,111.2009,243.0557,179.4495,358.8655,254.348,172.1818,298.3274,178.2092,253.4906,Venus opp Mars; Venus conj Saturn; Mars opp Saturn
+672,1992,Scientist,21.1725,54.9728,33.3114,54.5872,336.3958,81.0258,264.8612,332.3368,279.3739,308.4404,Moon conj Venus; Jupiter opp Saturn
+673,1992,Pilot,107.6766,57.3096,80.8843,97.3361,152.0775,170.4318,125.3906,140.8906,25.8564,261.6317,Moon sq Mars; Mercury sq Jupiter
+674,1989,Scientist,250.6955,308.2508,244.7467,215.2619,270.8159,208.9381,289.8258,305.9315,255.4515,164.7117,Sun conj Mercury; Moon sq Venus; Venus conj Jupiter
+675,1985,Scientist,207.7767,159.0781,206.7934,245.9096,75.5159,289.569,70.4358,234.4457,130.4013,308.2109,Sun conj Mercury; Moon sq Venus; Moon sq Saturn; Venus opp Saturn; Mars conj Saturn
+676,1983,Pilot,244.1944,355.8543,224.4603,287.4326,153.76,302.9976,333.3547,34.5772,350.6972,64.6678,Sun sq Mars; Sun sq Saturn; Mars opp Saturn
+677,1981,Scientist,42.2449,185.5567,33.2001,35.8917,53.4846,260.1182,88.2004,42.7689,142.7921,108.9683,Sun conj Venus; Mercury conj Venus
+678,1999,Engineer,343.6399,235.0069,336.6607,2.0522,286.3171,237.0668,279.9831,311.3625,234.1119,99.0778,Sun conj Mercury; Moon conj Jupiter; Mars conj Saturn
+679,2000,Engineer,160.2426,4.1769,138.7737,123.9595,230.9074,327.0522,80.9766,211.2662,355.4458,172.6194,Mercury sq Mars
+680,1983,Pilot,285.9637,174.3089,294.0611,279.5948,205.7123,35.7989,22.8594,327.197,286.2809,66.5603,Sun conj Venus; Mercury sq Mars; Mercury sq Saturn; Mars opp Saturn
+681,1980,Engineer,141.7668,294.2866,157.6413,144.6552,23.0154,301.3718,194.0334,294.7779,234.6122,271.263,Sun conj Venus; Moon sq Mars; Moon conj Jupiter
+682,1986,Engineer,347.6452,323.1368,329.7624,357.159,64.7775,199.6998,288.1847,44.2963,46.3738,74.2428,Moon conj Mercury; Mercury sq Mars; Jupiter sq Saturn
+683,1985,Scientist,31.6155,92.4338,45.7874,351.7381,44.8982,107.4881,347.8594,61.7772,351.7571,236.9374,Mercury conj Mars; Venus conj Saturn
+684,1987,Engineer,108.216,186.9995,124.0529,123.4951,160.1713,207.7457,250.2365,188.1599,354.967,126.7622,Mercury conj Venus; Venus sq Jupiter; Mars sq Saturn
+685,1997,Engineer,183.8125,247.6549,192.9191,140.1071,13.2242,51.0002,308.1907,77.4767,48.3149,198.7454,Mercury opp Mars; Venus sq Jupiter
+686,1998,Engineer,129.2635,46.2572,136.113,88.402,91.7883,137.4416,325.3176,144.0214,29.9715,91.5046,Sun conj Mercury; Moon sq Mercury; Moon sq Jupiter; Mercury conj Jupiter; Venus conj Mars; Jupiter opp Saturn
+687,1993,Scientist,338.4718,226.6446,325.5581,351.2513,232.4056,257.2002,202.9112,233.1976,184.1139,59.0555,Moon conj Mars; Mercury sq Mars; Venus sq Jupiter
+688,1984,Engineer,113.8897,283.6023,107.1105,158.4354,89.0992,97.2451,191.3293,246.2325,146.4413,118.5687,Sun conj Mercury; Moon opp Mercury; Moon opp Jupiter; Moon sq Saturn; Mercury sq Saturn; Jupiter sq Saturn
+689,1982,Scientist,130.615,120.0662,117.9172,166.0251,81.2756,3.5508,135.7762,348.7585,136.3076,37.801,Sun conj Saturn; Moon conj Mercury; Venus sq Mars
+690,1983,Engineer,63.2633,110.3578,81.2585,62.2667,190.4256,252.164,311.5434,198.5552,218.6881,322.7653,Sun conj Venus
+691,1985,Scientist,114.4787,270.6742,96.5964,143.8629,244.0123,283.9491,198.6018,317.5276,144.9545,213.2316,Sun sq Saturn; Moon opp Mercury; Mercury opp Jupiter; Jupiter sq Saturn
+692,1988,Engineer,3.4191,55.9769,342.4957,351.784,264.7521,19.0313,261.1509,350.8199,254.7009,89.6802,Venus sq Mars; Venus sq Saturn; Mars conj Saturn
+693,1999,Scientist,150.5677,164.8032,147.1495,136.5519,168.7197,103.2551,342.9419,187.4141,258.6481,332.5723,Sun conj Mercury; Moon conj Mars; Moon opp Saturn; Mars opp Saturn
+694,1987,Scientist,109.8675,146.3453,99.3807,70.521,28.611,262.7831,340.1521,59.4407,20.6681,267.6274,Venus sq Saturn
+695,1997,Pilot,334.652,291.0049,307.2509,17.6981,243.7319,335.6789,49.1142,179.2099,246.6439,243.6387,Sun sq Mars; Sun conj Jupiter; Moon sq Venus; Mars sq Jupiter
+696,1997,Scientist,251.2375,145.9697,257.7496,290.6826,268.5302,257.0976,252.933,269.8805,87.9214,266.0339,Sun conj Mercury; Sun conj Jupiter; Sun conj Saturn; Mercury conj Jupiter; Mercury conj Saturn; Jupiter conj Saturn
+697,1996,Pilot,246.2681,161.5147,227.7059,287.5659,274.9358,325.3675,62.9331,132.1383,47.9948,127.185,Sun sq Moon; Sun opp Saturn
+698,1981,Engineer,152.18,136.4741,145.0839,115.0504,329.0563,89.9155,194.0831,275.909,42.4315,107.7041,Sun conj Mercury; Sun opp Mars; Mercury opp Mars
+699,1989,Scientist,95.3103,0.8044,102.6562,85.0979,332.3003,334.4792,345.2886,185.5904,321.6304,336.7492,Sun sq Moon; Sun conj Mercury; Moon sq Venus; Mars conj Jupiter
+700,1999,Scientist,305.4066,165.7274,294.1143,267.6944,125.8998,260.0761,144.7445,3.1909,155.0894,71.116,Sun opp Mars; Moon sq Jupiter; Venus conj Jupiter
+701,1996,Engineer,185.1547,55.3358,164.0899,183.9463,56.0269,236.388,81.3943,142.3292,107.7426,154.2029,Sun conj Venus; Moon conj Mars; Moon opp Jupiter; Mars opp Jupiter
+702,1985,Scientist,193.1139,97.0134,220.5185,208.1167,158.1684,50.3548,268.9528,2.0917,318.0875,255.319,
+703,1983,Scientist,68.2441,14.4923,62.3387,91.6608,324.3592,57.7125,71.6371,172.5462,239.4874,95.6879,Sun conj Mercury; Sun conj Saturn; Mercury conj Jupiter; Mars sq Jupiter
+704,1993,Physician,176.0644,178.4043,186.2417,140.2981,270.3924,280.9215,143.9554,261.358,267.0816,297.2302,Sun conj Moon; Sun sq Mars; Moon conj Mercury; Moon sq Mars; Mercury sq Mars; Mercury sq Jupiter; Venus conj Saturn
+705,1984,Pilot,39.5038,38.8367,12.6883,6.4358,180.0003,276.2586,85.1418,244.1917,123.1708,351.5179,Sun conj Moon; Mercury conj Venus; Venus opp Mars; Venus sq Jupiter; Mars sq Saturn
+706,1980,Engineer,156.3583,104.208,155.5703,181.4047,89.189,54.8985,184.0463,89.808,276.0219,311.1001,Sun conj Mercury; Venus sq Mars; Venus conj Saturn; Mars sq Saturn
+707,1987,Engineer,239.879,154.4972,238.417,267.0198,37.1034,262.9644,219.9962,67.9208,307.7539,226.4068,Sun sq Moon; Sun conj Mercury; Venus conj Jupiter; Mars opp Saturn
+708,1984,Scientist,82.5783,47.6265,56.7268,129.6566,334.4754,153.4691,221.9282,32.7368,18.3439,146.627,Moon opp Saturn; Venus sq Saturn; Mars opp Jupiter
+709,1989,Pilot,252.0572,352.8448,236.4766,244.9605,22.0859,153.7462,18.596,39.6198,130.8874,339.4795,Sun conj Venus; Venus sq Jupiter; Mars conj Saturn
+710,1993,Pilot,88.9087,65.4306,60.9387,104.3101,115.7903,102.7141,100.8574,218.3479,155.1267,90.8147,Moon conj Mercury; Venus conj Jupiter; Venus conj Saturn; Jupiter conj Saturn
+711,1995,Pilot,130.8892,109.5684,108.3149,84.2008,198.6366,310.3107,119.2362,266.8652,130.0986,280.371,Sun opp Jupiter; Moon conj Mercury; Moon sq Mars; Mercury sq Mars
+712,1996,Engineer,217.697,85.7708,205.15,225.7924,31.4032,38.2916,226.6411,216.6606,14.774,348.5989,Sun opp Mars; Sun opp Jupiter; Mercury opp Mars; Venus opp Jupiter; Venus conj Saturn; Mars conj Jupiter
+713,2000,Scientist,294.2673,160.4771,271.791,336.6818,222.8437,108.5315,170.7115,273.9557,192.0807,55.322,Sun opp Jupiter; Moon opp Venus
+714,1984,Engineer,69.0144,198.1784,55.1559,105.2137,307.2378,326.4533,351.0454,322.1687,161.4536,258.2373,Moon sq Venus; Mercury sq Jupiter
+715,1993,Scientist,24.3751,150.8415,48.5297,24.7465,7.875,215.6953,250.8142,46.4163,16.3603,203.8229,Sun conj Venus
+716,1986,Pilot,266.6575,143.0978,277.0004,302.202,349.7538,59.5866,270.262,138.2942,280.574,144.3056,Sun conj Saturn; Mercury conj Saturn
+717,1988,Pilot,74.4929,1.2962,78.5191,83.3357,3.1901,334.3058,184.6064,181.3744,259.4085,93.1805,Sun conj Mercury; Moon conj Mars; Moon opp Saturn; Mercury conj Venus; Mars opp Saturn
+718,1987,Engineer,106.6909,96.6653,85.3607,80.1882,192.0837,105.0636,230.2615,339.1366,99.9923,47.8697,Sun sq Mars; Sun conj Jupiter; Moon sq Mars; Mercury conj Venus; Mars sq Jupiter
+719,1981,Engineer,231.2687,89.6429,249.3797,234.5898,0.504,125.0863,217.8574,132.8797,29.9686,253.9662,Sun conj Venus; Moon sq Mars; Jupiter sq Saturn
+720,1997,Engineer,95.0537,48.1002,117.3605,75.3637,354.6941,225.3439,3.7469,127.9739,262.9716,100.6883,Sun sq Saturn; Moon opp Jupiter
+721,1988,Engineer,349.7777,193.4599,16.5884,16.4835,280.9847,38.3194,268.4771,137.5132,235.3769,313.2093,Moon opp Mercury; Moon opp Venus; Moon sq Mars; Mercury conj Venus; Mercury sq Mars; Venus sq Mars
+722,2000,Scientist,217.563,74.2172,214.3254,200.6923,73.4107,226.7282,308.9597,142.3668,160.5801,262.7323,Sun conj Mercury; Sun sq Saturn; Moon conj Mars; Mercury sq Saturn
+723,1993,Scientist,132.7104,33.7288,114.8752,102.4731,310.4468,67.9896,176.5866,262.6128,233.1231,7.577,Sun opp Mars
+724,1985,Scientist,318.6911,294.2997,329.1836,288.7245,51.668,153.5022,163.8087,232.2428,144.9015,260.7505,Sun sq Mars; Moon conj Venus; Mercury opp Jupiter
+725,1984,Scientist,261.6353,290.8774,267.4197,249.9113,7.4577,297.5624,274.8405,232.0136,15.7464,89.4035,Sun conj Mercury; Moon conj Jupiter; Mercury conj Saturn; Mars sq Saturn
+726,1982,Scientist,96.3563,215.8694,112.7308,49.2584,284.9979,195.2533,294.5719,306.9793,30.5875,50.1228,Mercury opp Mars; Mercury opp Saturn; Mars sq Jupiter
+727,1998,Engineer,321.2605,293.5674,310.4741,319.2357,87.7712,195.6695,96.2844,195.7006,7.6348,16.0293,Sun conj Venus
+728,1997,Scientist,106.8259,184.1553,125.6689,72.442,328.3801,8.6403,153.7688,53.0555,235.9313,81.3184,Moon opp Jupiter; Mars opp Saturn
+729,1992,Engineer,247.2359,257.3464,269.7263,246.4506,356.6765,80.8281,344.3279,101.4531,27.4644,120.1409,Sun conj Venus; Moon opp Jupiter; Moon sq Saturn; Mercury sq Mars; Mars sq Jupiter
+730,1991,Scientist,332.3951,331.1545,354.5479,342.4277,64.1044,190.973,215.8601,244.596,54.0792,240.2184,Sun conj Moon; Sun sq Mars; Moon sq Mars
+731,1989,Engineer,224.913,103.322,245.9355,202.9379,179.7303,132.8805,95.5444,326.5145,287.5261,283.9882,Sun sq Jupiter; Moon conj Saturn; Mars sq Saturn
+732,1984,Engineer,280.0023,160.8103,296.6259,325.7308,293.2739,40.7391,153.8831,261.6148,52.0804,116.2992,Moon conj Saturn; Mercury conj Mars
+733,1984,Scientist,65.474,138.6063,55.3557,58.1619,249.6315,149.02,285.6606,120.0475,288.7707,235.4235,Sun conj Venus; Sun opp Mars; Mercury conj Venus; Mercury sq Jupiter; Venus sq Jupiter
+734,1987,Engineer,137.9467,197.7621,140.1165,137.2364,193.0365,82.8412,30.1024,257.3716,189.7005,279.5733,Sun conj Mercury; Sun conj Venus; Moon conj Mars; Mercury conj Venus
+735,1987,Engineer,253.1136,84.6695,225.2741,300.5285,6.1757,201.0148,344.7417,331.5255,21.4479,125.7651,Sun sq Saturn
+736,1984,Scientist,106.091,51.8905,125.8765,151.3857,328.6634,87.2991,298.0159,20.1116,49.6085,346.3387,Mercury opp Saturn; Venus opp Mars
+737,1984,Engineer,135.8859,9.4849,161.921,123.5676,252.5046,238.589,26.5573,301.4774,313.3717,10.8669,Mercury sq Mars
+738,1991,Engineer,50.8599,88.2165,23.5586,82.6424,149.9382,275.5504,169.1153,50.4405,189.882,341.5557,Moon conj Venus; Moon opp Jupiter; Venus sq Saturn
+739,1995,Scientist,148.1481,121.4413,163.9063,166.8918,103.2369,56.1194,317.2166,11.5629,270.4079,181.1864,Sun sq Jupiter; Mercury conj Venus
+740,1980,Engineer,142.7006,152.5035,167.8022,138.3131,256.1064,92.8996,205.9434,110.1722,81.8333,335.3221,Sun conj Venus; Mercury sq Mars
+741,1988,Scientist,350.324,187.7404,17.0879,314.3368,76.2711,222.8558,78.8063,66.1298,268.5585,201.3459,Sun sq Mars; Sun sq Saturn; Venus sq Jupiter; Mars conj Saturn
+742,1982,Engineer,293.9612,168.637,283.4998,307.5827,297.8113,59.3368,289.2021,232.793,70.103,39.0243,Sun conj Mars; Sun conj Saturn; Mercury conj Saturn
+743,1982,Scientist,130.5726,280.367,121.359,105.5675,58.5937,38.3272,76.2876,3.9517,327.4873,67.5878,Sun sq Jupiter; Moon opp Venus
+744,1986,Engineer,229.82,96.9005,256.5132,236.0405,202.9462,284.4813,16.445,113.2489,339.6633,3.0523,Sun conj Venus; Moon opp Jupiter; Mars opp Saturn; Jupiter sq Saturn
+745,1991,Scientist,270.6046,345.146,270.6167,252.7939,140.6309,128.1014,46.6261,242.8871,119.2745,322.744,Sun conj Mercury; Moon sq Venus; Mars sq Saturn
+746,1996,Pilot,36.361,54.0672,41.2429,25.0438,211.089,306.7298,104.443,54.5536,166.7182,318.6734,Sun conj Mercury; Sun opp Mars; Sun sq Jupiter; Mercury sq Jupiter; Venus opp Mars; Mars sq Jupiter
+747,1982,Engineer,343.0146,245.3255,322.9029,3.9958,357.63,180.5832,357.2204,219.146,188.3834,276.709,Venus conj Mars; Venus opp Jupiter; Venus conj Saturn; Mars opp Jupiter; Mars conj Saturn; Jupiter opp Saturn
+748,1994,Engineer,282.7267,122.0475,274.9044,316.8981,155.1245,320.6448,278.703,139.5483,75.1754,219.7394,Sun conj Mercury; Sun conj Saturn; Mercury conj Saturn; Venus conj Jupiter
+749,1982,Engineer,344.8856,204.0843,12.5723,306.2366,5.379,275.8742,111.4352,312.3121,287.0579,322.2485,Moon sq Saturn; Mercury conj Mars; Mars sq Jupiter
+750,1995,Engineer,33.881,112.9387,58.1882,1.3824,100.8422,130.7982,32.1225,64.5071,277.8986,92.8599,Sun conj Saturn
+751,1995,Engineer,352.2542,274.7327,349.0087,32.9736,338.3386,349.805,175.7732,130.85,103.185,147.252,Sun conj Mercury; Sun conj Jupiter; Sun opp Saturn; Mercury conj Jupiter; Mercury opp Saturn; Jupiter opp Saturn
+752,1999,Engineer,330.1704,304.1408,355.485,318.044,245.5923,182.1393,94.6179,315.1931,245.72,223.4209,Sun sq Mars; Mercury opp Jupiter; Jupiter sq Saturn
+753,2000,Pilot,20.5411,55.6424,358.4378,8.62,205.2481,307.3785,80.2985,314.6972,240.8942,125.6177,Sun opp Mars
+754,1994,Scientist,231.2944,324.0455,229.3262,191.5334,263.4401,330.2857,332.0967,276.558,71.8096,118.3394,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Moon conj Jupiter; Jupiter conj Saturn
+755,1990,Engineer,123.2725,217.573,107.18,146.4358,41.1575,163.6483,196.2292,341.4721,52.385,76.8493,Sun sq Moon; Moon opp Mars; Mercury sq Saturn
+756,1998,Engineer,11.2764,136.9025,35.7181,357.9797,154.8395,170.4275,19.4679,312.4874,342.9522,246.1217,Venus opp Jupiter
+757,1988,Engineer,90.7457,63.398,70.683,69.0406,29.4153,314.5593,162.5115,151.0999,77.0778,321.5064,Moon conj Mercury; Moon conj Venus; Mercury conj Venus; Mercury sq Saturn; Venus sq Saturn
+758,1985,Scientist,298.9977,324.591,290.1507,323.3026,59.232,125.7395,150.8764,171.1798,247.979,57.8481,Sun opp Jupiter; Moon conj Venus; Moon sq Mars; Moon opp Saturn; Venus sq Mars; Venus opp Saturn; Mars sq Saturn
+759,1993,Scientist,127.6893,249.4445,121.481,80.6427,281.9061,214.9663,28.0111,240.4665,221.9445,116.5437,Sun conj Mercury; Sun sq Jupiter; Mercury sq Jupiter; Mercury sq Saturn; Jupiter opp Saturn
+760,1990,Scientist,5.1072,179.8004,354.8261,33.1409,242.6203,94.609,260.023,355.7659,339.5965,308.6161,Sun opp Moon; Sun sq Jupiter; Moon opp Mercury; Moon sq Jupiter; Mercury sq Saturn
+761,2000,Pilot,161.7583,35.0806,146.0012,207.7454,151.2634,196.591,59.7964,135.9204,125.3108,342.8557,Moon opp Venus; Mercury conj Mars; Mercury sq Saturn; Mars sq Saturn
+762,1998,Pilot,343.8376,294.8585,322.8233,343.7541,359.6573,149.0593,126.6224,298.1469,153.3057,350.6653,Sun conj Venus; Mercury opp Jupiter
+763,1990,Engineer,40.8168,63.293,36.8063,9.7987,214.1611,195.3946,137.3628,304.233,247.8782,157.4977,Sun conj Mercury; Sun opp Mars; Mercury opp Mars; Venus opp Jupiter
+764,1989,Engineer,252.7533,337.6446,275.4828,214.279,31.5433,301.4044,32.2697,5.9135,335.6988,37.3231,Sun sq Moon; Venus opp Mars; Venus sq Jupiter; Venus opp Saturn; Mars sq Jupiter; Mars conj Saturn; Jupiter sq Saturn
+765,1999,Scientist,333.8024,159.8772,338.3515,288.9354,104.3656,151.4307,80.2366,163.6668,137.1887,70.4017,Sun opp Moon; Sun conj Mercury; Sun opp Jupiter; Moon opp Mercury; Mercury opp Jupiter; Venus opp Mars
+766,1995,Scientist,342.1985,285.7504,340.1796,21.3659,232.1494,282.4687,142.4911,338.2621,281.5906,182.7219,Sun conj Mercury; Moon sq Venus; Moon conj Jupiter; Mars sq Saturn
+767,1988,Physician,316.6586,301.8543,333.1863,308.4714,86.9596,324.0674,149.2404,5.5908,55.2151,134.7861,Sun conj Jupiter; Moon conj Venus; Mercury opp Saturn; Jupiter opp Saturn
+768,1996,Scientist,295.2124,215.9804,285.9774,339.2918,357.4185,87.0592,350.4565,69.3577,231.9964,298.278,Mars sq Jupiter; Mars conj Saturn
+769,1998,Pilot,154.4769,140.5482,167.2512,145.1763,114.525,57.0397,83.149,255.609,45.4789,42.6142,Moon conj Venus; Mercury sq Saturn; Venus sq Jupiter
+770,1998,Engineer,282.3413,303.4911,289.4711,259.3234,199.046,341.5321,73.3545,33.5755,157.4716,226.4019,Sun conj Mercury; Mercury sq Mars; Venus opp Saturn; Jupiter sq Saturn
+771,1998,Scientist,55.0975,222.5159,57.5432,100.4479,205.8458,9.1044,264.3009,354.0291,228.4067,279.9323,Sun conj Mercury; Venus sq Jupiter
+772,1985,Scientist,86.2999,106.8921,88.2832,61.8443,280.8104,282.9774,277.341,237.3328,98.9873,336.5913,Sun conj Mercury; Moon opp Mars; Moon opp Jupiter; Mars conj Jupiter; Mars conj Saturn; Jupiter conj Saturn
+773,2000,Scientist,8.3307,39.9353,32.2538,332.1084,51.0607,94.3181,65.026,27.8573,304.0645,328.5789,Sun sq Jupiter; Moon conj Mercury; Venus sq Saturn
+774,1986,Scientist,140.6881,176.7733,113.9177,99.7514,345.3182,27.4726,247.4411,135.0916,112.8906,326.9889,Mercury sq Jupiter
+775,1985,Engineer,64.7303,3.6505,46.7362,71.1905,218.3957,11.3222,351.3297,357.7462,174.208,221.0418,Sun conj Venus; Moon conj Jupiter
+776,1997,Scientist,1.8052,91.6204,340.6145,11.9919,192.9435,186.4782,273.946,77.8704,131.3606,323.4861,Sun sq Moon; Sun opp Jupiter; Sun sq Saturn; Moon sq Jupiter; Moon opp Saturn; Venus opp Mars; Venus opp Jupiter; Mars conj Jupiter; Jupiter sq Saturn
+777,1980,Engineer,117.9143,79.114,130.668,160.1397,96.3326,173.367,343.1626,125.4792,198.539,105.9555,Moon sq Jupiter; Moon sq Saturn; Venus opp Saturn
+778,1995,Engineer,156.9823,332.0453,142.9875,127.9785,304.5729,258.2626,346.2737,37.0421,285.5352,211.5284,Sun opp Moon; Venus opp Mars; Jupiter sq Saturn
+779,1985,Engineer,285.8758,343.3543,285.1944,322.6301,152.5454,268.9485,293.7212,224.2479,218.6264,154.5527,Sun conj Mercury; Sun conj Saturn
+780,1998,Engineer,127.0496,294.963,124.2162,164.4368,344.9151,91.1029,147.531,217.3976,315.8108,342.1361,Sun conj Mercury; Venus opp Mars
+781,1996,Engineer,126.8112,10.7784,108.8858,109.7886,284.7227,128.788,26.1505,236.5037,133.9071,280.6252,Sun conj Jupiter; Moon sq Mars; Mercury conj Venus; Mercury opp Mars; Venus opp Mars
+782,1983,Engineer,3.4679,76.9581,7.2462,346.3378,83.7535,23.8447,102.1011,76.3831,78.2868,201.9451,Sun conj Mercury; Moon sq Venus; Moon conj Mars; Mercury sq Saturn
+783,1999,Engineer,340.6576,290.6735,350.2529,347.7566,232.6572,245.5675,156.674,292.822,71.3341,17.8775,Sun conj Venus; Sun sq Jupiter; Sun opp Saturn; Mercury conj Venus; Jupiter sq Saturn
+784,1995,Scientist,179.5143,356.4935,175.1036,143.4272,61.6103,117.6749,137.8287,207.509,102.6133,231.72,Sun opp Moon; Sun conj Mercury; Moon opp Mercury; Venus conj Saturn
+785,1998,Scientist,355.6637,328.1915,343.5882,28.4614,145.0119,322.4986,330.4924,14.0833,232.1192,25.0035,Moon opp Mars; Moon conj Jupiter; Moon conj Saturn; Mars opp Jupiter; Mars opp Saturn; Jupiter conj Saturn
+786,1983,Physician,298.7461,149.4284,287.602,281.1963,124.4968,28.7162,278.8608,177.7747,16.9462,107.4398,Sun opp Mars; Sun sq Jupiter; Mercury conj Venus; Venus conj Saturn; Mars sq Jupiter
+787,1994,Pilot,177.6012,230.795,200.5876,210.5364,337.5734,36.9877,80.6452,297.1644,49.9444,357.6745,Venus opp Jupiter
+788,1993,Engineer,81.4829,31.686,94.0329,111.4619,293.8131,193.521,1.7789,247.7668,18.8968,317.995,Mercury sq Saturn; Venus opp Mars
+789,1981,Scientist,39.8893,27.0152,30.3317,50.7134,292.4948,97.1683,61.3219,49.5948,165.8498,45.4639,Moon conj Mercury; Moon sq Mars
+790,1984,Pilot,271.0925,319.6074,297.1794,262.7688,160.8407,44.0544,189.932,208.0385,238.0568,351.4858,Moon sq Jupiter
+791,1990,Physician,278.1518,173.7743,255.2926,303.7072,256.0973,127.0835,300.7952,87.2555,232.9683,308.1109,Mercury conj Mars; Venus opp Jupiter; Venus conj Saturn; Jupiter opp Saturn
+792,1982,Physician,27.052,178.0581,10.9506,43.4199,168.5341,138.6217,175.5524,122.5621,293.0384,274.1769,Moon conj Saturn; Venus sq Jupiter; Mars conj Saturn
+793,1996,Engineer,309.0452,273.7757,298.5074,304.6313,55.4396,181.6241,329.0851,78.7625,130.9118,351.0233,Sun conj Venus; Moon sq Jupiter; Mercury conj Venus; Mars sq Saturn
+794,1999,Engineer,184.8471,280.8076,167.3724,163.5195,59.1107,110.5728,313.1393,233.4179,53.0243,315.4306,Sun sq Moon; Mercury conj Venus
+795,1983,Engineer,86.6025,67.3307,60.2033,102.1435,162.9507,95.6083,333.694,30.264,155.3305,54.2232,Moon conj Mercury; Moon sq Mars; Moon sq Saturn; Mercury sq Saturn; Venus conj Jupiter
+796,1996,Engineer,155.1054,120.1462,151.8205,142.6044,17.6884,137.7081,334.0872,69.8154,68.2019,63.5922,Sun conj Mercury; Sun opp Saturn; Mercury opp Saturn; Venus conj Jupiter
+797,1988,Pilot,190.6426,177.7018,186.9223,208.034,232.6841,345.2298,79.0487,19.1296,12.8477,95.8242,Sun conj Mercury; Jupiter sq Saturn
+798,1982,Pilot,191.5674,99.1654,212.993,210.7206,145.6414,141.4388,79.1598,296.6647,249.0062,178.2618,Sun sq Moon; Mercury conj Venus; Mars conj Jupiter
+799,1985,Engineer,282.862,125.1479,270.9895,292.108,264.1976,33.9273,181.1665,252.1696,171.633,109.9167,Moon sq Jupiter; Mercury conj Mars; Mercury sq Saturn
+800,1987,Engineer,61.2837,59.9924,51.8844,56.9845,346.4075,239.7713,154.0521,7.4977,350.7735,317.2527,Sun conj Moon; Sun conj Venus; Sun opp Jupiter; Sun sq Saturn; Moon conj Venus; Moon opp Jupiter; Moon sq Saturn; Mercury conj Venus; Mercury opp Jupiter; Venus opp Jupiter; Jupiter sq Saturn
+801,1985,Engineer,244.5131,307.1123,249.7773,289.589,209.9372,175.7906,89.1038,39.379,294.8135,204.216,Sun conj Mercury; Jupiter sq Saturn
+802,1989,Engineer,300.7293,189.0969,282.0983,266.8012,33.8076,109.6568,265.0271,162.9419,264.5334,356.3255,Sun sq Mars; Moon sq Mercury; Mercury opp Jupiter; Venus conj Saturn
+803,1988,Engineer,238.8271,91.2733,236.5171,270.291,108.4083,120.146,186.4192,239.0173,311.446,303.731,Sun conj Mercury; Moon opp Venus; Moon sq Saturn
+804,1995,Engineer,40.594,7.4618,67.3977,74.7955,237.3721,50.9879,179.2196,87.9724,266.7645,350.3846,Mercury conj Venus; Mars opp Jupiter
+805,1991,Scientist,74.2707,32.1386,97.827,62.5374,38.8554,98.6126,225.681,196.1699,328.4606,355.4394,Moon conj Mars; Mercury conj Jupiter; Mars opp Saturn
+806,1996,Scientist,62.9828,125.5842,53.5298,71.541,340.2959,99.449,68.6062,208.6261,252.6608,300.3018,Sun conj Saturn; Venus sq Mars; Venus conj Saturn; Mars sq Saturn
+807,1983,Engineer,156.0455,163.81,182.262,184.1102,103.8271,349.0092,179.6137,246.7896,167.8743,54.082,Sun conj Moon; Moon opp Jupiter; Mercury conj Venus; Mercury conj Saturn; Venus conj Saturn
+808,1989,Physician,224.5662,239.1553,213.5704,204.2392,287.9226,5.6133,14.7431,101.8862,213.5058,19.1496,Mars sq Saturn
+809,1989,Scientist,1.8325,126.812,20.5427,318.6231,49.5788,316.34,282.6948,180.7176,345.0687,201.8697,Venus sq Mars; Venus conj Jupiter; Mars sq Jupiter
+810,1982,Scientist,256.751,263.8991,252.9458,296.9039,104.6887,11.5692,335.8565,89.5423,244.2601,139.0467,Sun conj Moon; Sun conj Mercury; Mars sq Jupiter
+811,1992,Pilot,348.0865,203.0067,358.1062,331.0445,208.1403,245.9956,71.8224,48.8487,199.5422,108.3824,Moon conj Mars; Venus sq Jupiter; Jupiter opp Saturn
+812,1982,Physician,107.0403,166.0156,89.3091,134.1512,300.1868,34.5752,189.5657,249.888,181.3735,246.6588,Mars sq Jupiter
+813,1991,Scientist,168.6164,153.9609,164.1647,160.0012,9.9623,201.2073,344.697,151.5307,272.1083,221.4751,Sun conj Mercury; Sun opp Saturn; Moon conj Venus; Mercury conj Venus; Mercury opp Saturn; Venus opp Saturn
+814,1989,Engineer,283.1875,208.9161,276.0818,294.793,323.9685,316.0099,19.273,304.2386,45.3369,241.2285,Sun conj Mercury; Moon sq Venus; Venus sq Saturn; Mars conj Jupiter
+815,1994,Physician,290.6932,314.9679,288.4655,247.9104,19.6894,298.7619,233.9568,120.054,35.0637,104.6077,Sun conj Mercury; Sun sq Mars; Mercury sq Mars
+816,1995,Engineer,248.6134,311.1531,227.4142,256.7367,183.8955,258.1025,252.5662,185.8551,202.3377,348.2202,Sun conj Saturn; Venus conj Jupiter; Venus conj Saturn; Jupiter conj Saturn
+817,1984,Engineer,80.4757,243.2451,100.202,61.3613,111.9207,356.0971,2.3223,174.5839,247.5989,41.2952,Sun sq Jupiter; Moon opp Venus; Jupiter conj Saturn
+818,1980,Engineer,55.088,187.1361,40.9315,17.0342,8.8763,182.0896,140.657,333.376,107.9726,174.139,Sun sq Saturn; Moon opp Mars; Moon conj Jupiter; Mars opp Jupiter
+819,1985,Engineer,295.2975,303.0195,297.9138,326.1794,245.2754,309.353,222.1771,155.6473,229.031,66.5308,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Moon conj Jupiter; Jupiter sq Saturn
+820,1987,Scientist,61.4792,196.8052,60.144,41.3227,240.3128,345.2729,177.4671,240.3719,140.8281,251.155,Sun conj Mercury; Sun opp Mars; Mercury opp Mars
+821,1983,Scientist,167.0269,292.8577,147.3243,146.2355,43.2455,140.1946,208.9937,12.2701,234.152,236.5889,Mercury conj Venus; Mercury conj Jupiter; Venus conj Jupiter
+822,1994,Engineer,15.3474,168.4466,27.8391,353.9302,353.4313,128.7892,308.1022,181.154,125.5803,254.2409,Moon opp Venus; Moon opp Mars; Venus conj Mars; Jupiter opp Saturn
+823,1992,Pilot,184.6963,62.8189,165.1748,199.6659,202.7332,165.4134,309.119,50.4141,282.5859,237.0398,Mercury conj Jupiter; Venus conj Mars
+824,1992,Scientist,24.5556,174.1481,50.4587,34.7165,64.9348,255.0601,182.5129,237.2058,93.3214,251.1967,
+825,1998,Pilot,343.8701,222.291,338.4814,300.1833,306.7312,57.3047,34.7546,38.2394,336.3242,171.5087,Sun conj Mercury; Moon sq Mars; Moon opp Saturn; Venus conj Mars; Venus sq Saturn; Mars sq Saturn
+826,1987,Pilot,353.2782,291.08,6.3065,327.9935,323.926,62.6393,321.2902,272.093,151.2202,23.1732,Venus conj Mars; Venus sq Jupiter; Venus conj Saturn; Mars conj Saturn
+827,1999,Scientist,90.1742,13.4706,104.1705,84.5609,134.756,227.2659,10.6054,62.6642,38.758,161.8235,Sun conj Venus; Moon sq Mercury; Moon conj Saturn; Mercury sq Saturn; Mars sq Jupiter
+828,1984,Engineer,355.9935,206.5607,339.1786,332.233,157.5053,102.9922,72.4294,58.3522,292.9816,291.122,Mercury conj Venus; Mercury opp Mars; Mercury sq Saturn; Venus opp Mars; Mars sq Saturn
+829,1986,Scientist,30.9666,8.7275,56.7172,352.2024,11.9661,50.6025,1.8851,278.7788,204.5862,311.2168,Moon conj Mars; Moon conj Saturn; Mercury conj Jupiter
+830,1990,Physician,66.7096,231.2037,66.4954,98.6202,205.3332,170.5438,126.7582,222.6524,201.131,49.6345,Sun conj Mercury
+831,1982,Engineer,157.9961,225.1695,178.9388,164.6347,45.7893,186.2089,36.3287,179.5364,18.5324,194.5937,Sun conj Venus; Moon opp Mars; Mercury conj Jupiter
+832,1980,Scientist,80.6476,90.4975,92.0309,39.1711,313.7304,348.5213,26.9198,207.1281,307.1503,335.4513,Sun sq Jupiter; Moon conj Mercury; Venus sq Mars
+833,1996,Engineer,112.4062,222.7122,114.9789,150.0198,209.7981,337.2937,354.5762,235.1635,11.6189,151.7061,Sun conj Mercury; Mercury sq Mars; Venus opp Jupiter
+834,1986,Scientist,120.4348,275.3049,100.235,124.9552,264.1942,332.7027,238.801,316.1773,84.8222,26.2483,Sun conj Venus; Moon opp Mercury; Jupiter sq Saturn
+835,1998,Engineer,325.5566,253.1127,340.4287,280.9514,353.1802,341.9668,215.3331,220.4758,29.0137,198.5131,Moon sq Mercury; Moon sq Jupiter; Mercury conj Jupiter
+836,1984,Scientist,97.383,15.0268,71.3766,98.113,234.1213,155.3456,109.2306,305.9401,349.7276,7.7196,Sun conj Venus; Moon sq Saturn
+837,1981,Scientist,9.4874,70.6227,15.5432,357.9087,246.0942,6.5142,173.5824,139.3649,135.802,45.0855,Sun conj Mercury; Sun conj Jupiter; Moon opp Mars; Venus opp Saturn
+838,1993,Pilot,197.8362,41.61,176.4438,208.9389,325.2785,126.6441,123.5252,330.5047,85.7413,33.1167,Moon sq Jupiter; Venus sq Saturn; Jupiter conj Saturn
+839,1980,Engineer,81.7653,204.4975,109.2579,35.1956,259.1377,292.5439,27.5802,45.6177,65.0137,15.739,Sun opp Mars; Moon sq Mercury; Moon sq Jupiter; Moon opp Saturn; Mercury opp Jupiter; Venus conj Saturn; Jupiter sq Saturn
+840,1991,Engineer,216.8698,320.5529,244.7627,181.3225,143.2147,236.7298,236.3725,27.496,337.8133,74.1099,Moon opp Mars; Moon sq Saturn; Mars sq Jupiter; Mars sq Saturn; Jupiter conj Saturn
+841,1991,Engineer,323.1505,309.1537,319.9888,304.2115,132.0961,198.5061,312.8295,87.9141,321.4723,114.7892,Sun conj Mercury; Moon conj Venus; Moon opp Mars; Moon conj Saturn; Mercury opp Mars; Mercury conj Saturn; Venus opp Mars; Mars opp Saturn
+842,1997,Pilot,181.2403,19.4391,203.6642,200.9685,223.8738,100.7222,73.2798,49.3673,351.3378,82.9929,Moon opp Mercury; Moon opp Venus; Mercury conj Venus
+843,1997,Engineer,75.8771,134.0604,93.5943,41.5053,352.0475,251.4031,233.9669,163.3547,41.1259,179.6067,Sun opp Jupiter; Moon sq Venus
+844,1981,Engineer,97.3075,211.7665,86.1306,141.9567,21.4992,307.6467,138.2171,6.7855,137.7317,159.8471,Moon sq Jupiter; Venus conj Saturn
+845,1987,Physician,74.0628,66.3936,70.2036,31.0798,109.8533,194.9577,125.2096,9.3572,219.1461,321.541,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Venus sq Saturn; Mars sq Jupiter
+846,1988,Engineer,291.6877,212.7451,306.0939,276.4184,298.5262,156.2674,153.9177,262.5214,264.7492,20.5627,Sun conj Mars; Moon sq Mercury; Moon sq Mars; Mercury conj Mars; Jupiter conj Saturn
+847,1983,Physician,199.1859,342.8905,223.4044,178.7781,356.7208,192.5141,152.5806,258.9193,276.8444,93.6363,Sun conj Jupiter; Venus opp Mars
+848,1992,Scientist,168.2397,85.7617,191.0716,147.1869,245.7355,98.7814,359.5702,277.6821,106.497,205.5897,Moon sq Saturn; Mercury sq Jupiter
+849,1981,Scientist,221.597,130.2102,230.5139,248.7099,291.6934,218.8797,44.7503,204.6388,115.5562,95.2263,Sun sq Moon; Sun conj Jupiter; Sun opp Saturn; Moon sq Jupiter; Moon sq Saturn; Mercury opp Saturn; Jupiter opp Saturn
+850,1985,Scientist,159.7711,6.216,132.2679,115.3235,129.1405,229.5875,200.379,147.0999,208.6453,28.6369,Mercury conj Mars; Venus sq Saturn
+851,1999,Scientist,198.5212,343.1856,195.1858,175.2899,283.2249,93.4347,178.1744,81.8708,62.8183,313.6461,Sun conj Mercury; Sun sq Mars; Mercury sq Mars; Venus conj Saturn; Jupiter sq Saturn
+852,2000,Scientist,17.8487,41.2008,352.0048,35.5551,309.8053,208.7607,15.104,258.2488,21.8926,257.2378,Sun conj Saturn; Moon conj Venus; Moon sq Mars; Venus sq Mars; Venus opp Jupiter
+853,1988,Scientist,351.1016,304.1751,10.6684,354.984,16.1039,84.4909,39.2989,182.4977,40.7457,27.8821,Sun conj Venus; Sun sq Jupiter; Moon sq Saturn; Mercury conj Mars; Venus sq Jupiter
+854,1986,Pilot,117.2841,133.6894,135.3549,109.2171,231.0793,315.3071,51.5086,117.5546,283.7392,120.5949,Moon conj Mercury; Moon opp Jupiter; Mercury sq Mars; Mercury opp Jupiter; Mars sq Jupiter; Mars opp Saturn
+855,1993,Scientist,323.0612,339.2926,311.5287,278.0523,132.5887,104.7141,54.0228,212.8419,38.2436,76.1327,Sun sq Saturn; Mercury opp Mars; Venus opp Jupiter
+856,1990,Scientist,183.8866,281.1146,184.3448,191.7093,123.859,77.3527,299.0616,11.7358,261.4535,137.1923,Sun conj Mercury; Sun conj Venus; Moon sq Venus; Mercury conj Venus; Mars opp Saturn
+857,2000,Scientist,28.2402,27.8321,52.6292,1.8,181.2585,206.7981,197.3639,150.5088,263.8964,305.1342,Sun conj Moon; Sun opp Jupiter; Moon opp Jupiter; Venus opp Mars
+858,1996,Scientist,287.354,218.5567,296.2691,289.3063,114.0982,70.2085,207.0877,327.985,118.3264,287.6421,Sun conj Venus; Sun opp Mars; Mercury conj Venus; Mercury opp Mars; Mercury sq Saturn; Venus opp Mars; Mars sq Saturn
+859,1991,Engineer,83.1207,113.3339,109.5749,101.6557,160.2027,344.7391,147.5733,28.6884,201.7646,27.5198,Moon conj Mercury; Mercury conj Venus; Mars opp Jupiter
+860,1991,Engineer,235.1988,217.8787,232.341,227.4084,204.9632,297.6422,45.1013,193.5417,279.5214,146.7423,Sun conj Mercury; Sun conj Venus; Moon opp Saturn; Mercury conj Venus; Mercury opp Saturn; Venus opp Saturn; Mars sq Jupiter
+861,1998,Scientist,239.725,217.9964,256.2929,224.5158,42.467,147.061,181.8093,53.4235,177.9121,317.3188,Sun sq Jupiter; Moon conj Venus; Moon opp Mars; Venus opp Mars
+862,1986,Engineer,323.9541,315.5061,296.8228,287.5498,94.8154,199.6484,334.8451,267.4274,45.5033,12.2672,Venus sq Jupiter
+863,1993,Engineer,8.6153,60.0968,344.7042,10.0454,190.5515,139.7211,152.0491,45.8831,250.8943,86.9166,Sun conj Venus; Sun opp Mars; Moon sq Saturn; Venus opp Mars
+864,1989,Engineer,42.8507,212.9321,49.3819,90.2875,16.2856,265.9494,127.7847,161.6023,147.1949,161.9113,Sun conj Mercury; Sun sq Saturn; Moon sq Saturn; Venus opp Jupiter
+865,1993,Pilot,104.1448,171.7582,83.6827,73.7561,275.7441,329.8831,337.1837,30.1642,322.4157,213.6792,Moon sq Mercury; Jupiter conj Saturn
+866,1991,Engineer,242.6066,163.2698,232.551,211.5719,260.1119,100.5479,278.2823,83.6149,177.5856,17.3837,Jupiter opp Saturn
+867,1996,Scientist,323.0286,208.7382,342.2962,315.9908,116.208,114.6882,64.2297,51.5508,293.0354,264.4653,Sun conj Venus; Moon sq Mars; Moon sq Jupiter; Mars conj Jupiter
+868,1986,Scientist,154.9936,100.1722,176.2502,137.1728,125.0444,59.6133,103.6235,175.1889,80.508,60.9555,Sun sq Jupiter; Moon conj Saturn
+869,1988,Engineer,355.97,271.2488,19.7429,11.9476,50.7611,74.4635,301.9644,271.7513,9.846,324.9149,Sun sq Moon; Mercury conj Venus
+870,1997,Engineer,193.6497,70.2478,192.9982,224.6,133.0346,101.4615,341.2367,153.5409,160.1369,45.4243,Sun conj Mercury; Sun sq Jupiter; Moon sq Saturn; Mercury sq Jupiter; Venus sq Mars
+871,1994,Engineer,106.179,39.4614,117.733,139.2744,159.9858,155.6157,94.7004,311.221,357.5078,263.3881,Mars conj Jupiter
+872,1983,Pilot,348.6382,289.3108,2.3178,321.9927,26.7661,56.4218,120.7214,163.2471,264.7878,241.9493,Venus sq Jupiter; Mars sq Saturn
+873,1982,Engineer,254.4515,113.3316,278.2364,248.0558,335.6525,285.9111,114.3098,302.9152,238.007,315.9265,Sun conj Venus; Moon opp Jupiter; Moon conj Saturn; Mercury conj Jupiter; Venus sq Mars
+874,1981,Engineer,341.7057,225.8226,327.4769,349.9947,313.9613,79.2754,70.4442,169.2415,174.4226,67.3577,Sun sq Saturn; Moon sq Mars; Venus sq Jupiter
+875,1995,Scientist,101.7359,71.4863,122.7843,145.0158,308.5764,269.8006,1.1512,24.2141,200.7854,75.0769,Mercury opp Mars; Jupiter sq Saturn
+876,1985,Pilot,13.9726,84.4977,5.5,16.8969,343.5607,316.0403,302.6491,315.0141,240.4713,176.4799,Sun conj Venus
+877,2000,Pilot,141.1956,128.566,140.1293,102.4628,40.4523,317.1223,271.786,103.4177,348.9704,117.1429,Sun conj Mercury; Sun opp Jupiter; Moon sq Mars; Mercury opp Jupiter
+878,1993,Scientist,41.6949,167.3049,31.5536,4.5944,250.9087,253.7348,278.5254,174.1459,289.6997,176.1028,Moon sq Jupiter; Venus sq Saturn; Mars conj Jupiter
+879,1993,Engineer,247.3999,96.4526,231.4458,281.0948,147.2421,202.4126,116.3491,242.9961,148.0425,291.251,Moon opp Venus; Mercury sq Mars; Jupiter sq Saturn
+880,1993,Engineer,143.5246,96.5942,156.3031,128.1494,294.6689,111.0638,147.5322,206.1021,59.9527,74.2323,Sun conj Saturn; Mars opp Jupiter
+881,2000,Engineer,39.7136,46.5175,41.9406,82.9404,7.6024,136.5077,280.9561,119.9837,126.9722,275.7647,Sun conj Moon; Sun conj Mercury; Moon conj Mercury; Moon sq Jupiter; Mercury sq Jupiter; Mars sq Saturn
+882,1982,Scientist,235.7754,186.7136,228.0528,206.8256,56.5174,192.8516,309.5002,82.5604,288.4627,327.8354,Sun conj Mercury; Sun opp Mars; Moon conj Jupiter
+883,1990,Engineer,148.8223,199.0624,134.7497,102.1318,304.3735,271.8439,189.5599,180.5398,284.8836,15.2227,Venus sq Saturn
+884,1989,Scientist,108.5279,82.8019,123.783,84.2696,98.085,44.5114,282.2593,235.8993,47.2295,266.5893,Sun opp Saturn; Moon conj Venus; Mars opp Saturn
+885,1988,Pilot,310.3141,181.6235,321.7095,332.6475,7.2555,267.3547,195.0113,330.8308,34.4004,211.7505,Moon opp Mars; Moon sq Jupiter; Mars opp Saturn
+886,1992,Pilot,69.9423,218.049,59.4249,53.02,184.448,8.4355,98.6579,72.96,95.1372,236.1783,Mercury conj Venus; Mars opp Jupiter; Mars sq Saturn; Jupiter sq Saturn
+887,1995,Scientist,135.5691,154.6324,120.0152,126.5768,100.2808,102.3923,253.0366,182.3737,137.667,357.5354,Mercury conj Venus; Mars conj Jupiter
+888,1992,Scientist,342.5247,274.5721,354.5411,337.9426,208.0366,8.9611,277.6341,160.9507,171.6503,39.2214,Sun conj Venus; Moon sq Jupiter; Moon conj Saturn; Jupiter sq Saturn
+889,1989,Pilot,119.6768,291.4851,146.3225,80.8341,60.9321,311.338,176.3321,89.9889,50.879,221.9358,Mercury sq Mars; Venus sq Saturn
+890,1995,Scientist,188.426,302.274,203.0186,146.0836,177.6304,148.2691,266.584,300.3564,13.1435,248.0391,Venus conj Jupiter; Mars sq Saturn
+891,1999,Scientist,146.3523,2.0058,157.0146,170.836,286.0905,196.4119,112.6858,234.7231,115.8617,255.1925,Mars sq Jupiter; Mars opp Saturn
+892,1996,Pilot,199.7306,266.2866,212.7825,240.1687,153.2527,27.9016,45.8217,4.9048,187.178,43.732,Mercury opp Jupiter; Venus sq Mars
+893,1986,Engineer,157.5365,14.0623,153.2907,125.9258,289.1353,175.3896,269.6376,196.9506,143.786,106.8304,Sun conj Mercury; Moon sq Mars; Jupiter sq Saturn
+894,1993,Engineer,358.468,259.1795,19.7606,336.4943,116.059,320.2362,202.9717,59.7404,104.4708,246.6086,Mercury opp Saturn; Mars sq Saturn
+895,1999,Scientist,342.7183,217.6264,341.1565,314.9376,118.8638,268.8351,358.6272,334.023,59.1258,257.4293,Sun conj Mercury; Jupiter sq Saturn
+896,1995,Scientist,3.5356,149.8691,343.9552,321.9722,351.7114,112.2626,67.5628,249.8563,193.5833,119.1726,Moon opp Venus; Mercury conj Mars
+897,1981,Physician,224.9902,214.0036,200.7294,238.0792,318.0035,124.1847,5.0866,69.3506,102.3075,328.1439,Sun sq Mars; Moon sq Jupiter
+898,1993,Scientist,210.4086,110.0701,217.3807,201.1224,91.7098,194.7661,237.3723,27.8914,54.8718,263.0369,Sun conj Mercury; Moon sq Venus; Moon sq Jupiter; Venus conj Jupiter
+899,1988,Scientist,64.1971,202.9175,43.2925,66.3396,232.1388,137.8607,207.2361,307.2241,217.7191,347.9972,Sun conj Venus; Moon conj Saturn; Mercury sq Jupiter; Mars sq Jupiter
+900,1999,Pilot,240.6589,170.4265,222.0725,267.8619,356.0714,32.8818,289.2074,52.737,59.3346,314.8611,Moon opp Mars; Venus sq Mars
+901,1990,Engineer,28.0035,49.311,45.2086,20.8424,169.8081,108.921,273.6027,86.6782,141.5688,278.6111,Sun conj Venus; Moon conj Mercury; Venus sq Jupiter
+902,1995,Scientist,127.797,301.9138,117.5474,87.3042,217.9372,77.0038,59.8019,228.1572,99.9852,51.4382,Sun opp Moon; Sun sq Mars; Moon opp Mercury
+903,1993,Pilot,201.7749,176.4337,217.957,219.5702,200.8458,156.7488,125.345,9.1064,131.6474,167.7873,Sun conj Mars; Mercury conj Venus; Mercury sq Saturn; Venus sq Saturn
+904,1991,Scientist,262.2569,201.5258,290.1393,304.44,137.6847,64.442,269.1463,3.8421,159.149,189.3609,Sun conj Saturn; Moon sq Mercury
+905,1980,Scientist,211.0278,118.2426,234.0461,250.9453,181.0056,4.678,98.29,232.9985,231.0027,143.3858,Sun sq Moon; Mars opp Jupiter; Jupiter sq Saturn
+906,1988,Scientist,98.7026,20.6017,102.7447,53.6235,258.4906,169.4913,218.7167,163.6131,62.5575,269.977,Sun conj Mercury; Mars sq Jupiter
+907,2000,Scientist,270.2111,290.675,244.3499,224.9794,321.9354,55.149,265.0306,313.5288,47.3934,151.0461,Sun conj Saturn; Mars sq Jupiter
+908,1983,Scientist,20.1773,22.4372,357.6359,24.4093,354.0252,69.9057,221.0414,6.0028,301.4185,305.3628,Sun conj Moon; Sun conj Venus; Moon conj Venus; Mercury conj Mars
+909,1990,Scientist,323.1851,355.0573,335.6247,310.3458,5.1016,239.2183,149.8963,240.3801,22.134,69.4584,Sun opp Saturn; Mercury opp Saturn; Jupiter sq Saturn
+910,1996,Scientist,53.105,95.9889,34.7698,9.3778,219.0704,247.938,147.3305,228.7079,303.1647,338.7924,Sun sq Saturn; Moon sq Venus; Mercury opp Mars
+911,1989,Engineer,98.5547,126.2465,89.6761,105.0994,250.6652,203.8281,166.6819,41.8542,32.6022,262.6381,Sun conj Venus
+912,1985,Pilot,114.3005,225.585,87.4265,82.5567,3.7579,229.6604,165.7257,315.7914,339.5654,110.8016,Moon conj Jupiter; Mercury conj Venus
+913,2000,Pilot,339.3567,311.2509,353.2115,2.2153,111.7753,136.5518,103.3476,100.4268,203.4144,149.0338,Moon opp Jupiter
+914,1986,Pilot,98.2078,71.7209,125.0474,75.1058,158.2554,33.2683,127.8551,130.9008,278.0534,188.2954,Moon conj Venus; Moon sq Mars; Mercury sq Jupiter; Mercury conj Saturn; Jupiter sq Saturn
+915,2000,Pilot,247.3344,341.8794,252.1068,214.282,204.7361,357.752,156.1872,232.5629,245.5264,103.928,Sun sq Moon; Sun conj Mercury; Sun sq Saturn; Moon sq Mercury; Moon opp Saturn; Mercury sq Saturn
+916,1990,Physician,251.8754,181.3555,270.3474,280.1277,32.6727,278.4272,92.957,168.3678,11.3213,41.5073,Moon sq Mercury; Moon sq Saturn; Mercury opp Saturn; Venus conj Jupiter; Venus opp Saturn; Jupiter opp Saturn
+917,2000,Pilot,67.1132,50.3335,71.9751,54.8523,136.0477,211.8207,12.1859,252.4638,226.6099,312.9585,Sun conj Mercury; Moon conj Venus; Moon sq Mars
+918,1980,Engineer,57.1502,171.1785,48.0038,95.8362,67.3601,128.8816,58.5884,196.8401,270.7363,158.0431,Sun conj Saturn
+919,1999,Pilot,164.3204,207.3475,160.6787,154.6565,300.2747,90.9269,134.3573,121.6362,244.2801,108.0624,Sun conj Mercury; Moon sq Mars; Mercury conj Venus
+920,1987,Scientist,274.7423,324.3116,275.1321,267.1569,278.6661,343.4335,144.27,10.2799,184.3936,332.0473,Sun conj Mercury; Sun conj Venus; Sun conj Mars; Moon opp Saturn; Mercury conj Venus; Mercury conj Mars
+921,1999,Scientist,347.4848,339.4247,330.5987,32.8379,270.666,46.7607,119.933,345.5688,349.317,111.3385,Venus sq Saturn
+922,1984,Engineer,288.5363,165.1369,269.7954,240.6172,53.0968,317.8637,108.4616,28.9351,85.0261,73.1959,Sun opp Saturn; Venus opp Mars; Mars sq Jupiter
+923,1982,Physician,260.6884,199.9254,276.1225,213.1631,57.3587,35.9689,197.9385,141.857,76.4971,170.0301,Moon conj Saturn; Venus opp Jupiter
+924,1992,Pilot,299.2849,254.2407,314.0161,260.4841,46.2609,274.6959,48.0695,278.3738,323.2877,295.1248,Moon conj Venus; Mercury sq Mars; Mercury sq Saturn; Mars conj Saturn
+925,1993,Scientist,214.898,192.2815,206.3226,231.2062,349.2812,9.6827,318.8117,64.1376,84.6567,130.421,Moon opp Jupiter; Venus sq Saturn
+926,1996,Pilot,296.3657,219.8039,310.4601,336.166,232.4078,49.7088,67.6694,76.0436,156.7442,122.2512,Moon sq Mercury; Venus sq Saturn; Mars opp Jupiter
+927,2000,Engineer,64.7552,54.2691,54.1764,81.5814,173.0347,93.967,343.8061,64.6265,143.3578,186.2455,Moon conj Mercury; Venus sq Mars
+928,1983,Engineer,167.3722,29.7506,177.7918,129.1071,310.4879,289.2781,4.4008,114.8493,206.8856,138.2365,Mercury opp Saturn; Venus opp Mars
+929,1994,Engineer,4.1719,152.0845,339.2245,356.9701,267.1434,41.745,290.565,326.9559,180.7422,281.1613,Sun conj Venus; Moon opp Mercury; Venus sq Mars
+930,1990,Scientist,303.9006,349.8373,282.1543,273.0692,152.6634,273.4599,313.3131,28.8033,2.5044,341.3524,Venus conj Jupiter
+931,1998,Engineer,92.8212,185.3627,99.2343,128.5529,156.5597,167.3147,14.344,312.4428,165.6903,18.0265,Sun sq Moon; Sun conj Mercury; Moon sq Mercury; Mercury sq Saturn
+932,1999,Scientist,247.0995,90.8376,237.9974,227.5294,294.901,195.3895,64.3421,128.4787,6.3068,116.8677,Sun opp Saturn; Mercury opp Saturn
+933,2000,Pilot,12.8214,40.206,25.8081,15.8232,142.6372,63.0841,192.5947,45.3797,52.072,177.6421,Sun conj Venus; Sun opp Saturn; Venus opp Saturn
+934,1988,Pilot,124.3391,164.8911,130.9046,164.5415,325.289,335.6159,295.3748,204.8646,14.6308,117.5719,Sun conj Mercury; Moon conj Venus
+935,1981,Engineer,52.8302,229.6132,74.2242,41.4938,352.8959,28.3554,333.8786,269.7361,152.1108,8.0581,Sun opp Moon
+936,1988,Scientist,259.7738,267.3666,236.2137,299.3591,347.4576,285.7121,205.5222,358.1706,221.6093,194.0967,Sun conj Moon; Sun sq Mars; Venus sq Saturn
+937,1987,Scientist,249.9326,206.401,233.9843,291.7385,98.9232,247.9908,66.8568,180.5627,16.4672,143.5214,Sun conj Jupiter; Sun opp Saturn; Moon sq Venus; Jupiter opp Saturn
+938,1985,Scientist,244.155,98.1646,238.9572,197.952,149.1569,46.7161,96.1392,215.6686,351.3231,114.5374,Sun conj Mercury; Sun sq Mars; Moon conj Saturn; Mercury sq Mars
+939,1987,Engineer,80.9369,255.2431,65.3161,91.63,262.139,219.3538,165.8319,151.4753,214.2831,194.9249,Sun opp Moon; Sun opp Mars; Sun sq Saturn; Moon conj Mars; Moon sq Saturn
+940,1995,Engineer,334.7542,159.9779,332.6232,358.041,75.8295,251.1811,242.2749,92.0493,11.6159,306.825,Sun opp Moon; Sun conj Mercury; Sun sq Saturn; Moon opp Mercury; Moon sq Mars; Moon sq Jupiter; Mercury sq Saturn; Mars opp Jupiter
+941,1982,Scientist,227.2983,202.0773,218.635,199.2232,354.5527,132.9089,105.0563,113.5217,242.8205,10.6432,Sun sq Jupiter; Moon conj Venus; Mercury sq Jupiter; Venus sq Saturn
+942,1999,Engineer,210.5773,224.7354,214.2113,202.455,275.3785,270.4998,102.1996,267.8587,356.2849,135.1024,Sun conj Mercury; Mars conj Jupiter; Mars opp Saturn
+943,1997,Scientist,47.4111,218.5638,66.9925,8.7211,78.5899,357.1671,205.4682,64.3041,57.2823,279.9089,
+944,1992,Scientist,198.0253,126.7289,182.2195,236.4694,100.3967,277.3799,226.8992,239.1244,247.2638,227.9241,Mercury sq Jupiter; Mars opp Jupiter
+945,2000,Scientist,114.399,192.8257,108.3607,148.8685,178.14,167.009,297.4098,161.8041,332.6078,63.9456,Sun conj Mercury; Sun opp Saturn; Moon sq Mercury
+946,1989,Physician,1.2015,35.3963,5.6903,353.339,150.577,67.995,10.4548,80.7093,219.4942,181.2101,Sun conj Mercury; Sun conj Venus; Mercury conj Saturn
+947,1982,Pilot,215.8445,263.5733,240.7919,199.0465,89.9787,204.9502,169.8889,32.7479,133.3065,267.4675,Moon opp Mars; Moon sq Saturn; Venus conj Jupiter
+948,2000,Pilot,140.1622,184.0808,122.9719,179.83,164.7968,260.3016,86.1535,169.9808,256.6053,71.9227,Moon conj Venus; Venus sq Saturn; Mars sq Jupiter; Jupiter opp Saturn
+949,1984,Pilot,105.4735,74.5226,103.2995,80.998,217.1696,356.2968,286.8313,350.2099,180.0774,40.0166,Sun conj Mercury; Sun opp Saturn; Moon conj Venus; Mercury opp Saturn; Venus sq Jupiter
+950,1999,Engineer,301.6352,313.9508,324.5324,277.1421,259.9367,25.1432,269.4991,245.5285,146.2848,187.1163,Venus conj Saturn
+951,1995,Pilot,310.3808,150.1523,296.9425,331.1146,43.5535,279.5748,232.9522,192.3015,8.5392,173.0907,Sun sq Mars; Moon opp Venus
+952,1981,Engineer,105.4667,143.4228,123.5164,131.2678,130.8144,257.9849,184.1615,233.8667,154.2919,44.6605,Mercury conj Venus; Mercury conj Mars; Venus conj Mars
+953,1984,Scientist,304.9453,272.8586,309.4148,332.9407,259.9179,131.9272,236.3533,51.102,87.5047,173.7328,Sun conj Mercury; Sun opp Jupiter; Mercury opp Jupiter
+954,1988,Scientist,34.9653,26.665,57.3202,34.1566,88.1022,93.5998,106.3051,160.0819,283.4546,251.8422,Sun conj Venus; Moon conj Venus; Mars conj Jupiter
+955,1998,Scientist,99.1076,12.8681,78.9488,101.1984,9.3386,316.8614,202.8742,256.9691,110.3986,257.7012,Sun sq Moon; Sun conj Venus; Sun sq Mars; Moon sq Venus; Moon conj Mars; Venus sq Mars
+956,1998,Pilot,228.202,171.1025,224.8343,208.5105,267.7439,250.2297,52.7494,105.2398,138.3216,229.2344,Sun conj Mercury; Sun opp Saturn; Mercury opp Saturn
+957,1980,Engineer,306.3309,209.9629,286.6392,259.4893,131.0982,183.093,313.2837,186.0545,171.7108,324.0014,Sun opp Mars; Sun conj Saturn; Mars opp Saturn
+958,1991,Scientist,231.7865,211.3688,231.8479,234.0269,136.0723,333.3896,233.4155,313.4816,173.5389,174.2394,Sun conj Mercury; Sun conj Venus; Sun sq Mars; Sun conj Saturn; Mercury conj Venus; Mercury sq Mars; Mercury conj Saturn; Venus conj Saturn
+959,1992,Engineer,5.1237,123.2521,354.445,338.6575,100.1936,280.0852,284.1387,233.9988,128.3405,165.3558,Sun sq Mars; Sun sq Jupiter; Mars opp Jupiter; Mars opp Saturn; Jupiter conj Saturn
+960,2000,Pilot,326.2687,302.3918,345.6305,353.4451,188.6826,82.2137,72.9108,239.1279,143.4568,35.5824,Mercury conj Venus; Mercury sq Saturn; Venus sq Jupiter
+961,1990,Engineer,182.6699,97.7305,208.5227,215.9441,193.5825,28.601,287.2504,160.7878,188.2616,88.0892,Sun sq Moon; Moon sq Mars; Mercury conj Venus; Mercury opp Jupiter; Venus opp Jupiter; Mars sq Saturn
+962,1985,Pilot,248.2917,234.2906,234.0165,266.4968,164.1838,14.4838,219.2896,198.7112,32.8893,68.4051,Sun sq Mars; Moon conj Mercury
+963,1982,Engineer,326.2107,274.205,324.9386,287.6447,317.3907,18.3898,284.4058,26.2996,172.1877,159.0833,Sun conj Mercury; Mercury conj Mars; Venus sq Jupiter; Venus conj Saturn; Jupiter sq Saturn
+964,1995,Pilot,71.0626,195.2528,55.1023,69.8368,204.9585,209.4169,310.0101,40.1486,319.1463,279.8625,Sun conj Venus; Mars conj Jupiter
+965,1986,Engineer,212.0175,228.5757,226.3279,259.2723,90.6292,146.5808,97.4676,227.2061,118.3102,173.9807,Moon conj Mercury; Mars conj Saturn
+966,1989,Scientist,342.5169,312.2139,328.4621,320.9445,202.0552,111.1694,158.4158,351.8024,340.4509,175.529,Sun opp Saturn; Mercury conj Venus; Mars sq Jupiter
+967,1990,Engineer,321.6122,183.4373,321.3763,290.7765,273.7576,242.2714,34.0445,310.3308,123.2754,247.3052,Sun conj Mercury; Moon sq Mars
+968,1985,Engineer,69.6944,39.1362,54.6753,51.1856,109.9382,275.9114,169.8752,246.5087,333.9185,75.7051,Mercury conj Venus
+969,1984,Pilot,116.5556,69.0855,110.745,85.0462,56.8595,238.5327,117.2453,185.9279,170.5591,214.2827,Sun conj Mercury; Sun conj Saturn; Mercury conj Saturn; Mars opp Jupiter
+970,1993,Engineer,280.7118,335.8237,279.1427,314.9106,109.3025,52.1951,120.14,127.4161,268.277,161.8948,Sun conj Mercury
+971,1993,Scientist,202.7831,274.5703,175.1008,245.0219,19.9107,147.1636,232.4854,50.3749,164.4803,98.7146,Sun opp Mars; Jupiter sq Saturn
+972,1986,Engineer,75.0993,106.1269,68.0139,57.9965,284.7312,117.2466,201.59,71.8028,77.3927,181.0596,Sun conj Mercury; Moon opp Mars; Moon sq Saturn; Jupiter sq Saturn
+973,1988,Engineer,38.4604,87.5296,28.6875,36.51,259.655,169.1538,349.6079,16.56,237.3906,247.6083,Sun conj Venus; Moon opp Mars; Mercury conj Venus; Mars sq Jupiter; Mars sq Saturn; Jupiter opp Saturn
+974,1995,Scientist,89.9446,211.0012,65.2663,47.3316,123.3691,193.6425,157.7248,102.3247,169.8627,317.1059,Moon sq Mars; Mercury sq Saturn
+975,1982,Engineer,116.8364,279.0874,112.0079,83.4066,54.151,107.588,71.998,31.6819,88.2816,206.1839,Sun conj Mercury; Mercury conj Jupiter
+976,1988,Engineer,200.4028,294.2316,211.0187,165.8877,277.1661,313.4611,251.7305,266.061,344.592,130.0427,Sun sq Moon; Venus sq Saturn
+977,1994,Engineer,269.0184,115.6562,253.7686,255.7899,71.6347,349.7179,93.2493,217.3021,335.7652,50.4972,Sun opp Saturn; Mercury conj Venus; Mercury opp Mars; Mercury sq Jupiter; Venus opp Mars; Venus sq Jupiter
+978,2000,Engineer,147.8804,142.6709,147.1164,104.4914,190.2231,328.6736,184.4142,5.8325,157.3945,11.5502,Sun conj Moon; Sun conj Mercury; Sun opp Jupiter; Moon conj Mercury; Moon opp Jupiter; Mercury opp Jupiter; Venus sq Mars; Mars conj Saturn
+979,1996,Engineer,314.3091,193.9714,302.1373,298.3494,24.1594,27.1989,33.1717,200.9846,40.4406,56.9606,Mercury conj Venus; Mercury sq Jupiter; Mercury sq Saturn; Venus sq Mars; Venus sq Jupiter; Venus sq Saturn; Mars conj Jupiter; Jupiter conj Saturn
+980,1996,Physician,304.6678,332.0989,310.8295,351.9909,270.6866,276.1615,155.1408,99.6714,162.4639,316.9946,Sun conj Mercury; Moon opp Saturn; Mars conj Jupiter
+981,1984,Engineer,234.1597,233.2224,225.1891,236.8203,249.331,295.2751,155.663,7.7341,206.9056,2.2874,Sun conj Moon; Sun conj Venus; Moon conj Venus; Mars sq Saturn
+982,1992,Engineer,6.7938,81.0828,2.7142,343.6437,80.2404,242.8338,117.5829,164.7912,239.5447,277.174,Sun conj Mercury; Moon conj Mars
+983,1998,Engineer,333.1284,321.5677,345.163,340.5065,67.9851,53.3822,111.0534,36.3227,192.0319,340.0181,Sun conj Venus; Sun sq Mars; Moon sq Jupiter; Mercury conj Venus; Venus sq Mars
+984,1981,Engineer,280.6068,194.4275,306.0678,264.043,113.521,82.8374,75.1706,109.0546,152.7421,97.5881,Sun sq Moon; Venus opp Jupiter; Jupiter conj Saturn
+985,1986,Pilot,278.0443,315.9495,302.93,241.8629,341.2849,9.1526,312.3118,307.5077,75.0904,17.7171,Sun sq Jupiter; Moon conj Saturn
+986,1994,Scientist,143.7042,74.0276,137.0124,173.8961,33.4267,63.0348,328.782,260.8266,43.8134,272.3783,Sun conj Mercury; Sun opp Saturn; Jupiter sq Saturn
+987,1983,Engineer,338.6505,266.6311,330.7203,26.2048,149.446,75.7179,32.6848,182.4877,172.0724,183.1447,Sun conj Mercury; Mercury opp Mars; Venus conj Saturn
+988,1994,Scientist,5.8124,136.8105,1.3331,50.123,36.0238,129.7413,111.5934,23.51,340.5386,234.7207,Sun conj Mercury; Moon sq Venus; Moon conj Jupiter; Mars sq Jupiter
+989,1987,Pilot,359.8944,231.6895,353.7168,357.1451,342.4713,98.8978,233.0495,116.3775,50.6649,89.6393,Sun conj Mercury; Sun conj Venus; Moon conj Saturn; Mercury conj Venus
+990,1998,Engineer,3.3386,50.4793,1.6481,319.0817,214.6336,75.5372,266.3457,105.5104,222.3198,296.3703,Sun conj Mercury; Moon sq Venus; Mercury sq Saturn
+991,1993,Scientist,62.0712,65.3813,83.2995,24.5728,58.4545,179.1199,110.1833,225.1125,327.2331,95.4653,Sun conj Moon; Sun conj Mars; Moon conj Mars; Mercury sq Jupiter; Venus sq Saturn
+992,1990,Engineer,10.2521,9.2988,343.848,7.4204,264.5823,51.9627,146.7556,194.211,274.5008,260.1082,Sun conj Moon; Sun conj Venus; Moon conj Venus; Jupiter sq Saturn
+993,1985,Engineer,56.9421,5.3778,79.1847,17.786,355.7489,40.4678,171.2482,354.0128,308.2106,193.2218,Mercury sq Saturn; Mars opp Saturn
+994,1984,Scientist,308.4896,291.393,280.5301,306.209,323.8376,92.4702,116.2355,194.395,344.4859,240.6355,Sun conj Venus; Moon opp Saturn
+995,1983,Pilot,172.0043,269.5388,191.7146,142.8479,78.952,46.7307,339.2241,81.1987,29.588,34.1241,Sun sq Mars
+996,1992,Scientist,101.6279,221.4052,87.6155,77.6923,262.8109,108.3989,255.7658,166.3737,212.6825,186.0856,Sun conj Jupiter; Mercury opp Mars; Venus opp Mars; Venus opp Saturn; Mars conj Saturn
+997,1988,Engineer,273.5617,151.9275,282.589,281.1811,336.4648,12.3211,326.1652,138.6108,17.2866,71.2426,Sun conj Venus; Moon opp Mars; Moon opp Saturn; Mercury conj Venus; Mercury sq Jupiter; Venus sq Jupiter
+998,1985,Engineer,5.1558,85.6186,359.3746,318.2802,173.0795,308.765,67.5894,313.0293,349.4807,146.0365,Sun conj Mercury; Moon sq Mercury; Moon sq Mars; Mercury opp Mars
+999,1986,Scientist,163.1497,94.6097,159.782,186.6659,235.9658,185.2167,121.4461,358.8069,67.075,122.7539,Sun conj Mercury; Moon sq Venus; Moon sq Jupiter; Venus conj Jupiter
