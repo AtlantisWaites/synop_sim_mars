@@ -57,6 +57,11 @@ fig1_conflict_distribution.png — Daily conflict histogram
 fig2_cumulative_incidents.png — Cumulative incidents (optional)
 synastry-mars-crew-white-paper.pdf — Full paper
 
+<img width="960" height="720" alt="results_mars_distribution" src="https://github.com/user-attachments/assets/1fe0be16-2875-47dd-92ec-dbc47f5d762d" />
+<img width="2000" height="1200" alt="fig2_cumulative_incidents" src="https://github.com/user-attachments/assets/c944ea9b-f8d8-4904-8159-344d8b11a4be" />
+<img width="2000" height="1200" alt="fig1_conflict_distribution" src="https://github.com/user-attachments/assets/eaa03f55-b68c-483c-9681-bb4bd4cc7551" />
+
+
 Calibration & Collaboration
 The model is calibrated to publicly available Expedition 13 data.
 Real crew birth records + conflict logs would enable precise tuning.
